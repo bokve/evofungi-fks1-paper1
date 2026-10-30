@@ -51,6 +51,6 @@ The original model-fitting modules use historical configurations and paths. The 
 
 Original experimental source: https://github.com/Landrylab/Durand_et_al_2026/tree/d08f8da6d4925ef0847e23140de4eb0a204c6092
 
-Read RIGHTS.md for license scope and third-party attribution. Public repository URL and archive DOI must be populated after the corresponding records actually exist. The release candidate is not a public deposit merely because the files are prepared.
+Read RIGHTS.md for license scope and third-party attribution. The public source repository is https://github.com/bokve/evofungi-fks1-paper1. The companion scientific-data record has a reserved version DOI: https://doi.org/10.5281/zenodo.23814961. This DOI is registered and becomes publicly resolvable only when the Zenodo dataset is published. GitHub code availability alone does not establish that the software release has been archived by Zenodo.
 
 The CBC plot renderer recreates the current figure compositions from their exact frozen source CSVs. Original statistical plotting modules are retained; font, layout and file metadata can differ between renders. The renderer does not change any scientific values.

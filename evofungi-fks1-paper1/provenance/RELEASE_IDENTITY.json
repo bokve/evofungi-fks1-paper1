@@ -1,0 +1,11 @@
+{
+  "prepared_date": "2026-10-29",
+  "release_version": "1.0.0",
+  "public_repository_url": null,
+  "archive_DOI": null,
+  "publication_status": "UNPUBLISHED_RELEASE_CANDIDATE",
+  "original_release_sha256": "f037f5999660f93a2a394628697e984269e39ddf0bc736a2c3d542b344c1e4d0",
+  "legacy_archive_sha256": "f372e43cf20173b9395556a249b10a91dbcbe203ad4e7ea30e9a885e6e3503a4",
+  "inference_reexecuted": false,
+  "historical_R_H3_refitted": false
+}

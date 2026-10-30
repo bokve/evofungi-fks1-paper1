@@ -1,0 +1,5 @@
+Creative Commons Attribution 4.0 International
+
+Newly authored documentation and new summary tables are licensed under CC BY 4.0.
+License text: https://creativecommons.org/licenses/by/4.0/legalcode.en
+This notice does not relicense third-party source data or model weights. See RIGHTS.md.

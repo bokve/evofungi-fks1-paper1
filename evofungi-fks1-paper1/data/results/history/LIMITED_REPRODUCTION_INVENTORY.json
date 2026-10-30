@@ -1,0 +1,15 @@
+{
+  "H3_arrays_freshly_reconstructed": false,
+  "fresh_historical_refits": false,
+  "hosted_API_recalled": false,
+  "hosted_immutable_checkpoint_SHA": "UNVERIFIED",
+  "preserved_tests": [
+    "NEW1 negative/uncertain",
+    "NEW2 primary and rank/aggregate sensitivity",
+    "M5 including varying GEMME estimability",
+    "Methods1-3",
+    "NEW3 M0-M3/F2 failures/F2B/H2/H3/H4B"
+  ],
+  "records_validated": 628,
+  "status_scope": "chosen Paper1 NEW3 integration complete; synthetic future scope deferred; full historical compute reproduction not claimed"
+}

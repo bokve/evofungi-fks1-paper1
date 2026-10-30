@@ -1,0 +1,29 @@
+{
+  "AA": 435,
+  "all_exported_values_match_source_NT_coefficients": true,
+  "canonical_genotype_AA_map_checked": true,
+  "exact_codons": 589,
+  "groups_with_distinct_NT_coefficients": 1064,
+  "measurement_limit": "Distinct nucleotide-level source coefficients retain shared assay/normalization/replicate dependence; historical weak reliability remains.",
+  "multi_codon_AA_condition_replicate_groups": 1064,
+  "not_AA_aggregate_copied_to_codons": true,
+  "not_independent_biological_ground_truth": true,
+  "residual_medians_reproduced": true,
+  "rows_checked": 5212,
+  "scope": "source-unit/row validation, not Method3 refit or new correlation",
+  "sources": {
+    "dna": {
+      "path": "/content/drive/MyDrive/EvoFungi_AMR/02_processed_data/MASTER_VARIANT_TABLE_v0.1_exact_codons.csv",
+      "sha256": "d0f966a442acf27cf1292d611b558d44ab398d165559104add1c066a642fbb98"
+    },
+    "method3_long": {
+      "path": "/content/drive/MyDrive/EvoFungi_AMR/03_qc/Z6C0_CODON_RESIDUAL_EXPERIMENTAL_LONG_v1.0.csv",
+      "sha256": "3af7d8d6e58f5f4b8f7f381def3d10dc99fd0e0f76030d0085fdf0cf380f0882"
+    },
+    "raw_nt_scores": {
+      "path": "/content/drive/MyDrive/EvoFungi_AMR/01_raw_data/Durand_et_al_2026_d08f8da6d492/all_scores.csv",
+      "sha256": "1682e41b9650cdd6d0c179fb41a3aa8bc90e05ef7e19b6c75b3cbb19011f3174"
+    }
+  },
+  "status": "EXECUTED_VALIDATED"
+}

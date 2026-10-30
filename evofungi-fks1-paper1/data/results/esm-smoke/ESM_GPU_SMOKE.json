@@ -1,0 +1,277 @@
+{
+  "WT_self_zero": true,
+  "actual_weights_loaded": true,
+  "boundary_token_checks": [
+    {
+      "end_0based_exclusive": 1022,
+      "local_index_0based": 0,
+      "position": 1,
+      "start_0based": 0,
+      "target_token": 1,
+      "tokens": 1024
+    },
+    {
+      "end_0based_exclusive": 1149,
+      "local_index_0based": 511,
+      "position": 639,
+      "start_0based": 127,
+      "target_token": 512,
+      "tokens": 1024
+    },
+    {
+      "end_0based_exclusive": 1150,
+      "local_index_0based": 511,
+      "position": 640,
+      "start_0based": 128,
+      "target_token": 512,
+      "tokens": 1024
+    },
+    {
+      "end_0based_exclusive": 1151,
+      "local_index_0based": 511,
+      "position": 641,
+      "start_0based": 129,
+      "target_token": 512,
+      "tokens": 1024
+    },
+    {
+      "end_0based_exclusive": 1152,
+      "local_index_0based": 511,
+      "position": 642,
+      "start_0based": 130,
+      "target_token": 512,
+      "tokens": 1024
+    },
+    {
+      "end_0based_exclusive": 1153,
+      "local_index_0based": 511,
+      "position": 643,
+      "start_0based": 131,
+      "target_token": 512,
+      "tokens": 1024
+    },
+    {
+      "end_0based_exclusive": 1154,
+      "local_index_0based": 511,
+      "position": 644,
+      "start_0based": 132,
+      "target_token": 512,
+      "tokens": 1024
+    },
+    {
+      "end_0based_exclusive": 1155,
+      "local_index_0based": 511,
+      "position": 645,
+      "start_0based": 133,
+      "target_token": 512,
+      "tokens": 1024
+    },
+    {
+      "end_0based_exclusive": 1156,
+      "local_index_0based": 511,
+      "position": 646,
+      "start_0based": 134,
+      "target_token": 512,
+      "tokens": 1024
+    },
+    {
+      "end_0based_exclusive": 1157,
+      "local_index_0based": 511,
+      "position": 647,
+      "start_0based": 135,
+      "target_token": 512,
+      "tokens": 1024
+    },
+    {
+      "end_0based_exclusive": 1200,
+      "local_index_0based": 511,
+      "position": 690,
+      "start_0based": 178,
+      "target_token": 512,
+      "tokens": 1024
+    },
+    {
+      "end_0based_exclusive": 1201,
+      "local_index_0based": 511,
+      "position": 691,
+      "start_0based": 179,
+      "target_token": 512,
+      "tokens": 1024
+    },
+    {
+      "end_0based_exclusive": 1202,
+      "local_index_0based": 511,
+      "position": 692,
+      "start_0based": 180,
+      "target_token": 512,
+      "tokens": 1024
+    },
+    {
+      "end_0based_exclusive": 1203,
+      "local_index_0based": 511,
+      "position": 693,
+      "start_0based": 181,
+      "target_token": 512,
+      "tokens": 1024
+    },
+    {
+      "end_0based_exclusive": 1204,
+      "local_index_0based": 511,
+      "position": 694,
+      "start_0based": 182,
+      "target_token": 512,
+      "tokens": 1024
+    },
+    {
+      "end_0based_exclusive": 1205,
+      "local_index_0based": 511,
+      "position": 695,
+      "start_0based": 183,
+      "target_token": 512,
+      "tokens": 1024
+    },
+    {
+      "end_0based_exclusive": 1206,
+      "local_index_0based": 511,
+      "position": 696,
+      "start_0based": 184,
+      "target_token": 512,
+      "tokens": 1024
+    },
+    {
+      "end_0based_exclusive": 1207,
+      "local_index_0based": 511,
+      "position": 697,
+      "start_0based": 185,
+      "target_token": 512,
+      "tokens": 1024
+    },
+    {
+      "end_0based_exclusive": 1208,
+      "local_index_0based": 511,
+      "position": 698,
+      "start_0based": 186,
+      "target_token": 512,
+      "tokens": 1024
+    },
+    {
+      "end_0based_exclusive": 1209,
+      "local_index_0based": 511,
+      "position": 699,
+      "start_0based": 187,
+      "target_token": 512,
+      "tokens": 1024
+    },
+    {
+      "end_0based_exclusive": 1210,
+      "local_index_0based": 511,
+      "position": 700,
+      "start_0based": 188,
+      "target_token": 512,
+      "tokens": 1024
+    },
+    {
+      "end_0based_exclusive": 1448,
+      "local_index_0based": 511,
+      "position": 938,
+      "start_0based": 426,
+      "target_token": 512,
+      "tokens": 1024
+    },
+    {
+      "end_0based_exclusive": 1863,
+      "local_index_0based": 511,
+      "position": 1353,
+      "start_0based": 841,
+      "target_token": 512,
+      "tokens": 1024
+    },
+    {
+      "end_0based_exclusive": 1864,
+      "local_index_0based": 511,
+      "position": 1354,
+      "start_0based": 842,
+      "target_token": 512,
+      "tokens": 1024
+    },
+    {
+      "end_0based_exclusive": 1865,
+      "local_index_0based": 511,
+      "position": 1355,
+      "start_0based": 843,
+      "target_token": 512,
+      "tokens": 1024
+    },
+    {
+      "end_0based_exclusive": 1866,
+      "local_index_0based": 511,
+      "position": 1356,
+      "start_0based": 844,
+      "target_token": 512,
+      "tokens": 1024
+    },
+    {
+      "end_0based_exclusive": 1867,
+      "local_index_0based": 511,
+      "position": 1357,
+      "start_0based": 845,
+      "target_token": 512,
+      "tokens": 1024
+    },
+    {
+      "end_0based_exclusive": 1868,
+      "local_index_0based": 511,
+      "position": 1358,
+      "start_0based": 846,
+      "target_token": 512,
+      "tokens": 1024
+    },
+    {
+      "end_0based_exclusive": 1869,
+      "local_index_0based": 511,
+      "position": 1359,
+      "start_0based": 847,
+      "target_token": 512,
+      "tokens": 1024
+    },
+    {
+      "end_0based_exclusive": 1870,
+      "local_index_0based": 511,
+      "position": 1360,
+      "start_0based": 848,
+      "target_token": 512,
+      "tokens": 1024
+    },
+    {
+      "end_0based_exclusive": 1876,
+      "local_index_0based": 1021,
+      "position": 1876,
+      "start_0based": 854,
+      "target_token": 1022,
+      "tokens": 1024
+    }
+  ],
+  "checkpoint": {
+    "GPU": "Tesla T4",
+    "acquisition_url": "https://dl.fbaipublicfiles.com/fair-esm/models/esm1v_t33_650M_UR90S_1.pt",
+    "bytes": 7828635339,
+    "checkpoint": "esm1v_t33_650M_UR90S_1",
+    "device": "cuda:0",
+    "dtype": "torch.float32",
+    "eval": true,
+    "remote_cache_path": "/content/evofungi-model-cache/checkpoints/esm1v_t33_650M_UR90S_1.pt",
+    "scoring": "masked_marginal_ALT_minus_WT",
+    "seed": 20261018,
+    "sha256": "9519ee60f1cddad3c101afb1f42612499e188534969c3f682e94850870f70433",
+    "token_capacity": 1024
+  },
+  "determinism_caveat": "Same-runtime numerical repeat check, not cross-hardware bitwise reproducibility.",
+  "finite_canonical_AA": true,
+  "max_GPU_memory_bytes": 2891650048,
+  "official_formula_max_absolute_difference": 0.0,
+  "phenotype_association_computed": false,
+  "repeat_max_absolute_difference": 0.0,
+  "status": "EXECUTED_VALIDATED",
+  "tolerance_absolute": 1e-05,
+  "tolerance_relative": 1e-05
+}

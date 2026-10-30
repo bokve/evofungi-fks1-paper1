@@ -1,0 +1,18 @@
+{
+  "status": "PASS",
+  "scope": "Fixed-score and saved-OOF replay only; no inference, phenotype refitting, R/H3 refitting, or new biological predictions",
+  "AA": 435,
+  "positions": 28,
+  "exact_genotypes": 589,
+  "summary_points_checked": 384,
+  "fixed_score_position_correlations": 1152,
+  "conditional_intervals_checked": 144,
+  "saved_fold_audits_checked": 768,
+  "maximum_summary_absolute_difference": 8.569533971325427e-16,
+  "python": "3.12.14",
+  "packages": {
+    "numpy": "2.3.5",
+    "pandas": "2.2.3",
+    "scipy": "1.17.0"
+  }
+}

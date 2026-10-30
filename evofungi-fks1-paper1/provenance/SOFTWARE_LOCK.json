@@ -1,0 +1,129 @@
+{
+  "generating_stage_environments": {
+    "compare_completion": {
+      "packages": {
+        "matplotlib": "3.10.0",
+        "numpy": "2.1.3",
+        "pandas": "2.2.3",
+        "scipy": "1.16.3"
+      },
+      "platform": "Linux-6.6.122+-x86_64-with-glibc2.39",
+      "python": "3.13.16"
+    },
+    "esm-finalize_completion": {
+      "packages": {
+        "fair-esm": "2.0.0",
+        "numpy": "2.1.3",
+        "pandas": "2.2.3",
+        "torch": "2.11.0+cu130"
+      },
+      "platform": "Linux-6.6.122+-x86_64-with-glibc2.39",
+      "python": "3.13.15"
+    },
+    "esm-score_completion": {
+      "packages": {
+        "fair-esm": "2.0.0",
+        "numpy": "2.1.3",
+        "pandas": "2.2.3",
+        "torch": "2.11.0+cu130"
+      },
+      "platform": "Linux-6.6.122+-x86_64-with-glibc2.39",
+      "python": "3.13.15"
+    },
+    "esm-smoke_completion": {
+      "packages": {
+        "fair-esm": "2.0.0",
+        "numpy": "2.1.3",
+        "pandas": "2.2.3",
+        "torch": "2.11.0+cu130"
+      },
+      "platform": "Linux-6.6.122+-x86_64-with-glibc2.39",
+      "python": "3.13.15"
+    },
+    "figures_completion": {
+      "packages": {
+        "matplotlib": "3.10.0",
+        "numpy": "2.1.3",
+        "pandas": "2.2.3",
+        "scipy": "1.16.3"
+      },
+      "platform": "Linux-6.6.122+-x86_64-with-glibc2.39",
+      "python": "3.13.16"
+    },
+    "history_completion": {
+      "packages": {
+        "matplotlib": "3.10.0",
+        "numpy": "2.1.3",
+        "pandas": "2.2.3",
+        "scipy": "1.16.3"
+      },
+      "platform": "Linux-6.6.122+-x86_64-with-glibc2.39",
+      "python": "3.13.16"
+    },
+    "hs2-core_completion": {
+      "packages": {
+        "matplotlib": "3.10.0",
+        "numpy": "2.1.3",
+        "pandas": "2.2.3",
+        "scipy": "1.16.3"
+      },
+      "platform": "Linux-6.6.122+-x86_64-with-glibc2.39",
+      "python": "3.13.16"
+    },
+    "lineage_completion": {
+      "packages": {
+        "matplotlib": "3.10.0",
+        "numpy": "2.1.3",
+        "pandas": "2.2.3",
+        "scipy": "1.16.3"
+      },
+      "platform": "Linux-6.6.122+-x86_64-with-glibc2.39",
+      "python": "3.13.16"
+    },
+    "panels_completion": {
+      "packages": {
+        "matplotlib": "3.10.0",
+        "numpy": "2.1.3",
+        "pandas": "2.2.3",
+        "scipy": "1.16.3"
+      },
+      "platform": "Linux-6.6.122+-x86_64-with-glibc2.39",
+      "python": "3.13.16"
+    },
+    "release_export_tools": {
+      "R": "Rscript (R) version 4.6.1 (2026-06-24)",
+      "python-docx": "1.2.0"
+    },
+    "support_completion": {
+      "packages": {
+        "matplotlib": "3.10.0",
+        "numpy": "2.1.3",
+        "pandas": "2.2.3",
+        "scipy": "1.16.3"
+      },
+      "platform": "Linux-6.6.122+-x86_64-with-glibc2.39",
+      "python": "3.13.16"
+    },
+    "verify_completion": {
+      "packages": {
+        "matplotlib": "3.10.0",
+        "numpy": "2.1.3",
+        "pandas": "2.2.3",
+        "scipy": "1.16.3"
+      },
+      "platform": "Linux-6.6.122+-x86_64-with-glibc2.39",
+      "python": "3.13.16"
+    },
+    "writeup_completion": {
+      "packages": {
+        "matplotlib": "3.10.0",
+        "numpy": "2.1.3",
+        "pandas": "2.2.3",
+        "scipy": "1.16.3"
+      },
+      "platform": "Linux-6.6.122+-x86_64-with-glibc2.39",
+      "python": "3.13.16"
+    }
+  },
+  "scope": "Actual Python/platform and relevant package versions for each completed stage; GPU generating environment retained under CPU reuse. Hosted historical installed environment is not reconstructed."
+}

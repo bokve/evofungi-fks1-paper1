@@ -1,0 +1,432 @@
+{
+  "actual_checkpoint_repeat": {
+    "actual_scores_repeated": 19,
+    "atol": 1e-05,
+    "checkpoint": "esm1v_t33_650M_UR90S_1",
+    "checkpoint_byte_gate": {
+      "checkpoint_count": 5,
+      "lock_sha256": "de71c6071490f8ffeaf3cade4a089ac35a2adbb8fd5512cca6cf630497041910",
+      "status": "EXECUTED_VALIDATED"
+    },
+    "checkpoint_sha256": "9519ee60f1cddad3c101afb1f42612499e188534969c3f682e94850870f70433",
+    "maximum_absolute_difference": 1.1102230246251565e-16,
+    "position": 639,
+    "rtol": 1e-05,
+    "scope": "one actual cached-checkpoint position repeat; no phenotype association; no full inference rerun",
+    "status": "EXECUTED_VALIDATED"
+  },
+  "categorical_support_point_checks": 6,
+  "claim_source_ledger": "/content/drive/MyDrive/EvoFungi_AMR/05_results/PAPER1_EXECUTION_2026_10_18/writeup/7c7ea4c3541753f7764a39c6fa914088a1c1a67eb53f4f4da4eef8d70b57cd42/attempt-8306ae5d805148c5a3e4170c8efb6249/CLAIM_LEDGER.csv",
+  "clean_tests_returncode": 0,
+  "conditional_interval_checks": 144,
+  "hosted_Evo2_immutable_SHA": "UNVERIFIED",
+  "negative_effects_allowed": true,
+  "original_Evo2_API_recalled": false,
+  "scope": "clean-process saved-metric/interval/ensemble/fold/deletion/source checks and selected cached checkpoint repeat; not full historical/model-inference rerun",
+  "selected_metric_checks": [
+    {
+      "actual": 0.08523645707431138,
+      "check": "independent_saved_OOF_pooled_Q2",
+      "endpoint": "drug_specific_anidulafungin",
+      "expected": 0.0852364570743113,
+      "model": "GEMME_ESM",
+      "scenario": "AUTHOR_REPLACEMENT435"
+    },
+    {
+      "actual": 0.08347853184968201,
+      "check": "independent_saved_OOF_pooled_Q2",
+      "endpoint": "drug_specific_anidulafungin",
+      "expected": 0.083478531849682,
+      "model": "GEMME_ESM_Evo2",
+      "scenario": "AUTHOR_REPLACEMENT435"
+    },
+    {
+      "actual": 0.004411764705882365,
+      "check": "independent_saved_OOF_median_paired_rho",
+      "endpoint": "drug_specific_anidulafungin",
+      "expected": 0.0044117647058823,
+      "scenario": "AUTHOR_REPLACEMENT435"
+    },
+    {
+      "actual": 0.0817267705686413,
+      "check": "independent_saved_OOF_pooled_Q2",
+      "endpoint": "drug_specific_caspofungin",
+      "expected": 0.0817267705686416,
+      "model": "GEMME_ESM",
+      "scenario": "AUTHOR_REPLACEMENT435"
+    },
+    {
+      "actual": 0.05673783849110525,
+      "check": "independent_saved_OOF_pooled_Q2",
+      "endpoint": "drug_specific_caspofungin",
+      "expected": 0.0567378384911054,
+      "model": "GEMME_ESM_Evo2",
+      "scenario": "AUTHOR_REPLACEMENT435"
+    },
+    {
+      "actual": -0.007894736842105267,
+      "check": "independent_saved_OOF_median_paired_rho",
+      "endpoint": "drug_specific_caspofungin",
+      "expected": -0.0078947368421052,
+      "scenario": "AUTHOR_REPLACEMENT435"
+    },
+    {
+      "actual": 0.04976414127469686,
+      "check": "independent_saved_OOF_pooled_Q2",
+      "endpoint": "drug_specific_micafungin",
+      "expected": 0.0497641412746968,
+      "model": "GEMME_ESM",
+      "scenario": "AUTHOR_REPLACEMENT435"
+    },
+    {
+      "actual": 0.02199552951710526,
+      "check": "independent_saved_OOF_pooled_Q2",
+      "endpoint": "drug_specific_micafungin",
+      "expected": 0.0219955295171052,
+      "model": "GEMME_ESM_Evo2",
+      "scenario": "AUTHOR_REPLACEMENT435"
+    },
+    {
+      "actual": -0.008255933952528369,
+      "check": "independent_saved_OOF_median_paired_rho",
+      "endpoint": "drug_specific_micafungin",
+      "expected": -0.0082559339525283,
+      "scenario": "AUTHOR_REPLACEMENT435"
+    },
+    {
+      "actual": 0.02870141825830197,
+      "check": "independent_saved_OOF_pooled_Q2",
+      "endpoint": "fitness_none",
+      "expected": 0.0287014182583017,
+      "model": "GEMME_ESM",
+      "scenario": "AUTHOR_REPLACEMENT435"
+    },
+    {
+      "actual": 0.013886847086794663,
+      "check": "independent_saved_OOF_pooled_Q2",
+      "endpoint": "fitness_none",
+      "expected": 0.0138868470867946,
+      "model": "GEMME_ESM_Evo2",
+      "scenario": "AUTHOR_REPLACEMENT435"
+    },
+    {
+      "actual": 0.11470588235294113,
+      "check": "independent_saved_OOF_median_paired_rho",
+      "endpoint": "fitness_none",
+      "expected": 0.1147058823529411,
+      "scenario": "AUTHOR_REPLACEMENT435"
+    },
+    {
+      "actual": 0.01985685404588544,
+      "check": "independent_saved_OOF_pooled_Q2",
+      "endpoint": "drug_specific_anidulafungin",
+      "expected": 0.0198568540458853,
+      "model": "GEMME_ESM",
+      "scenario": "AUTHOR_REPLACEMENT435_NO_HS2"
+    },
+    {
+      "actual": -0.006205555907057292,
+      "check": "independent_saved_OOF_pooled_Q2",
+      "endpoint": "drug_specific_anidulafungin",
+      "expected": -0.006205555907057,
+      "model": "GEMME_ESM_Evo2",
+      "scenario": "AUTHOR_REPLACEMENT435_NO_HS2"
+    },
+    {
+      "actual": 0.007327141382868951,
+      "check": "independent_saved_OOF_median_paired_rho",
+      "endpoint": "drug_specific_anidulafungin",
+      "expected": 0.0073271413828689,
+      "scenario": "AUTHOR_REPLACEMENT435_NO_HS2"
+    },
+    {
+      "actual": 0.024344932082863924,
+      "check": "independent_saved_OOF_pooled_Q2",
+      "endpoint": "drug_specific_caspofungin",
+      "expected": 0.0243449320828639,
+      "model": "GEMME_ESM",
+      "scenario": "AUTHOR_REPLACEMENT435_NO_HS2"
+    },
+    {
+      "actual": 0.0534510951424807,
+      "check": "independent_saved_OOF_pooled_Q2",
+      "endpoint": "drug_specific_caspofungin",
+      "expected": 0.0534510951424807,
+      "model": "GEMME_ESM_Evo2",
+      "scenario": "AUTHOR_REPLACEMENT435_NO_HS2"
+    },
+    {
+      "actual": 0.021646026831785348,
+      "check": "independent_saved_OOF_median_paired_rho",
+      "endpoint": "drug_specific_caspofungin",
+      "expected": 0.0216460268317853,
+      "scenario": "AUTHOR_REPLACEMENT435_NO_HS2"
+    },
+    {
+      "actual": 0.010757352227078631,
+      "check": "independent_saved_OOF_pooled_Q2",
+      "endpoint": "drug_specific_micafungin",
+      "expected": 0.0107573522270788,
+      "model": "GEMME_ESM",
+      "scenario": "AUTHOR_REPLACEMENT435_NO_HS2"
+    },
+    {
+      "actual": 0.049032818087435315,
+      "check": "independent_saved_OOF_pooled_Q2",
+      "endpoint": "drug_specific_micafungin",
+      "expected": 0.0490328180874353,
+      "model": "GEMME_ESM_Evo2",
+      "scenario": "AUTHOR_REPLACEMENT435_NO_HS2"
+    },
+    {
+      "actual": 0.055882352941176425,
+      "check": "independent_saved_OOF_median_paired_rho",
+      "endpoint": "drug_specific_micafungin",
+      "expected": 0.0558823529411764,
+      "scenario": "AUTHOR_REPLACEMENT435_NO_HS2"
+    },
+    {
+      "actual": 0.0643660405966664,
+      "check": "independent_saved_OOF_pooled_Q2",
+      "endpoint": "fitness_none",
+      "expected": 0.0643660405966664,
+      "model": "GEMME_ESM",
+      "scenario": "AUTHOR_REPLACEMENT435_NO_HS2"
+    },
+    {
+      "actual": 0.14214012546077137,
+      "check": "independent_saved_OOF_pooled_Q2",
+      "endpoint": "fitness_none",
+      "expected": 0.1421401254607714,
+      "model": "GEMME_ESM_Evo2",
+      "scenario": "AUTHOR_REPLACEMENT435_NO_HS2"
+    },
+    {
+      "actual": 0.12443240454076367,
+      "check": "independent_saved_OOF_median_paired_rho",
+      "endpoint": "fitness_none",
+      "expected": 0.1244324045407636,
+      "scenario": "AUTHOR_REPLACEMENT435_NO_HS2"
+    },
+    {
+      "actual": 0.08569926561356611,
+      "check": "independent_saved_OOF_pooled_Q2",
+      "endpoint": "drug_specific_anidulafungin",
+      "expected": 0.0856992656135661,
+      "model": "GEMME_ESM",
+      "scenario": "RAW435"
+    },
+    {
+      "actual": 0.08402198206106826,
+      "check": "independent_saved_OOF_pooled_Q2",
+      "endpoint": "drug_specific_anidulafungin",
+      "expected": 0.0840219820610684,
+      "model": "GEMME_ESM_Evo2",
+      "scenario": "RAW435"
+    },
+    {
+      "actual": 0.004411764705882365,
+      "check": "independent_saved_OOF_median_paired_rho",
+      "endpoint": "drug_specific_anidulafungin",
+      "expected": 0.0044117647058823,
+      "scenario": "RAW435"
+    },
+    {
+      "actual": 0.08183048915516011,
+      "check": "independent_saved_OOF_pooled_Q2",
+      "endpoint": "drug_specific_caspofungin",
+      "expected": 0.0818304891551601,
+      "model": "GEMME_ESM",
+      "scenario": "RAW435"
+    },
+    {
+      "actual": 0.05683996272597547,
+      "check": "independent_saved_OOF_pooled_Q2",
+      "endpoint": "drug_specific_caspofungin",
+      "expected": 0.0568399627259754,
+      "model": "GEMME_ESM_Evo2",
+      "scenario": "RAW435"
+    },
+    {
+      "actual": -0.007894736842105267,
+      "check": "independent_saved_OOF_median_paired_rho",
+      "endpoint": "drug_specific_caspofungin",
+      "expected": -0.0078947368421052,
+      "scenario": "RAW435"
+    },
+    {
+      "actual": 0.0529667451834781,
+      "check": "independent_saved_OOF_pooled_Q2",
+      "endpoint": "drug_specific_micafungin",
+      "expected": 0.0529667451834781,
+      "model": "GEMME_ESM",
+      "scenario": "RAW435"
+    },
+    {
+      "actual": 0.025157318238388293,
+      "check": "independent_saved_OOF_pooled_Q2",
+      "endpoint": "drug_specific_micafungin",
+      "expected": 0.0251573182383882,
+      "model": "GEMME_ESM_Evo2",
+      "scenario": "RAW435"
+    },
+    {
+      "actual": -0.021723426212590317,
+      "check": "independent_saved_OOF_median_paired_rho",
+      "endpoint": "drug_specific_micafungin",
+      "expected": -0.0217234262125903,
+      "scenario": "RAW435"
+    },
+    {
+      "actual": 0.02890163090247877,
+      "check": "independent_saved_OOF_pooled_Q2",
+      "endpoint": "fitness_none",
+      "expected": 0.0289016309024787,
+      "model": "GEMME_ESM",
+      "scenario": "RAW435"
+    },
+    {
+      "actual": 0.013863186684062057,
+      "check": "independent_saved_OOF_pooled_Q2",
+      "endpoint": "fitness_none",
+      "expected": 0.0138631866840625,
+      "model": "GEMME_ESM_Evo2",
+      "scenario": "RAW435"
+    },
+    {
+      "actual": 0.10807533539731681,
+      "check": "independent_saved_OOF_median_paired_rho",
+      "endpoint": "fitness_none",
+      "expected": 0.1080753353973168,
+      "scenario": "RAW435"
+    },
+    {
+      "actual": 0.020361895932668572,
+      "check": "independent_saved_OOF_pooled_Q2",
+      "endpoint": "drug_specific_anidulafungin",
+      "expected": 0.0203618959326685,
+      "model": "GEMME_ESM",
+      "scenario": "RAW435_NO_HS2"
+    },
+    {
+      "actual": -0.005718676944490797,
+      "check": "independent_saved_OOF_pooled_Q2",
+      "endpoint": "drug_specific_anidulafungin",
+      "expected": -0.0057186769444907,
+      "model": "GEMME_ESM_Evo2",
+      "scenario": "RAW435_NO_HS2"
+    },
+    {
+      "actual": 0.005005159958720345,
+      "check": "independent_saved_OOF_median_paired_rho",
+      "endpoint": "drug_specific_anidulafungin",
+      "expected": 0.0050051599587203,
+      "scenario": "RAW435_NO_HS2"
+    },
+    {
+      "actual": 0.024486781219219766,
+      "check": "independent_saved_OOF_pooled_Q2",
+      "endpoint": "drug_specific_caspofungin",
+      "expected": 0.0244867812192197,
+      "model": "GEMME_ESM",
+      "scenario": "RAW435_NO_HS2"
+    },
+    {
+      "actual": 0.05355980538460392,
+      "check": "independent_saved_OOF_pooled_Q2",
+      "endpoint": "drug_specific_caspofungin",
+      "expected": 0.0535598053846039,
+      "model": "GEMME_ESM_Evo2",
+      "scenario": "RAW435_NO_HS2"
+    },
+    {
+      "actual": 0.021646026831785348,
+      "check": "independent_saved_OOF_median_paired_rho",
+      "endpoint": "drug_specific_caspofungin",
+      "expected": 0.0216460268317853,
+      "scenario": "RAW435_NO_HS2"
+    },
+    {
+      "actual": 0.014531569573820735,
+      "check": "independent_saved_OOF_pooled_Q2",
+      "endpoint": "drug_specific_micafungin",
+      "expected": 0.0145315695738207,
+      "model": "GEMME_ESM",
+      "scenario": "RAW435_NO_HS2"
+    },
+    {
+      "actual": 0.05146869784833219,
+      "check": "independent_saved_OOF_pooled_Q2",
+      "endpoint": "drug_specific_micafungin",
+      "expected": 0.0514686978483321,
+      "model": "GEMME_ESM_Evo2",
+      "scenario": "RAW435_NO_HS2"
+    },
+    {
+      "actual": 0.06617647058823532,
+      "check": "independent_saved_OOF_median_paired_rho",
+      "endpoint": "drug_specific_micafungin",
+      "expected": 0.0661764705882353,
+      "scenario": "RAW435_NO_HS2"
+    },
+    {
+      "actual": 0.06461892495249189,
+      "check": "independent_saved_OOF_pooled_Q2",
+      "endpoint": "fitness_none",
+      "expected": 0.0646189249524917,
+      "model": "GEMME_ESM",
+      "scenario": "RAW435_NO_HS2"
+    },
+    {
+      "actual": 0.14194944605357784,
+      "check": "independent_saved_OOF_pooled_Q2",
+      "endpoint": "fitness_none",
+      "expected": 0.1419494460535777,
+      "model": "GEMME_ESM_Evo2",
+      "scenario": "RAW435_NO_HS2"
+    },
+    {
+      "actual": 0.12443240454076367,
+      "check": "independent_saved_OOF_median_paired_rho",
+      "endpoint": "fitness_none",
+      "expected": 0.1244324045407636,
+      "scenario": "RAW435_NO_HS2"
+    }
+  ],
+  "source_fixture_changed_input_invalidation": "covered by clean test_stages/test_pipeline_cli; no source inputs mutated",
+  "source_raw_replacement_difference_gate": true,
+  "status": "EXECUTED_VALIDATED",
+  "visual_review": {
+    "PNG_sha256": {
+      "Fig1_ascertainment": "ffbb62bf01de6d78cbbfd3c2bd5751cb036b389d19113f2f7cc0179e7d66ed51",
+      "Fig2_matched_benchmark": "fe41d0dd1c728a9bddbe561fedf03f75e56896d2fb28086a29587c8fbc5b93e4",
+      "Fig3_slopes_and_increment": "118fd1eef3329a9e71f5407dc81ea96a49c68c1a3ea0660e2ffef5e47be03696",
+      "Fig4_NEW4_landscape": "fdba2f0af6ff3d905f0654e4c459d1734986facfadb94d58dc7626d2a432eeab",
+      "Fig5_codon_and_structure": "0fc14f7826f602fd094a4d24be47fddfc9095b32d1f4c08b4bd47b803f6363dc",
+      "FigS1_paired_zero_shot": "4c8582ead6a670873a5ac17fa10a9bc1fc5a8a1388492c5de5994c4a742e70f3",
+      "FigS2_author_landscape": "8df12be1df5a732a4879a57ccb3e59d691710aae7e4b40dd1e84d55120d4c507",
+      "FigS3_position_influence": "22316b6d028eb5888369c7b49af10bc811a200a8fa95deca8b72215e9fbc2235",
+      "FigS4_fixed_sensitivities": "84ff9443b50a94bef086f860b168babb8957665a3e3f72ebf88ca2c6089a8e92",
+      "FigS5_codon_representation": "181b761b83ea207acd2bf7fdc857c6e9e3d90d29ab51bb97486efbc446fbaa92",
+      "FigS6_historical_robustness": "9ad41b9eda01b78d171db738563bb3dab03f5f1040d078523d37764d12d291ad"
+    },
+    "formats": "PDF/SVG/300dpi PNG generated remotely; visual inspection used PNG rendering; source CSV and captions linked in figure index.",
+    "inspected_figures": [
+      "Fig1_ascertainment",
+      "Fig2_matched_benchmark",
+      "Fig3_slopes_and_increment",
+      "Fig4_NEW4_landscape",
+      "Fig5_codon_and_structure",
+      "FigS1_paired_zero_shot",
+      "FigS2_author_landscape",
+      "FigS3_position_influence",
+      "FigS4_fixed_sensitivities",
+      "FigS5_codon_representation",
+      "FigS6_historical_robustness"
+    ],
+    "inspected_utc": "2026-10-17T23:29:29.474118+00:00",
+    "scope": "All 11 actual PNGs viewed: labels/units/legends/clipping/order/colors/negative values/interval wording. Fig1 legend overlap corrected and revised actual render viewed; other final images are byte-identical to inspected initial renders.",
+    "status": "INSPECTED"
+  },
+  "zero_shot_point_checks": 96
+}

@@ -1,0 +1,8 @@
+check,n,max_abs_difference,n_difference_gt_tolerance,pass
+delta_plus_0_equals_ALT_minus_REF,589,5.3290705182007506e-15,0,True
+delta_plus_10_equals_ALT_minus_REF,589,7.105427357601002e-15,0,True
+delta_plus_25_equals_ALT_minus_REF,589,1.0658141036401504e-14,0,True
+delta_plus_50_equals_ALT_minus_REF,589,1.0658141036401504e-14,0,True
+primary_local53_equals_delta_codon_plus_50,589,0.0,0,True
+codon_components_reconstruct_local53,589,3.552713678800501e-15,0,True
+nested_0_10_25_50_reconstruction,589,0.0,0,True

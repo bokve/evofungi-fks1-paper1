@@ -1,0 +1,241 @@
+contrast_or_model,point,conditional_low,conditional_high,n_positions,interval_type,B,seed,endpoint,analysis,n_AA,metric,reason,scenario
+GEMME_ESM,0.0409841448541139,-0.0659340659340659,0.1323529411764706,28,"95% conditional hotspot-stratified position-resampling interval; fixed records, not generalization CI",10000.0,20261018.0,fitness_none,supervised-LOPO,435,median_signed_position_rho,,RAW435
+GEMME_ESM_Evo2,0.1696594427244582,0.0014705882352941,0.2395604395604395,28,"95% conditional hotspot-stratified position-resampling interval; fixed records, not generalization CI",10000.0,20261018.0,fitness_none,supervised-LOPO,435,median_signed_position_rho,,RAW435
+GEMME_ESM_Evo2 minus GEMME_ESM,0.1080753353973168,-0.0168228829993536,0.1326103720840563,28,"95% conditional hotspot-stratified position-resampling interval; fixed records, not generalization CI",10000.0,20261018.0,fitness_none,supervised-LOPO,435,median_paired_position_rho_difference,,RAW435
+GEMME_ESM,0.0210394047009011,,,28,,,,fitness_none,supervised-LOPO,435,MSE,,RAW435
+GEMME_ESM,0.0813004866579525,,,28,,,,fitness_none,supervised-LOPO,435,MAE,,RAW435
+GEMME_ESM,0.0289016309024787,,,28,,,,fitness_none,supervised-LOPO,435,pooled_Q2,,RAW435
+GEMME_ESM,0.0203269428146131,,,28,,,,fitness_none,supervised-LOPO,435,equal_position_MSE,,RAW435
+GEMME_ESM,0.0217002963807233,,,28,,,,fitness_none,supervised-LOPO,435,equal_position_Q2,,RAW435
+GEMME_ESM_Evo2,0.0213652212443654,,,28,,,,fitness_none,supervised-LOPO,435,MSE,,RAW435
+GEMME_ESM_Evo2,0.0816242437798979,,,28,,,,fitness_none,supervised-LOPO,435,MAE,,RAW435
+GEMME_ESM_Evo2,0.0138631866840625,,,28,,,,fitness_none,supervised-LOPO,435,pooled_Q2,,RAW435
+GEMME_ESM_Evo2,0.0209402420779118,,,28,,,,fitness_none,supervised-LOPO,435,equal_position_MSE,,RAW435
+GEMME_ESM_Evo2,-0.0078167093484269,,,28,,,,fitness_none,supervised-LOPO,435,equal_position_Q2,,RAW435
+GEMME_ESM_Evo2 minus GEMME_ESM,-0.0150384442184162,,,28,,,,fitness_none,supervised-LOPO,435,delta_pooled_Q2,,RAW435
+GEMME_ESM_Evo2 minus GEMME_ESM,-0.0295170057291502,,,28,,,,fitness_none,supervised-LOPO,435,delta_equal_position_Q2,,RAW435
+GEMME_ESM,0.0587719298245614,-0.0157894736842105,0.1659442724458204,28,"95% conditional hotspot-stratified position-resampling interval; fixed records, not generalization CI",10000.0,20261018.0,drug_specific_anidulafungin,supervised-LOPO,435,median_signed_position_rho,,RAW435
+GEMME_ESM_Evo2,0.0604465709728867,-0.0747252747252747,0.2147316821465428,28,"95% conditional hotspot-stratified position-resampling interval; fixed records, not generalization CI",10000.0,20261018.0,drug_specific_anidulafungin,supervised-LOPO,435,median_signed_position_rho,,RAW435
+GEMME_ESM_Evo2 minus GEMME_ESM,0.0044117647058823,-0.0903361344537815,0.074025974025974,28,"95% conditional hotspot-stratified position-resampling interval; fixed records, not generalization CI",10000.0,20261018.0,drug_specific_anidulafungin,supervised-LOPO,435,median_paired_position_rho_difference,,RAW435
+GEMME_ESM,0.5748294679408357,,,28,,,,drug_specific_anidulafungin,supervised-LOPO,435,MSE,,RAW435
+GEMME_ESM,0.6386164847622946,,,28,,,,drug_specific_anidulafungin,supervised-LOPO,435,MAE,,RAW435
+GEMME_ESM,0.0856992656135661,,,28,,,,drug_specific_anidulafungin,supervised-LOPO,435,pooled_Q2,,RAW435
+GEMME_ESM,0.6176800885375614,,,28,,,,drug_specific_anidulafungin,supervised-LOPO,435,equal_position_MSE,,RAW435
+GEMME_ESM,0.0887772312125924,,,28,,,,drug_specific_anidulafungin,supervised-LOPO,435,equal_position_Q2,,RAW435
+GEMME_ESM_Evo2,0.5758839918800679,,,28,,,,drug_specific_anidulafungin,supervised-LOPO,435,MSE,,RAW435
+GEMME_ESM_Evo2,0.6401770094658049,,,28,,,,drug_specific_anidulafungin,supervised-LOPO,435,MAE,,RAW435
+GEMME_ESM_Evo2,0.0840219820610684,,,28,,,,drug_specific_anidulafungin,supervised-LOPO,435,pooled_Q2,,RAW435
+GEMME_ESM_Evo2,0.6178087856235818,,,28,,,,drug_specific_anidulafungin,supervised-LOPO,435,equal_position_MSE,,RAW435
+GEMME_ESM_Evo2,0.0885873728745391,,,28,,,,drug_specific_anidulafungin,supervised-LOPO,435,equal_position_Q2,,RAW435
+GEMME_ESM_Evo2 minus GEMME_ESM,-0.0016772835524976,,,28,,,,drug_specific_anidulafungin,supervised-LOPO,435,delta_pooled_Q2,,RAW435
+GEMME_ESM_Evo2 minus GEMME_ESM,-0.0001898583380532,,,28,,,,drug_specific_anidulafungin,supervised-LOPO,435,delta_equal_position_Q2,,RAW435
+GEMME_ESM,0.1556583767110083,0.0278637770897832,0.2587412587412587,28,"95% conditional hotspot-stratified position-resampling interval; fixed records, not generalization CI",10000.0,20261018.0,drug_specific_caspofungin,supervised-LOPO,435,median_signed_position_rho,,RAW435
+GEMME_ESM_Evo2,0.0982015920096415,-0.0051599587203302,0.2417100443416233,28,"95% conditional hotspot-stratified position-resampling interval; fixed records, not generalization CI",10000.0,20261018.0,drug_specific_caspofungin,supervised-LOPO,435,median_signed_position_rho,,RAW435
+GEMME_ESM_Evo2 minus GEMME_ESM,-0.0078947368421052,-0.032688338493292,0.0070175438596491,28,"95% conditional hotspot-stratified position-resampling interval; fixed records, not generalization CI",10000.0,20261018.0,drug_specific_caspofungin,supervised-LOPO,435,median_paired_position_rho_difference,,RAW435
+GEMME_ESM,0.6348773171743167,,,28,,,,drug_specific_caspofungin,supervised-LOPO,435,MSE,,RAW435
+GEMME_ESM,0.6861532423323442,,,28,,,,drug_specific_caspofungin,supervised-LOPO,435,MAE,,RAW435
+GEMME_ESM,0.0818304891551601,,,28,,,,drug_specific_caspofungin,supervised-LOPO,435,pooled_Q2,,RAW435
+GEMME_ESM,0.6786776754363547,,,28,,,,drug_specific_caspofungin,supervised-LOPO,435,equal_position_MSE,,RAW435
+GEMME_ESM,0.0903755420924801,,,28,,,,drug_specific_caspofungin,supervised-LOPO,435,equal_position_Q2,,RAW435
+GEMME_ESM_Evo2,0.652157261875961,,,28,,,,drug_specific_caspofungin,supervised-LOPO,435,MSE,,RAW435
+GEMME_ESM_Evo2,0.6947201093100077,,,28,,,,drug_specific_caspofungin,supervised-LOPO,435,MAE,,RAW435
+GEMME_ESM_Evo2,0.0568399627259754,,,28,,,,drug_specific_caspofungin,supervised-LOPO,435,pooled_Q2,,RAW435
+GEMME_ESM_Evo2,0.6974325131015001,,,28,,,,drug_specific_caspofungin,supervised-LOPO,435,equal_position_MSE,,RAW435
+GEMME_ESM_Evo2,0.0652386329797222,,,28,,,,drug_specific_caspofungin,supervised-LOPO,435,equal_position_Q2,,RAW435
+GEMME_ESM_Evo2 minus GEMME_ESM,-0.0249905264291846,,,28,,,,drug_specific_caspofungin,supervised-LOPO,435,delta_pooled_Q2,,RAW435
+GEMME_ESM_Evo2 minus GEMME_ESM,-0.0251369091127579,,,28,,,,drug_specific_caspofungin,supervised-LOPO,435,delta_equal_position_Q2,,RAW435
+GEMME_ESM,0.1228750609555563,0.0299277605779153,0.2342298052824368,28,"95% conditional hotspot-stratified position-resampling interval; fixed records, not generalization CI",10000.0,20261018.0,drug_specific_micafungin,supervised-LOPO,435,median_signed_position_rho,,RAW435
+GEMME_ESM_Evo2,0.0980392156862745,-0.0414996767937944,0.1936274509803922,28,"95% conditional hotspot-stratified position-resampling interval; fixed records, not generalization CI",10000.0,20261018.0,drug_specific_micafungin,supervised-LOPO,435,median_signed_position_rho,,RAW435
+GEMME_ESM_Evo2 minus GEMME_ESM,-0.0217234262125903,-0.0701754385964912,0.0014705882352941,28,"95% conditional hotspot-stratified position-resampling interval; fixed records, not generalization CI",10000.0,20261018.0,drug_specific_micafungin,supervised-LOPO,435,median_paired_position_rho_difference,,RAW435
+GEMME_ESM,0.6399033505634923,,,28,,,,drug_specific_micafungin,supervised-LOPO,435,MSE,,RAW435
+GEMME_ESM,0.6666118144025688,,,28,,,,drug_specific_micafungin,supervised-LOPO,435,MAE,,RAW435
+GEMME_ESM,0.0529667451834781,,,28,,,,drug_specific_micafungin,supervised-LOPO,435,pooled_Q2,,RAW435
+GEMME_ESM,0.6570999001308466,,,28,,,,drug_specific_micafungin,supervised-LOPO,435,equal_position_MSE,,RAW435
+GEMME_ESM,0.0619690496783996,,,28,,,,drug_specific_micafungin,supervised-LOPO,435,equal_position_Q2,,RAW435
+GEMME_ESM_Evo2,0.6586939742178447,,,28,,,,drug_specific_micafungin,supervised-LOPO,435,MSE,,RAW435
+GEMME_ESM_Evo2,0.674516107188371,,,28,,,,drug_specific_micafungin,supervised-LOPO,435,MAE,,RAW435
+GEMME_ESM_Evo2,0.0251573182383882,,,28,,,,drug_specific_micafungin,supervised-LOPO,435,pooled_Q2,,RAW435
+GEMME_ESM_Evo2,0.677849483011015,,,28,,,,drug_specific_micafungin,supervised-LOPO,435,equal_position_MSE,,RAW435
+GEMME_ESM_Evo2,0.032348361950422,,,28,,,,drug_specific_micafungin,supervised-LOPO,435,equal_position_Q2,,RAW435
+GEMME_ESM_Evo2 minus GEMME_ESM,-0.0278094269450898,,,28,,,,drug_specific_micafungin,supervised-LOPO,435,delta_pooled_Q2,,RAW435
+GEMME_ESM_Evo2 minus GEMME_ESM,-0.0296206877279776,,,28,,,,drug_specific_micafungin,supervised-LOPO,435,delta_equal_position_Q2,,RAW435
+GEMME_ESM,0.0803663570691434,-0.0538259470148015,0.1595588235294117,20,"95% conditional hotspot-stratified position-resampling interval; fixed records, not generalization CI",10000.0,20261018.0,fitness_none,supervised-LOPO,334,median_signed_position_rho,,RAW435_NO_HS2
+GEMME_ESM_Evo2,0.2012383900928792,-0.0448400412796697,0.2325851393188854,20,"95% conditional hotspot-stratified position-resampling interval; fixed records, not generalization CI",10000.0,20261018.0,fitness_none,supervised-LOPO,334,median_signed_position_rho,,RAW435_NO_HS2
+GEMME_ESM_Evo2 minus GEMME_ESM,0.1244324045407636,-0.0695820433436532,0.1589267285861713,20,"95% conditional hotspot-stratified position-resampling interval; fixed records, not generalization CI",10000.0,20261018.0,fitness_none,supervised-LOPO,334,median_paired_position_rho_difference,,RAW435_NO_HS2
+GEMME_ESM,0.0230105720857851,,,20,,,,fitness_none,supervised-LOPO,334,MSE,,RAW435_NO_HS2
+GEMME_ESM,0.0891131151212567,,,20,,,,fitness_none,supervised-LOPO,334,MAE,,RAW435_NO_HS2
+GEMME_ESM,0.0646189249524917,,,20,,,,fitness_none,supervised-LOPO,334,pooled_Q2,,RAW435_NO_HS2
+GEMME_ESM,0.0228789548795522,,,20,,,,fitness_none,supervised-LOPO,334,equal_position_MSE,,RAW435_NO_HS2
+GEMME_ESM,0.0637468024443627,,,20,,,,fitness_none,supervised-LOPO,334,equal_position_Q2,,RAW435_NO_HS2
+GEMME_ESM_Evo2,0.0211082249272888,,,20,,,,fitness_none,supervised-LOPO,334,MSE,,RAW435_NO_HS2
+GEMME_ESM_Evo2,0.0861552638005215,,,20,,,,fitness_none,supervised-LOPO,334,MAE,,RAW435_NO_HS2
+GEMME_ESM_Evo2,0.1419494460535777,,,20,,,,fitness_none,supervised-LOPO,334,pooled_Q2,,RAW435_NO_HS2
+GEMME_ESM_Evo2,0.0211038841107444,,,20,,,,fitness_none,supervised-LOPO,334,equal_position_MSE,,RAW435_NO_HS2
+GEMME_ESM_Evo2,0.1363862954602428,,,20,,,,fitness_none,supervised-LOPO,334,equal_position_Q2,,RAW435_NO_HS2
+GEMME_ESM_Evo2 minus GEMME_ESM,0.0773305211010859,,,20,,,,fitness_none,supervised-LOPO,334,delta_pooled_Q2,,RAW435_NO_HS2
+GEMME_ESM_Evo2 minus GEMME_ESM,0.0726394930158801,,,20,,,,fitness_none,supervised-LOPO,334,delta_equal_position_Q2,,RAW435_NO_HS2
+GEMME_ESM,0.0917440660474716,-0.0521978021978022,0.2230134158926728,20,"95% conditional hotspot-stratified position-resampling interval; fixed records, not generalization CI",10000.0,20261018.0,drug_specific_anidulafungin,supervised-LOPO,334,median_signed_position_rho,,RAW435_NO_HS2
+GEMME_ESM_Evo2,0.0426470588235294,-0.0846913664251125,0.217750257997936,20,"95% conditional hotspot-stratified position-resampling interval; fixed records, not generalization CI",10000.0,20261018.0,drug_specific_anidulafungin,supervised-LOPO,334,median_signed_position_rho,,RAW435_NO_HS2
+GEMME_ESM_Evo2 minus GEMME_ESM,0.0050051599587203,-0.0291537667698658,0.0302968960863697,20,"95% conditional hotspot-stratified position-resampling interval; fixed records, not generalization CI",10000.0,20261018.0,drug_specific_anidulafungin,supervised-LOPO,334,median_paired_position_rho_difference,,RAW435_NO_HS2
+GEMME_ESM,0.3512642673022471,,,20,,,,drug_specific_anidulafungin,supervised-LOPO,334,MSE,,RAW435_NO_HS2
+GEMME_ESM,0.5216158007969021,,,20,,,,drug_specific_anidulafungin,supervised-LOPO,334,MAE,,RAW435_NO_HS2
+GEMME_ESM,0.0203618959326685,,,20,,,,drug_specific_anidulafungin,supervised-LOPO,334,pooled_Q2,,RAW435_NO_HS2
+GEMME_ESM,0.3525914251222647,,,20,,,,drug_specific_anidulafungin,supervised-LOPO,334,equal_position_MSE,,RAW435_NO_HS2
+GEMME_ESM,0.0209101452352817,,,20,,,,drug_specific_anidulafungin,supervised-LOPO,334,equal_position_Q2,,RAW435_NO_HS2
+GEMME_ESM_Evo2,0.3606158567151968,,,20,,,,drug_specific_anidulafungin,supervised-LOPO,334,MSE,,RAW435_NO_HS2
+GEMME_ESM_Evo2,0.5270832352280918,,,20,,,,drug_specific_anidulafungin,supervised-LOPO,334,MAE,,RAW435_NO_HS2
+GEMME_ESM_Evo2,-0.0057186769444907,,,20,,,,drug_specific_anidulafungin,supervised-LOPO,334,pooled_Q2,,RAW435_NO_HS2
+GEMME_ESM_Evo2,0.3618968536448506,,,20,,,,drug_specific_anidulafungin,supervised-LOPO,334,equal_position_MSE,,RAW435_NO_HS2
+GEMME_ESM_Evo2,-0.0049295377846407,,,20,,,,drug_specific_anidulafungin,supervised-LOPO,334,equal_position_Q2,,RAW435_NO_HS2
+GEMME_ESM_Evo2 minus GEMME_ESM,-0.0260805728771593,,,20,,,,drug_specific_anidulafungin,supervised-LOPO,334,delta_pooled_Q2,,RAW435_NO_HS2
+GEMME_ESM_Evo2 minus GEMME_ESM,-0.0258396830199225,,,20,,,,drug_specific_anidulafungin,supervised-LOPO,334,delta_equal_position_Q2,,RAW435_NO_HS2
+GEMME_ESM,0.1275799793601651,-0.0218782249742002,0.2363261093911248,20,"95% conditional hotspot-stratified position-resampling interval; fixed records, not generalization CI",10000.0,20261018.0,drug_specific_caspofungin,supervised-LOPO,334,median_signed_position_rho,,RAW435_NO_HS2
+GEMME_ESM_Evo2,0.1552359405300581,-0.0676470588235294,0.239422084623323,20,"95% conditional hotspot-stratified position-resampling interval; fixed records, not generalization CI",10000.0,20261018.0,drug_specific_caspofungin,supervised-LOPO,334,median_signed_position_rho,,RAW435_NO_HS2
+GEMME_ESM_Evo2 minus GEMME_ESM,0.0216460268317853,-0.0356037151702786,0.1233241474727543,20,"95% conditional hotspot-stratified position-resampling interval; fixed records, not generalization CI",10000.0,20261018.0,drug_specific_caspofungin,supervised-LOPO,334,median_paired_position_rho_difference,,RAW435_NO_HS2
+GEMME_ESM,0.3883816450164386,,,20,,,,drug_specific_caspofungin,supervised-LOPO,334,MSE,,RAW435_NO_HS2
+GEMME_ESM,0.5692591721952549,,,20,,,,drug_specific_caspofungin,supervised-LOPO,334,MAE,,RAW435_NO_HS2
+GEMME_ESM,0.0244867812192197,,,20,,,,drug_specific_caspofungin,supervised-LOPO,334,pooled_Q2,,RAW435_NO_HS2
+GEMME_ESM,0.3855061530274658,,,20,,,,drug_specific_caspofungin,supervised-LOPO,334,equal_position_MSE,,RAW435_NO_HS2
+GEMME_ESM,0.0273092220912141,,,20,,,,drug_specific_caspofungin,supervised-LOPO,334,equal_position_Q2,,RAW435_NO_HS2
+GEMME_ESM_Evo2,0.3768067850006339,,,20,,,,drug_specific_caspofungin,supervised-LOPO,334,MSE,,RAW435_NO_HS2
+GEMME_ESM_Evo2,0.5593392017476879,,,20,,,,drug_specific_caspofungin,supervised-LOPO,334,MAE,,RAW435_NO_HS2
+GEMME_ESM_Evo2,0.0535598053846039,,,20,,,,drug_specific_caspofungin,supervised-LOPO,334,pooled_Q2,,RAW435_NO_HS2
+GEMME_ESM_Evo2,0.3740872108585883,,,20,,,,drug_specific_caspofungin,supervised-LOPO,334,equal_position_MSE,,RAW435_NO_HS2
+GEMME_ESM_Evo2,0.0561209535095437,,,20,,,,drug_specific_caspofungin,supervised-LOPO,334,equal_position_Q2,,RAW435_NO_HS2
+GEMME_ESM_Evo2 minus GEMME_ESM,0.0290730241653841,,,20,,,,drug_specific_caspofungin,supervised-LOPO,334,delta_pooled_Q2,,RAW435_NO_HS2
+GEMME_ESM_Evo2 minus GEMME_ESM,0.0288117314183296,,,20,,,,drug_specific_caspofungin,supervised-LOPO,334,delta_equal_position_Q2,,RAW435_NO_HS2
+GEMME_ESM,0.1212206910736322,0.0082559339525283,0.2205882352941176,20,"95% conditional hotspot-stratified position-resampling interval; fixed records, not generalization CI",10000.0,20261018.0,drug_specific_micafungin,supervised-LOPO,334,median_signed_position_rho,,RAW435_NO_HS2
+GEMME_ESM_Evo2,0.2345717234262125,-0.0289602683178534,0.3762899896800826,20,"95% conditional hotspot-stratified position-resampling interval; fixed records, not generalization CI",10000.0,20261018.0,drug_specific_micafungin,supervised-LOPO,334,median_signed_position_rho,,RAW435_NO_HS2
+GEMME_ESM_Evo2 minus GEMME_ESM,0.0661764705882353,-0.1120485036119711,0.1332811667176992,20,"95% conditional hotspot-stratified position-resampling interval; fixed records, not generalization CI",10000.0,20261018.0,drug_specific_micafungin,supervised-LOPO,334,median_paired_position_rho_difference,,RAW435_NO_HS2
+GEMME_ESM,0.4767608574629663,,,20,,,,drug_specific_micafungin,supervised-LOPO,334,MSE,,RAW435_NO_HS2
+GEMME_ESM,0.606848752569235,,,20,,,,drug_specific_micafungin,supervised-LOPO,334,MAE,,RAW435_NO_HS2
+GEMME_ESM,0.0145315695738207,,,20,,,,drug_specific_micafungin,supervised-LOPO,334,pooled_Q2,,RAW435_NO_HS2
+GEMME_ESM,0.4687934031785089,,,20,,,,drug_specific_micafungin,supervised-LOPO,334,equal_position_MSE,,RAW435_NO_HS2
+GEMME_ESM,0.0193843097591748,,,20,,,,drug_specific_micafungin,supervised-LOPO,334,equal_position_Q2,,RAW435_NO_HS2
+GEMME_ESM_Evo2,0.4588910034882835,,,20,,,,drug_specific_micafungin,supervised-LOPO,334,MSE,,RAW435_NO_HS2
+GEMME_ESM_Evo2,0.5892219008841858,,,20,,,,drug_specific_micafungin,supervised-LOPO,334,MAE,,RAW435_NO_HS2
+GEMME_ESM_Evo2,0.0514686978483321,,,20,,,,drug_specific_micafungin,supervised-LOPO,334,pooled_Q2,,RAW435_NO_HS2
+GEMME_ESM_Evo2,0.4516994967757993,,,20,,,,drug_specific_micafungin,supervised-LOPO,334,equal_position_MSE,,RAW435_NO_HS2
+GEMME_ESM_Evo2,0.055141111609098,,,20,,,,drug_specific_micafungin,supervised-LOPO,334,equal_position_Q2,,RAW435_NO_HS2
+GEMME_ESM_Evo2 minus GEMME_ESM,0.0369371282745114,,,20,,,,drug_specific_micafungin,supervised-LOPO,334,delta_pooled_Q2,,RAW435_NO_HS2
+GEMME_ESM_Evo2 minus GEMME_ESM,0.0357568018499232,,,20,,,,drug_specific_micafungin,supervised-LOPO,334,delta_equal_position_Q2,,RAW435_NO_HS2
+GEMME_ESM,0.0206293706293706,-0.1076923076923076,0.1252747252747253,28,"95% conditional hotspot-stratified position-resampling interval; fixed records, not generalization CI",10000.0,20261018.0,fitness_none,supervised-LOPO,435,median_signed_position_rho,,AUTHOR_REPLACEMENT435
+GEMME_ESM_Evo2,0.1529927760577915,-0.0152476780185758,0.2350877192982455,28,"95% conditional hotspot-stratified position-resampling interval; fixed records, not generalization CI",10000.0,20261018.0,fitness_none,supervised-LOPO,435,median_signed_position_rho,,AUTHOR_REPLACEMENT435
+GEMME_ESM_Evo2 minus GEMME_ESM,0.1147058823529411,-0.0168228829993536,0.149793034622756,28,"95% conditional hotspot-stratified position-resampling interval; fixed records, not generalization CI",10000.0,20261018.0,fitness_none,supervised-LOPO,435,median_paired_position_rho_difference,,AUTHOR_REPLACEMENT435
+GEMME_ESM,0.0210463075153698,,,28,,,,fitness_none,supervised-LOPO,435,MSE,,AUTHOR_REPLACEMENT435
+GEMME_ESM,0.0813924004856182,,,28,,,,fitness_none,supervised-LOPO,435,MAE,,AUTHOR_REPLACEMENT435
+GEMME_ESM,0.0287014182583017,,,28,,,,fitness_none,supervised-LOPO,435,pooled_Q2,,AUTHOR_REPLACEMENT435
+GEMME_ESM,0.0203324708005057,,,28,,,,fitness_none,supervised-LOPO,435,equal_position_MSE,,AUTHOR_REPLACEMENT435
+GEMME_ESM,0.0215572219135936,,,28,,,,fitness_none,supervised-LOPO,435,equal_position_Q2,,AUTHOR_REPLACEMENT435
+GEMME_ESM_Evo2,0.0213673128441584,,,28,,,,fitness_none,supervised-LOPO,435,MSE,,AUTHOR_REPLACEMENT435
+GEMME_ESM_Evo2,0.0816482669925096,,,28,,,,fitness_none,supervised-LOPO,435,MAE,,AUTHOR_REPLACEMENT435
+GEMME_ESM_Evo2,0.0138868470867946,,,28,,,,fitness_none,supervised-LOPO,435,pooled_Q2,,AUTHOR_REPLACEMENT435
+GEMME_ESM_Evo2,0.0209424131599564,,,28,,,,fitness_none,supervised-LOPO,435,equal_position_MSE,,AUTHOR_REPLACEMENT435
+GEMME_ESM_Evo2,-0.007794532848975,,,28,,,,fitness_none,supervised-LOPO,435,equal_position_Q2,,AUTHOR_REPLACEMENT435
+GEMME_ESM_Evo2 minus GEMME_ESM,-0.014814571171507,,,28,,,,fitness_none,supervised-LOPO,435,delta_pooled_Q2,,AUTHOR_REPLACEMENT435
+GEMME_ESM_Evo2 minus GEMME_ESM,-0.0293517547625686,,,28,,,,fitness_none,supervised-LOPO,435,delta_equal_position_Q2,,AUTHOR_REPLACEMENT435
+GEMME_ESM,0.0255980861244019,-0.0241758241758241,0.1248710010319917,28,"95% conditional hotspot-stratified position-resampling interval; fixed records, not generalization CI",10000.0,20261018.0,drug_specific_anidulafungin,supervised-LOPO,435,median_signed_position_rho,,AUTHOR_REPLACEMENT435
+GEMME_ESM_Evo2,0.0604465709728867,-0.0747252747252747,0.2147316821465428,28,"95% conditional hotspot-stratified position-resampling interval; fixed records, not generalization CI",10000.0,20261018.0,drug_specific_anidulafungin,supervised-LOPO,435,median_signed_position_rho,,AUTHOR_REPLACEMENT435
+GEMME_ESM_Evo2 minus GEMME_ESM,0.0044117647058823,-0.0903361344537815,0.074025974025974,28,"95% conditional hotspot-stratified position-resampling interval; fixed records, not generalization CI",10000.0,20261018.0,drug_specific_anidulafungin,supervised-LOPO,435,median_paired_position_rho_difference,,AUTHOR_REPLACEMENT435
+GEMME_ESM,0.5751433431765444,,,28,,,,drug_specific_anidulafungin,supervised-LOPO,435,MSE,,AUTHOR_REPLACEMENT435
+GEMME_ESM,0.6389427394913678,,,28,,,,drug_specific_anidulafungin,supervised-LOPO,435,MAE,,AUTHOR_REPLACEMENT435
+GEMME_ESM,0.0852364570743113,,,28,,,,drug_specific_anidulafungin,supervised-LOPO,435,pooled_Q2,,AUTHOR_REPLACEMENT435
+GEMME_ESM,0.6179876931907765,,,28,,,,drug_specific_anidulafungin,supervised-LOPO,435,equal_position_MSE,,AUTHOR_REPLACEMENT435
+GEMME_ESM,0.0883863581971847,,,28,,,,drug_specific_anidulafungin,supervised-LOPO,435,equal_position_Q2,,AUTHOR_REPLACEMENT435
+GEMME_ESM_Evo2,0.5762486113068352,,,28,,,,drug_specific_anidulafungin,supervised-LOPO,435,MSE,,AUTHOR_REPLACEMENT435
+GEMME_ESM_Evo2,0.6405054475136481,,,28,,,,drug_specific_anidulafungin,supervised-LOPO,435,MAE,,AUTHOR_REPLACEMENT435
+GEMME_ESM_Evo2,0.083478531849682,,,28,,,,drug_specific_anidulafungin,supervised-LOPO,435,pooled_Q2,,AUTHOR_REPLACEMENT435
+GEMME_ESM_Evo2,0.6181670377893196,,,28,,,,drug_specific_anidulafungin,supervised-LOPO,435,equal_position_MSE,,AUTHOR_REPLACEMENT435
+GEMME_ESM_Evo2,0.0881218011770095,,,28,,,,drug_specific_anidulafungin,supervised-LOPO,435,equal_position_Q2,,AUTHOR_REPLACEMENT435
+GEMME_ESM_Evo2 minus GEMME_ESM,-0.0017579252246293,,,28,,,,drug_specific_anidulafungin,supervised-LOPO,435,delta_pooled_Q2,,AUTHOR_REPLACEMENT435
+GEMME_ESM_Evo2 minus GEMME_ESM,-0.0002645570201752,,,28,,,,drug_specific_anidulafungin,supervised-LOPO,435,delta_equal_position_Q2,,AUTHOR_REPLACEMENT435
+GEMME_ESM,0.1556583767110083,0.0278637770897832,0.2587412587412587,28,"95% conditional hotspot-stratified position-resampling interval; fixed records, not generalization CI",10000.0,20261018.0,drug_specific_caspofungin,supervised-LOPO,435,median_signed_position_rho,,AUTHOR_REPLACEMENT435
+GEMME_ESM_Evo2,0.0982015920096415,-0.0051599587203302,0.2417100443416233,28,"95% conditional hotspot-stratified position-resampling interval; fixed records, not generalization CI",10000.0,20261018.0,drug_specific_caspofungin,supervised-LOPO,435,median_signed_position_rho,,AUTHOR_REPLACEMENT435
+GEMME_ESM_Evo2 minus GEMME_ESM,-0.0078947368421052,-0.032688338493292,0.0088235294117646,28,"95% conditional hotspot-stratified position-resampling interval; fixed records, not generalization CI",10000.0,20261018.0,drug_specific_caspofungin,supervised-LOPO,435,median_paired_position_rho_difference,,AUTHOR_REPLACEMENT435
+GEMME_ESM,0.6350436761409228,,,28,,,,drug_specific_caspofungin,supervised-LOPO,435,MSE,,AUTHOR_REPLACEMENT435
+GEMME_ESM,0.6862558660994615,,,28,,,,drug_specific_caspofungin,supervised-LOPO,435,MAE,,AUTHOR_REPLACEMENT435
+GEMME_ESM,0.0817267705686416,,,28,,,,drug_specific_caspofungin,supervised-LOPO,435,pooled_Q2,,AUTHOR_REPLACEMENT435
+GEMME_ESM,0.6788321100771624,,,28,,,,drug_specific_caspofungin,supervised-LOPO,435,equal_position_MSE,,AUTHOR_REPLACEMENT435
+GEMME_ESM,0.0902877857528801,,,28,,,,drug_specific_caspofungin,supervised-LOPO,435,equal_position_Q2,,AUTHOR_REPLACEMENT435
+GEMME_ESM_Evo2,0.6523250938940913,,,28,,,,drug_specific_caspofungin,supervised-LOPO,435,MSE,,AUTHOR_REPLACEMENT435
+GEMME_ESM_Evo2,0.6948234175027362,,,28,,,,drug_specific_caspofungin,supervised-LOPO,435,MAE,,AUTHOR_REPLACEMENT435
+GEMME_ESM_Evo2,0.0567378384911054,,,28,,,,drug_specific_caspofungin,supervised-LOPO,435,pooled_Q2,,AUTHOR_REPLACEMENT435
+GEMME_ESM_Evo2,0.697589576142386,,,28,,,,drug_specific_caspofungin,supervised-LOPO,435,equal_position_MSE,,AUTHOR_REPLACEMENT435
+GEMME_ESM_Evo2,0.0651506484039703,,,28,,,,drug_specific_caspofungin,supervised-LOPO,435,equal_position_Q2,,AUTHOR_REPLACEMENT435
+GEMME_ESM_Evo2 minus GEMME_ESM,-0.0249889320775361,,,28,,,,drug_specific_caspofungin,supervised-LOPO,435,delta_pooled_Q2,,AUTHOR_REPLACEMENT435
+GEMME_ESM_Evo2 minus GEMME_ESM,-0.0251371373489097,,,28,,,,drug_specific_caspofungin,supervised-LOPO,435,delta_equal_position_Q2,,AUTHOR_REPLACEMENT435
+GEMME_ESM,0.1107550859872841,0.0299277605779153,0.2342298052824368,28,"95% conditional hotspot-stratified position-resampling interval; fixed records, not generalization CI",10000.0,20261018.0,drug_specific_micafungin,supervised-LOPO,435,median_signed_position_rho,,AUTHOR_REPLACEMENT435
+GEMME_ESM_Evo2,0.0762965105070368,-0.0248219272987074,0.2237299465240642,28,"95% conditional hotspot-stratified position-resampling interval; fixed records, not generalization CI",10000.0,20261018.0,drug_specific_micafungin,supervised-LOPO,435,median_signed_position_rho,,AUTHOR_REPLACEMENT435
+GEMME_ESM_Evo2 minus GEMME_ESM,-0.0082559339525283,-0.0499999999999999,0.0201754385964912,28,"95% conditional hotspot-stratified position-resampling interval; fixed records, not generalization CI",10000.0,20261018.0,drug_specific_micafungin,supervised-LOPO,435,median_paired_position_rho_difference,,AUTHOR_REPLACEMENT435
+GEMME_ESM,0.643174080197678,,,28,,,,drug_specific_micafungin,supervised-LOPO,435,MSE,,AUTHOR_REPLACEMENT435
+GEMME_ESM,0.6705881982507865,,,28,,,,drug_specific_micafungin,supervised-LOPO,435,MAE,,AUTHOR_REPLACEMENT435
+GEMME_ESM,0.0497641412746968,,,28,,,,drug_specific_micafungin,supervised-LOPO,435,pooled_Q2,,AUTHOR_REPLACEMENT435
+GEMME_ESM,0.6603397706738343,,,28,,,,drug_specific_micafungin,supervised-LOPO,435,equal_position_MSE,,AUTHOR_REPLACEMENT435
+GEMME_ESM,0.059155078782025,,,28,,,,drug_specific_micafungin,supervised-LOPO,435,equal_position_Q2,,AUTHOR_REPLACEMENT435
+GEMME_ESM_Evo2,0.6619694678496593,,,28,,,,drug_specific_micafungin,supervised-LOPO,435,MSE,,AUTHOR_REPLACEMENT435
+GEMME_ESM_Evo2,0.6784186209344721,,,28,,,,drug_specific_micafungin,supervised-LOPO,435,MAE,,AUTHOR_REPLACEMENT435
+GEMME_ESM_Evo2,0.0219955295171052,,,28,,,,drug_specific_micafungin,supervised-LOPO,435,pooled_Q2,,AUTHOR_REPLACEMENT435
+GEMME_ESM_Evo2,0.6811501257081286,,,28,,,,drug_specific_micafungin,supervised-LOPO,435,equal_position_MSE,,AUTHOR_REPLACEMENT435
+GEMME_ESM_Evo2,0.0295047113313727,,,28,,,,drug_specific_micafungin,supervised-LOPO,435,equal_position_Q2,,AUTHOR_REPLACEMENT435
+GEMME_ESM_Evo2 minus GEMME_ESM,-0.0277686117575916,,,28,,,,drug_specific_micafungin,supervised-LOPO,435,delta_pooled_Q2,,AUTHOR_REPLACEMENT435
+GEMME_ESM_Evo2 minus GEMME_ESM,-0.0296503674506523,,,28,,,,drug_specific_micafungin,supervised-LOPO,435,delta_equal_position_Q2,,AUTHOR_REPLACEMENT435
+GEMME_ESM,0.0803663570691434,-0.1105854929384341,0.1573013415892672,20,"95% conditional hotspot-stratified position-resampling interval; fixed records, not generalization CI",10000.0,20261018.0,fitness_none,supervised-LOPO,334,median_signed_position_rho,,AUTHOR_REPLACEMENT435_NO_HS2
+GEMME_ESM_Evo2,0.1645510835913312,-0.0448400412796697,0.2329721362229102,20,"95% conditional hotspot-stratified position-resampling interval; fixed records, not generalization CI",10000.0,20261018.0,fitness_none,supervised-LOPO,334,median_signed_position_rho,,AUTHOR_REPLACEMENT435_NO_HS2
+GEMME_ESM_Evo2 minus GEMME_ESM,0.1244324045407636,-0.0685500515995872,0.1871775025799793,20,"95% conditional hotspot-stratified position-resampling interval; fixed records, not generalization CI",10000.0,20261018.0,fitness_none,supervised-LOPO,334,median_paired_position_rho_difference,,AUTHOR_REPLACEMENT435_NO_HS2
+GEMME_ESM,0.0230220598247322,,,20,,,,fitness_none,supervised-LOPO,334,MSE,,AUTHOR_REPLACEMENT435_NO_HS2
+GEMME_ESM,0.0892564253938363,,,20,,,,fitness_none,supervised-LOPO,334,MAE,,AUTHOR_REPLACEMENT435_NO_HS2
+GEMME_ESM,0.0643660405966664,,,20,,,,fitness_none,supervised-LOPO,334,pooled_Q2,,AUTHOR_REPLACEMENT435_NO_HS2
+GEMME_ESM,0.0228901105988216,,,20,,,,fitness_none,supervised-LOPO,334,equal_position_MSE,,AUTHOR_REPLACEMENT435_NO_HS2
+GEMME_ESM,0.0635511253904421,,,20,,,,fitness_none,supervised-LOPO,334,equal_position_Q2,,AUTHOR_REPLACEMENT435_NO_HS2
+GEMME_ESM_Evo2,0.0211083631097294,,,20,,,,fitness_none,supervised-LOPO,334,MSE,,AUTHOR_REPLACEMENT435_NO_HS2
+GEMME_ESM_Evo2,0.0861297291609459,,,20,,,,fitness_none,supervised-LOPO,334,MAE,,AUTHOR_REPLACEMENT435_NO_HS2
+GEMME_ESM_Evo2,0.1421401254607714,,,20,,,,fitness_none,supervised-LOPO,334,pooled_Q2,,AUTHOR_REPLACEMENT435_NO_HS2
+GEMME_ESM_Evo2,0.0211049440445596,,,20,,,,fitness_none,supervised-LOPO,334,equal_position_MSE,,AUTHOR_REPLACEMENT435_NO_HS2
+GEMME_ESM_Evo2,0.1365834160607768,,,20,,,,fitness_none,supervised-LOPO,334,equal_position_Q2,,AUTHOR_REPLACEMENT435_NO_HS2
+GEMME_ESM_Evo2 minus GEMME_ESM,0.077774084864105,,,20,,,,fitness_none,supervised-LOPO,334,delta_pooled_Q2,,AUTHOR_REPLACEMENT435_NO_HS2
+GEMME_ESM_Evo2 minus GEMME_ESM,0.0730322906703346,,,20,,,,fitness_none,supervised-LOPO,334,delta_equal_position_Q2,,AUTHOR_REPLACEMENT435_NO_HS2
+GEMME_ESM,0.0917440660474716,-0.0521978021978022,0.2230134158926728,20,"95% conditional hotspot-stratified position-resampling interval; fixed records, not generalization CI",10000.0,20261018.0,drug_specific_anidulafungin,supervised-LOPO,334,median_signed_position_rho,,AUTHOR_REPLACEMENT435_NO_HS2
+GEMME_ESM_Evo2,0.0426470588235294,-0.0846913664251125,0.217750257997936,20,"95% conditional hotspot-stratified position-resampling interval; fixed records, not generalization CI",10000.0,20261018.0,drug_specific_anidulafungin,supervised-LOPO,334,median_signed_position_rho,,AUTHOR_REPLACEMENT435_NO_HS2
+GEMME_ESM_Evo2 minus GEMME_ESM,0.0073271413828689,-0.0301857585139318,0.0302968960863697,20,"95% conditional hotspot-stratified position-resampling interval; fixed records, not generalization CI",10000.0,20261018.0,drug_specific_anidulafungin,supervised-LOPO,334,median_paired_position_rho_difference,,AUTHOR_REPLACEMENT435_NO_HS2
+GEMME_ESM,0.3513327527684088,,,20,,,,drug_specific_anidulafungin,supervised-LOPO,334,MSE,,AUTHOR_REPLACEMENT435_NO_HS2
+GEMME_ESM,0.5221200049165897,,,20,,,,drug_specific_anidulafungin,supervised-LOPO,334,MAE,,AUTHOR_REPLACEMENT435_NO_HS2
+GEMME_ESM,0.0198568540458853,,,20,,,,drug_specific_anidulafungin,supervised-LOPO,334,pooled_Q2,,AUTHOR_REPLACEMENT435_NO_HS2
+GEMME_ESM,0.3526641688833224,,,20,,,,drug_specific_anidulafungin,supervised-LOPO,334,equal_position_MSE,,AUTHOR_REPLACEMENT435_NO_HS2
+GEMME_ESM,0.0204473615949961,,,20,,,,drug_specific_anidulafungin,supervised-LOPO,334,equal_position_Q2,,AUTHOR_REPLACEMENT435_NO_HS2
+GEMME_ESM_Evo2,0.3606748353716928,,,20,,,,drug_specific_anidulafungin,supervised-LOPO,334,MSE,,AUTHOR_REPLACEMENT435_NO_HS2
+GEMME_ESM_Evo2,0.5275841559562278,,,20,,,,drug_specific_anidulafungin,supervised-LOPO,334,MAE,,AUTHOR_REPLACEMENT435_NO_HS2
+GEMME_ESM_Evo2,-0.006205555907057,,,20,,,,drug_specific_anidulafungin,supervised-LOPO,334,pooled_Q2,,AUTHOR_REPLACEMENT435_NO_HS2
+GEMME_ESM_Evo2,0.3619543383767968,,,20,,,,drug_specific_anidulafungin,supervised-LOPO,334,equal_position_MSE,,AUTHOR_REPLACEMENT435_NO_HS2
+GEMME_ESM_Evo2,-0.0053568193836881,,,20,,,,drug_specific_anidulafungin,supervised-LOPO,334,equal_position_Q2,,AUTHOR_REPLACEMENT435_NO_HS2
+GEMME_ESM_Evo2 minus GEMME_ESM,-0.0260624099529424,,,20,,,,drug_specific_anidulafungin,supervised-LOPO,334,delta_pooled_Q2,,AUTHOR_REPLACEMENT435_NO_HS2
+GEMME_ESM_Evo2 minus GEMME_ESM,-0.0258041809786843,,,20,,,,drug_specific_anidulafungin,supervised-LOPO,334,delta_equal_position_Q2,,AUTHOR_REPLACEMENT435_NO_HS2
+GEMME_ESM,0.1275799793601651,-0.0218782249742002,0.2363261093911248,20,"95% conditional hotspot-stratified position-resampling interval; fixed records, not generalization CI",10000.0,20261018.0,drug_specific_caspofungin,supervised-LOPO,334,median_signed_position_rho,,AUTHOR_REPLACEMENT435_NO_HS2
+GEMME_ESM_Evo2,0.1552359405300581,-0.0676470588235294,0.239422084623323,20,"95% conditional hotspot-stratified position-resampling interval; fixed records, not generalization CI",10000.0,20261018.0,drug_specific_caspofungin,supervised-LOPO,334,median_signed_position_rho,,AUTHOR_REPLACEMENT435_NO_HS2
+GEMME_ESM_Evo2 minus GEMME_ESM,0.0216460268317853,-0.0356037151702786,0.1233241474727543,20,"95% conditional hotspot-stratified position-resampling interval; fixed records, not generalization CI",10000.0,20261018.0,drug_specific_caspofungin,supervised-LOPO,334,median_paired_position_rho_difference,,AUTHOR_REPLACEMENT435_NO_HS2
+GEMME_ESM,0.3885265644646922,,,20,,,,drug_specific_caspofungin,supervised-LOPO,334,MSE,,AUTHOR_REPLACEMENT435_NO_HS2
+GEMME_ESM,0.5693971773544153,,,20,,,,drug_specific_caspofungin,supervised-LOPO,334,MAE,,AUTHOR_REPLACEMENT435_NO_HS2
+GEMME_ESM,0.0243449320828639,,,20,,,,drug_specific_caspofungin,supervised-LOPO,334,pooled_Q2,,AUTHOR_REPLACEMENT435_NO_HS2
+GEMME_ESM,0.3856445682051769,,,20,,,,drug_specific_caspofungin,supervised-LOPO,334,equal_position_MSE,,AUTHOR_REPLACEMENT435_NO_HS2
+GEMME_ESM,0.0271730631246268,,,20,,,,drug_specific_caspofungin,supervised-LOPO,334,equal_position_Q2,,AUTHOR_REPLACEMENT435_NO_HS2
+GEMME_ESM_Evo2,0.376935872313168,,,20,,,,drug_specific_caspofungin,supervised-LOPO,334,MSE,,AUTHOR_REPLACEMENT435_NO_HS2
+GEMME_ESM_Evo2,0.559472714294259,,,20,,,,drug_specific_caspofungin,supervised-LOPO,334,MAE,,AUTHOR_REPLACEMENT435_NO_HS2
+GEMME_ESM_Evo2,0.0534510951424807,,,20,,,,drug_specific_caspofungin,supervised-LOPO,334,pooled_Q2,,AUTHOR_REPLACEMENT435_NO_HS2
+GEMME_ESM_Evo2,0.3742114039707521,,,20,,,,drug_specific_caspofungin,supervised-LOPO,334,equal_position_MSE,,AUTHOR_REPLACEMENT435_NO_HS2
+GEMME_ESM_Evo2,0.0560143617139822,,,20,,,,drug_specific_caspofungin,supervised-LOPO,334,equal_position_Q2,,AUTHOR_REPLACEMENT435_NO_HS2
+GEMME_ESM_Evo2 minus GEMME_ESM,0.0291061630596167,,,20,,,,drug_specific_caspofungin,supervised-LOPO,334,delta_pooled_Q2,,AUTHOR_REPLACEMENT435_NO_HS2
+GEMME_ESM_Evo2 minus GEMME_ESM,0.0288412985893553,,,20,,,,drug_specific_caspofungin,supervised-LOPO,334,delta_equal_position_Q2,,AUTHOR_REPLACEMENT435_NO_HS2
+GEMME_ESM,0.1245715069244481,-0.0032490729085156,0.2184081527347781,20,"95% conditional hotspot-stratified position-resampling interval; fixed records, not generalization CI",10000.0,20261018.0,drug_specific_micafungin,supervised-LOPO,334,median_signed_position_rho,,AUTHOR_REPLACEMENT435_NO_HS2
+GEMME_ESM_Evo2,0.2211490264121842,-0.0392801857585139,0.368188854489164,20,"95% conditional hotspot-stratified position-resampling interval; fixed records, not generalization CI",10000.0,20261018.0,drug_specific_micafungin,supervised-LOPO,334,median_signed_position_rho,,AUTHOR_REPLACEMENT435_NO_HS2
+GEMME_ESM_Evo2 minus GEMME_ESM,0.0558823529411764,-0.0984576826682089,0.1382868937048503,20,"95% conditional hotspot-stratified position-resampling interval; fixed records, not generalization CI",10000.0,20261018.0,drug_specific_micafungin,supervised-LOPO,334,median_paired_position_rho_difference,,AUTHOR_REPLACEMENT435_NO_HS2
+GEMME_ESM,0.4787954521067728,,,20,,,,drug_specific_micafungin,supervised-LOPO,334,MSE,,AUTHOR_REPLACEMENT435_NO_HS2
+GEMME_ESM,0.6103018520500177,,,20,,,,drug_specific_micafungin,supervised-LOPO,334,MAE,,AUTHOR_REPLACEMENT435_NO_HS2
+GEMME_ESM,0.0107573522270788,,,20,,,,drug_specific_micafungin,supervised-LOPO,334,pooled_Q2,,AUTHOR_REPLACEMENT435_NO_HS2
+GEMME_ESM,0.4709462624415212,,,20,,,,drug_specific_micafungin,supervised-LOPO,334,equal_position_MSE,,AUTHOR_REPLACEMENT435_NO_HS2
+GEMME_ESM,0.0156382386823761,,,20,,,,drug_specific_micafungin,supervised-LOPO,334,equal_position_Q2,,AUTHOR_REPLACEMENT435_NO_HS2
+GEMME_ESM_Evo2,0.4602700488374492,,,20,,,,drug_specific_micafungin,supervised-LOPO,334,MSE,,AUTHOR_REPLACEMENT435_NO_HS2
+GEMME_ESM_Evo2,0.592034583628203,,,20,,,,drug_specific_micafungin,supervised-LOPO,334,MAE,,AUTHOR_REPLACEMENT435_NO_HS2
+GEMME_ESM_Evo2,0.0490328180874353,,,20,,,,drug_specific_micafungin,supervised-LOPO,334,pooled_Q2,,AUTHOR_REPLACEMENT435_NO_HS2
+GEMME_ESM_Evo2,0.4532716507161927,,,20,,,,drug_specific_micafungin,supervised-LOPO,334,equal_position_MSE,,AUTHOR_REPLACEMENT435_NO_HS2
+GEMME_ESM_Evo2,0.0525813324407852,,,20,,,,drug_specific_micafungin,supervised-LOPO,334,equal_position_Q2,,AUTHOR_REPLACEMENT435_NO_HS2
+GEMME_ESM_Evo2 minus GEMME_ESM,0.0382754658603564,,,20,,,,drug_specific_micafungin,supervised-LOPO,334,delta_pooled_Q2,,AUTHOR_REPLACEMENT435_NO_HS2
+GEMME_ESM_Evo2 minus GEMME_ESM,0.036943093758409,,,20,,,,drug_specific_micafungin,supervised-LOPO,334,delta_equal_position_Q2,,AUTHOR_REPLACEMENT435_NO_HS2

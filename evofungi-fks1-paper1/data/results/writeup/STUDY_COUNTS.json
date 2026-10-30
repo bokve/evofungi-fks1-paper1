@@ -1,0 +1,17 @@
+{
+  "AA_substitutions": 435,
+  "actual_ESM_coverage": {
+    "all_finite": true,
+    "checkpoints": 5,
+    "partial_ensemble": false,
+    "position_jobs": 140,
+    "positions": 28,
+    "primary_AA": 435,
+    "theoretical_AA_no_phenotype": 532
+  },
+  "coverage_source_path": "/content/drive/MyDrive/EvoFungi_AMR/05_results/PAPER1_EXECUTION_2026_10_18/esm-score/291bce6c267ed53b78e8c871c74a319525a564136fc953ba219750261962f241/attempt-6e1bd60ac07e423b8c44ea1ff4b23288/ESM_COVERAGE.json",
+  "coverage_source_sha256": "d47233545dd8ec883879abef5a3972f0bf7c66f98138d05fe209c768b455b2a9",
+  "physical_positions": 28,
+  "raw_source_path": "/content/drive/MyDrive/EvoFungi_AMR/05_results/PAPER1_EXECUTION_2026_10_18/panels/9c621f92ddc67cebd695aafd9f3ddeccb58077bda14b0f301ea907a9ad67fecc/attempt-2c104986918d415fa1262d6b3d1a80b4/RAW435.csv",
+  "raw_source_sha256": "72b0096f6be9f07e72c3738adda547a82dff15302fd06998b7b9ab0511c7b208"
+}

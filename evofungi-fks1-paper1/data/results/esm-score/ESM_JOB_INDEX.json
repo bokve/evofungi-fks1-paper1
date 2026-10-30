@@ -1,0 +1,702 @@
+[
+  {
+    "directory": "/content/drive/MyDrive/EvoFungi_AMR/05_results/PAPER1_EXECUTION_2026_10_18/esm_position_jobs/member_esm1v_t33_650M_UR90S_1_position_639/fef260604463ca123fdc4392b124405247f5ca783d8552736ba230ff3ac27e2a/attempt-8e73ef8e4b154d01b1adbab8b23ef1e4",
+    "fingerprint": "fef260604463ca123fdc4392b124405247f5ca783d8552736ba230ff3ac27e2a",
+    "status": "EXECUTED_VALIDATED"
+  },
+  {
+    "directory": "/content/drive/MyDrive/EvoFungi_AMR/05_results/PAPER1_EXECUTION_2026_10_18/esm_position_jobs/member_esm1v_t33_650M_UR90S_1_position_640/d4f39b6abb161bdb66b529a7036e4f3422a6e513faea2cdbce67252e70f33027/attempt-68940f1975f04f80867d900a457837d7",
+    "fingerprint": "d4f39b6abb161bdb66b529a7036e4f3422a6e513faea2cdbce67252e70f33027",
+    "status": "EXECUTED_VALIDATED"
+  },
+  {
+    "directory": "/content/drive/MyDrive/EvoFungi_AMR/05_results/PAPER1_EXECUTION_2026_10_18/esm_position_jobs/member_esm1v_t33_650M_UR90S_1_position_641/bde674e0723d1bf75c84a3360b6ce515131d2f4b21499c4592aa81c49b402196/attempt-1e9a2fe03e734f7b81d6abeaa1c904b2",
+    "fingerprint": "bde674e0723d1bf75c84a3360b6ce515131d2f4b21499c4592aa81c49b402196",
+    "status": "EXECUTED_VALIDATED"
+  },
+  {
+    "directory": "/content/drive/MyDrive/EvoFungi_AMR/05_results/PAPER1_EXECUTION_2026_10_18/esm_position_jobs/member_esm1v_t33_650M_UR90S_1_position_642/e14efc6fa2f4d5861af2c19324dbbd5bd90a20bdfa6cb9d18d2739be340e20f9/attempt-83bb3af0900c4e7a8ffd3c1b464b2b06",
+    "fingerprint": "e14efc6fa2f4d5861af2c19324dbbd5bd90a20bdfa6cb9d18d2739be340e20f9",
+    "status": "EXECUTED_VALIDATED"
+  },
+  {
+    "directory": "/content/drive/MyDrive/EvoFungi_AMR/05_results/PAPER1_EXECUTION_2026_10_18/esm_position_jobs/member_esm1v_t33_650M_UR90S_1_position_643/eab371f95e340ba2841b1bf36444d3a5535dc7869ace06224fe352f4fbac4aff/attempt-7ff138753c404b328545b6533ee261e2",
+    "fingerprint": "eab371f95e340ba2841b1bf36444d3a5535dc7869ace06224fe352f4fbac4aff",
+    "status": "EXECUTED_VALIDATED"
+  },
+  {
+    "directory": "/content/drive/MyDrive/EvoFungi_AMR/05_results/PAPER1_EXECUTION_2026_10_18/esm_position_jobs/member_esm1v_t33_650M_UR90S_1_position_644/166a9f384ab0ca8a8d7692ce72a5e25f2e0789ee4a713793c2ef8fc604890d2c/attempt-c40b2457dfac472abf415f3a57e48d51",
+    "fingerprint": "166a9f384ab0ca8a8d7692ce72a5e25f2e0789ee4a713793c2ef8fc604890d2c",
+    "status": "EXECUTED_VALIDATED"
+  },
+  {
+    "directory": "/content/drive/MyDrive/EvoFungi_AMR/05_results/PAPER1_EXECUTION_2026_10_18/esm_position_jobs/member_esm1v_t33_650M_UR90S_1_position_645/ddf5d348f6def781d72e9f74328d37d3d2086b812d15bfbcf76b96b93f29b101/attempt-f33ffac103214110ae0d5c898ed9f2c7",
+    "fingerprint": "ddf5d348f6def781d72e9f74328d37d3d2086b812d15bfbcf76b96b93f29b101",
+    "status": "EXECUTED_VALIDATED"
+  },
+  {
+    "directory": "/content/drive/MyDrive/EvoFungi_AMR/05_results/PAPER1_EXECUTION_2026_10_18/esm_position_jobs/member_esm1v_t33_650M_UR90S_1_position_646/8644878155a52296fc14fb6cdb90c4d0ebcd146a52e5262701a7fe352f6b0765/attempt-d18c7b8b28bd42c9a8ebc92ada1db1ef",
+    "fingerprint": "8644878155a52296fc14fb6cdb90c4d0ebcd146a52e5262701a7fe352f6b0765",
+    "status": "EXECUTED_VALIDATED"
+  },
+  {
+    "directory": "/content/drive/MyDrive/EvoFungi_AMR/05_results/PAPER1_EXECUTION_2026_10_18/esm_position_jobs/member_esm1v_t33_650M_UR90S_1_position_647/fa70e7b3a09763ad8e9ad11635f4c62c58fc697a5d26e807ea4a21ab0d3801d9/attempt-7e082a2927a9409c928243070d9bf566",
+    "fingerprint": "fa70e7b3a09763ad8e9ad11635f4c62c58fc697a5d26e807ea4a21ab0d3801d9",
+    "status": "EXECUTED_VALIDATED"
+  },
+  {
+    "directory": "/content/drive/MyDrive/EvoFungi_AMR/05_results/PAPER1_EXECUTION_2026_10_18/esm_position_jobs/member_esm1v_t33_650M_UR90S_1_position_690/5a52b300a19dd54e3f639e45e5a4be60fb385412986c6f6588c400d7242d6169/attempt-d3df1d022943418eb10216595856486f",
+    "fingerprint": "5a52b300a19dd54e3f639e45e5a4be60fb385412986c6f6588c400d7242d6169",
+    "status": "EXECUTED_VALIDATED"
+  },
+  {
+    "directory": "/content/drive/MyDrive/EvoFungi_AMR/05_results/PAPER1_EXECUTION_2026_10_18/esm_position_jobs/member_esm1v_t33_650M_UR90S_1_position_691/7810c18def976f49fd4fb5e6c9105b3c57d8ea8b079cbf560b3cbd52fafa29e9/attempt-779fd03dc33345a09a2624f39b0a1816",
+    "fingerprint": "7810c18def976f49fd4fb5e6c9105b3c57d8ea8b079cbf560b3cbd52fafa29e9",
+    "status": "EXECUTED_VALIDATED"
+  },
+  {
+    "directory": "/content/drive/MyDrive/EvoFungi_AMR/05_results/PAPER1_EXECUTION_2026_10_18/esm_position_jobs/member_esm1v_t33_650M_UR90S_1_position_692/e372eb3cbb64615829705ffa85a89e26f6b832868aa283e5860a642729a8f6fb/attempt-ba8be5b8b9a948c4a0fe3805e2d7e238",
+    "fingerprint": "e372eb3cbb64615829705ffa85a89e26f6b832868aa283e5860a642729a8f6fb",
+    "status": "EXECUTED_VALIDATED"
+  },
+  {
+    "directory": "/content/drive/MyDrive/EvoFungi_AMR/05_results/PAPER1_EXECUTION_2026_10_18/esm_position_jobs/member_esm1v_t33_650M_UR90S_1_position_693/df368dc88cdb964ccd36df61463aa12b0b58cc823103d6a2f7df0b8ae4e32523/attempt-e91851c94e7b42d49898c5ceefec88d7",
+    "fingerprint": "df368dc88cdb964ccd36df61463aa12b0b58cc823103d6a2f7df0b8ae4e32523",
+    "status": "EXECUTED_VALIDATED"
+  },
+  {
+    "directory": "/content/drive/MyDrive/EvoFungi_AMR/05_results/PAPER1_EXECUTION_2026_10_18/esm_position_jobs/member_esm1v_t33_650M_UR90S_1_position_694/ee34942b446e5483a9554d1e5ed812689bcb3d4574c9e21d87efa32d6c333607/attempt-03eb6f6ed97747bca7242585a937347b",
+    "fingerprint": "ee34942b446e5483a9554d1e5ed812689bcb3d4574c9e21d87efa32d6c333607",
+    "status": "EXECUTED_VALIDATED"
+  },
+  {
+    "directory": "/content/drive/MyDrive/EvoFungi_AMR/05_results/PAPER1_EXECUTION_2026_10_18/esm_position_jobs/member_esm1v_t33_650M_UR90S_1_position_695/a589a485fafa6fa4bd1d7d2fc188c8069846f8e095888aa7c4989226338bf9e6/attempt-97a0d3e02cd4474e993f0fb17475bf26",
+    "fingerprint": "a589a485fafa6fa4bd1d7d2fc188c8069846f8e095888aa7c4989226338bf9e6",
+    "status": "EXECUTED_VALIDATED"
+  },
+  {
+    "directory": "/content/drive/MyDrive/EvoFungi_AMR/05_results/PAPER1_EXECUTION_2026_10_18/esm_position_jobs/member_esm1v_t33_650M_UR90S_1_position_696/fa647f8ab831c362be1b416dc2f94da790b53225c69dc45262453524dbc4e5fc/attempt-0b789e408f364b6cae9e5051aee3a56d",
+    "fingerprint": "fa647f8ab831c362be1b416dc2f94da790b53225c69dc45262453524dbc4e5fc",
+    "status": "EXECUTED_VALIDATED"
+  },
+  {
+    "directory": "/content/drive/MyDrive/EvoFungi_AMR/05_results/PAPER1_EXECUTION_2026_10_18/esm_position_jobs/member_esm1v_t33_650M_UR90S_1_position_697/7ad43c2ffdaf89a315666e9baf58042b34c47be151ae94537bbefe78dea72acd/attempt-51f9892ce38c45aebc346d0504d13988",
+    "fingerprint": "7ad43c2ffdaf89a315666e9baf58042b34c47be151ae94537bbefe78dea72acd",
+    "status": "EXECUTED_VALIDATED"
+  },
+  {
+    "directory": "/content/drive/MyDrive/EvoFungi_AMR/05_results/PAPER1_EXECUTION_2026_10_18/esm_position_jobs/member_esm1v_t33_650M_UR90S_1_position_698/dc2f7bfae3cb72eef7cfe37e4ec3a20ae7a1394a86c5e966089f439b2024e55e/attempt-2a00c8119fb54db3a03bafd0e68b3247",
+    "fingerprint": "dc2f7bfae3cb72eef7cfe37e4ec3a20ae7a1394a86c5e966089f439b2024e55e",
+    "status": "EXECUTED_VALIDATED"
+  },
+  {
+    "directory": "/content/drive/MyDrive/EvoFungi_AMR/05_results/PAPER1_EXECUTION_2026_10_18/esm_position_jobs/member_esm1v_t33_650M_UR90S_1_position_699/696cc5112361b130ecc6e4c5f44c5814f18667abd515b034589be14c7e618f8e/attempt-a58efdd8113e4fc59046dab5814af235",
+    "fingerprint": "696cc5112361b130ecc6e4c5f44c5814f18667abd515b034589be14c7e618f8e",
+    "status": "EXECUTED_VALIDATED"
+  },
+  {
+    "directory": "/content/drive/MyDrive/EvoFungi_AMR/05_results/PAPER1_EXECUTION_2026_10_18/esm_position_jobs/member_esm1v_t33_650M_UR90S_1_position_700/4527e8da5106fa22eabad9fff71c111074c35e61d41923928bb1df150d14ac0e/attempt-967dccb30c304528ac0b4731bf58cd34",
+    "fingerprint": "4527e8da5106fa22eabad9fff71c111074c35e61d41923928bb1df150d14ac0e",
+    "status": "EXECUTED_VALIDATED"
+  },
+  {
+    "directory": "/content/drive/MyDrive/EvoFungi_AMR/05_results/PAPER1_EXECUTION_2026_10_18/esm_position_jobs/member_esm1v_t33_650M_UR90S_1_position_1353/da86182a170e1d2d739c4b41be1d9154eba36f536df95ea19fc6c2b88ebe259c/attempt-591084d7eaed4446bf903ad83382d88e",
+    "fingerprint": "da86182a170e1d2d739c4b41be1d9154eba36f536df95ea19fc6c2b88ebe259c",
+    "status": "EXECUTED_VALIDATED"
+  },
+  {
+    "directory": "/content/drive/MyDrive/EvoFungi_AMR/05_results/PAPER1_EXECUTION_2026_10_18/esm_position_jobs/member_esm1v_t33_650M_UR90S_1_position_1354/5986dc0e6bda934c8885defa755f1f8533083db4a936df48a5166afbdba9a0f2/attempt-34b006974a1a4082b1c148d2108b76c7",
+    "fingerprint": "5986dc0e6bda934c8885defa755f1f8533083db4a936df48a5166afbdba9a0f2",
+    "status": "EXECUTED_VALIDATED"
+  },
+  {
+    "directory": "/content/drive/MyDrive/EvoFungi_AMR/05_results/PAPER1_EXECUTION_2026_10_18/esm_position_jobs/member_esm1v_t33_650M_UR90S_1_position_1355/32b6f9f730c985a47c9c7464f40358aed60cf0a04f920e87d1a1d7691c47db6a/attempt-e75d1d3515084dc0ba0286c3cd256cf9",
+    "fingerprint": "32b6f9f730c985a47c9c7464f40358aed60cf0a04f920e87d1a1d7691c47db6a",
+    "status": "EXECUTED_VALIDATED"
+  },
+  {
+    "directory": "/content/drive/MyDrive/EvoFungi_AMR/05_results/PAPER1_EXECUTION_2026_10_18/esm_position_jobs/member_esm1v_t33_650M_UR90S_1_position_1356/e98612e3e1dc0658966931c1700997f36cfca42b0c464a1e9e4d0d604df94146/attempt-f10171637f8e45c5b46c31df22620aeb",
+    "fingerprint": "e98612e3e1dc0658966931c1700997f36cfca42b0c464a1e9e4d0d604df94146",
+    "status": "EXECUTED_VALIDATED"
+  },
+  {
+    "directory": "/content/drive/MyDrive/EvoFungi_AMR/05_results/PAPER1_EXECUTION_2026_10_18/esm_position_jobs/member_esm1v_t33_650M_UR90S_1_position_1357/8bbe7392f5c08a360a2bf20fdc0cbb2e9d49a12e56090d5042615a41e14f16bc/attempt-deefc64a657941499507c92c79277314",
+    "fingerprint": "8bbe7392f5c08a360a2bf20fdc0cbb2e9d49a12e56090d5042615a41e14f16bc",
+    "status": "EXECUTED_VALIDATED"
+  },
+  {
+    "directory": "/content/drive/MyDrive/EvoFungi_AMR/05_results/PAPER1_EXECUTION_2026_10_18/esm_position_jobs/member_esm1v_t33_650M_UR90S_1_position_1358/29ccf8360e818200b93e4fc69083dc663e0a8f45a195927af12ee6b6653e1fd2/attempt-94cceae60ba74131aed956c54732fae0",
+    "fingerprint": "29ccf8360e818200b93e4fc69083dc663e0a8f45a195927af12ee6b6653e1fd2",
+    "status": "EXECUTED_VALIDATED"
+  },
+  {
+    "directory": "/content/drive/MyDrive/EvoFungi_AMR/05_results/PAPER1_EXECUTION_2026_10_18/esm_position_jobs/member_esm1v_t33_650M_UR90S_1_position_1359/34962932795a4b7312c327c2d14db23bdb936d84f700264544f212e9dfa5581d/attempt-3acf19fa4eea485fb102b99eb6776bf3",
+    "fingerprint": "34962932795a4b7312c327c2d14db23bdb936d84f700264544f212e9dfa5581d",
+    "status": "EXECUTED_VALIDATED"
+  },
+  {
+    "directory": "/content/drive/MyDrive/EvoFungi_AMR/05_results/PAPER1_EXECUTION_2026_10_18/esm_position_jobs/member_esm1v_t33_650M_UR90S_1_position_1360/b4c1558e9a760075f10c909623f05257ee1d4aa7c8a73145b1d166370716a9c8/attempt-3e1c64c0f1e74c209b0e8ad034bc6503",
+    "fingerprint": "b4c1558e9a760075f10c909623f05257ee1d4aa7c8a73145b1d166370716a9c8",
+    "status": "EXECUTED_VALIDATED"
+  },
+  {
+    "directory": "/content/drive/MyDrive/EvoFungi_AMR/05_results/PAPER1_EXECUTION_2026_10_18/esm_position_jobs/member_esm1v_t33_650M_UR90S_2_position_639/9b61da2d4c147c0d392f7eca5b5b4c5be2c9c0847d0fbc1530226309ce620553/attempt-e71fa6c05e394f2aadbf23cd4f5f7e3a",
+    "fingerprint": "9b61da2d4c147c0d392f7eca5b5b4c5be2c9c0847d0fbc1530226309ce620553",
+    "status": "EXECUTED_VALIDATED"
+  },
+  {
+    "directory": "/content/drive/MyDrive/EvoFungi_AMR/05_results/PAPER1_EXECUTION_2026_10_18/esm_position_jobs/member_esm1v_t33_650M_UR90S_2_position_640/74a1b1671e543c58e63296b68b5eb63becd0db6c70dd8969c5b7bff0dd9be6e6/attempt-e22da10b8bfb49838a9ae603ffcc39d0",
+    "fingerprint": "74a1b1671e543c58e63296b68b5eb63becd0db6c70dd8969c5b7bff0dd9be6e6",
+    "status": "EXECUTED_VALIDATED"
+  },
+  {
+    "directory": "/content/drive/MyDrive/EvoFungi_AMR/05_results/PAPER1_EXECUTION_2026_10_18/esm_position_jobs/member_esm1v_t33_650M_UR90S_2_position_641/7ff31b0bca27172b8f450420bcf61f8647553e7f00208c9ae7f2374a027ee684/attempt-3c65c87430c64a27b12ced1ef062ffc5",
+    "fingerprint": "7ff31b0bca27172b8f450420bcf61f8647553e7f00208c9ae7f2374a027ee684",
+    "status": "EXECUTED_VALIDATED"
+  },
+  {
+    "directory": "/content/drive/MyDrive/EvoFungi_AMR/05_results/PAPER1_EXECUTION_2026_10_18/esm_position_jobs/member_esm1v_t33_650M_UR90S_2_position_642/7046168b72ab78dd1e0e76797d7e3cf207085561c21608195a27eb03156dd2f4/attempt-14d8086557184c3d820001ab7bf0f41c",
+    "fingerprint": "7046168b72ab78dd1e0e76797d7e3cf207085561c21608195a27eb03156dd2f4",
+    "status": "EXECUTED_VALIDATED"
+  },
+  {
+    "directory": "/content/drive/MyDrive/EvoFungi_AMR/05_results/PAPER1_EXECUTION_2026_10_18/esm_position_jobs/member_esm1v_t33_650M_UR90S_2_position_643/128b173cc98cda7a50147250ccf68da26983809fa3e71e149b793822820b2114/attempt-892ab733228d45bbae83888edcf3a828",
+    "fingerprint": "128b173cc98cda7a50147250ccf68da26983809fa3e71e149b793822820b2114",
+    "status": "EXECUTED_VALIDATED"
+  },
+  {
+    "directory": "/content/drive/MyDrive/EvoFungi_AMR/05_results/PAPER1_EXECUTION_2026_10_18/esm_position_jobs/member_esm1v_t33_650M_UR90S_2_position_644/63ee5b4ce2e826a13d3382150f7b6b0104df24ab8537eff7a47861af047c4af2/attempt-4aca2d73609c4c3caa18c93b767972b2",
+    "fingerprint": "63ee5b4ce2e826a13d3382150f7b6b0104df24ab8537eff7a47861af047c4af2",
+    "status": "EXECUTED_VALIDATED"
+  },
+  {
+    "directory": "/content/drive/MyDrive/EvoFungi_AMR/05_results/PAPER1_EXECUTION_2026_10_18/esm_position_jobs/member_esm1v_t33_650M_UR90S_2_position_645/80482ed8da447f7f0cf0c1bd6abc5da9212e542b5174a02d85543dd75bce2b02/attempt-0152c43f02534a079d4e7761b9f11690",
+    "fingerprint": "80482ed8da447f7f0cf0c1bd6abc5da9212e542b5174a02d85543dd75bce2b02",
+    "status": "EXECUTED_VALIDATED"
+  },
+  {
+    "directory": "/content/drive/MyDrive/EvoFungi_AMR/05_results/PAPER1_EXECUTION_2026_10_18/esm_position_jobs/member_esm1v_t33_650M_UR90S_2_position_646/2d0858b3a9b935e97f91bef60be8f4cae3c0e01802dea964e5f330964f8203af/attempt-767f001edce649039ea400f293f57b8a",
+    "fingerprint": "2d0858b3a9b935e97f91bef60be8f4cae3c0e01802dea964e5f330964f8203af",
+    "status": "EXECUTED_VALIDATED"
+  },
+  {
+    "directory": "/content/drive/MyDrive/EvoFungi_AMR/05_results/PAPER1_EXECUTION_2026_10_18/esm_position_jobs/member_esm1v_t33_650M_UR90S_2_position_647/154858185aface6325e0d432f80a8d45d83fd60ccdcf2387507281442d3bc543/attempt-ee95d76280fe43ee95077ec5582b695e",
+    "fingerprint": "154858185aface6325e0d432f80a8d45d83fd60ccdcf2387507281442d3bc543",
+    "status": "EXECUTED_VALIDATED"
+  },
+  {
+    "directory": "/content/drive/MyDrive/EvoFungi_AMR/05_results/PAPER1_EXECUTION_2026_10_18/esm_position_jobs/member_esm1v_t33_650M_UR90S_2_position_690/e288cf539231b7cf797cc8e5580739f6c48b6adaeaa76aaf468a34ca785a8b1d/attempt-d2e17ce488b1472597bab43dd4c44ba7",
+    "fingerprint": "e288cf539231b7cf797cc8e5580739f6c48b6adaeaa76aaf468a34ca785a8b1d",
+    "status": "EXECUTED_VALIDATED"
+  },
+  {
+    "directory": "/content/drive/MyDrive/EvoFungi_AMR/05_results/PAPER1_EXECUTION_2026_10_18/esm_position_jobs/member_esm1v_t33_650M_UR90S_2_position_691/0aa2101f0d7598a61a8d53d0bcfb7057799418f0d2f2bb142e4fd632a8d3ef9c/attempt-875103fa9a58488d93a5cf69511af208",
+    "fingerprint": "0aa2101f0d7598a61a8d53d0bcfb7057799418f0d2f2bb142e4fd632a8d3ef9c",
+    "status": "EXECUTED_VALIDATED"
+  },
+  {
+    "directory": "/content/drive/MyDrive/EvoFungi_AMR/05_results/PAPER1_EXECUTION_2026_10_18/esm_position_jobs/member_esm1v_t33_650M_UR90S_2_position_692/fe08a64543697235aa26f9d11204516ffc928b4ed4eccbe1b8f39545e42011ba/attempt-0789e329f70e4471bf0035c3b3e64605",
+    "fingerprint": "fe08a64543697235aa26f9d11204516ffc928b4ed4eccbe1b8f39545e42011ba",
+    "status": "EXECUTED_VALIDATED"
+  },
+  {
+    "directory": "/content/drive/MyDrive/EvoFungi_AMR/05_results/PAPER1_EXECUTION_2026_10_18/esm_position_jobs/member_esm1v_t33_650M_UR90S_2_position_693/ff8e069235ecc67e05f6af61f408e8c5f3aafb3fa38774d38284a84ba782cc35/attempt-0964457c0c0846d59449a39d88401d74",
+    "fingerprint": "ff8e069235ecc67e05f6af61f408e8c5f3aafb3fa38774d38284a84ba782cc35",
+    "status": "EXECUTED_VALIDATED"
+  },
+  {
+    "directory": "/content/drive/MyDrive/EvoFungi_AMR/05_results/PAPER1_EXECUTION_2026_10_18/esm_position_jobs/member_esm1v_t33_650M_UR90S_2_position_694/0ed966e7c79ebe9fc31934cd90e4520eff4bed814da9cf5b4e70cf77b28e5603/attempt-54124cc8b9d0479b8a30b448aee24a5f",
+    "fingerprint": "0ed966e7c79ebe9fc31934cd90e4520eff4bed814da9cf5b4e70cf77b28e5603",
+    "status": "EXECUTED_VALIDATED"
+  },
+  {
+    "directory": "/content/drive/MyDrive/EvoFungi_AMR/05_results/PAPER1_EXECUTION_2026_10_18/esm_position_jobs/member_esm1v_t33_650M_UR90S_2_position_695/e8abd0e6f977887f985288d05c5c48ab2cc7b99ef5093446c9cdf4577a975f67/attempt-f8f8d5436927476f953095075e82069b",
+    "fingerprint": "e8abd0e6f977887f985288d05c5c48ab2cc7b99ef5093446c9cdf4577a975f67",
+    "status": "EXECUTED_VALIDATED"
+  },
+  {
+    "directory": "/content/drive/MyDrive/EvoFungi_AMR/05_results/PAPER1_EXECUTION_2026_10_18/esm_position_jobs/member_esm1v_t33_650M_UR90S_2_position_696/5b0be470dd7b19a526c9d613a839c76dd83d595dae360731a1be33a545adfe2d/attempt-132df578a6ff45faa460bc5e602f1fb8",
+    "fingerprint": "5b0be470dd7b19a526c9d613a839c76dd83d595dae360731a1be33a545adfe2d",
+    "status": "EXECUTED_VALIDATED"
+  },
+  {
+    "directory": "/content/drive/MyDrive/EvoFungi_AMR/05_results/PAPER1_EXECUTION_2026_10_18/esm_position_jobs/member_esm1v_t33_650M_UR90S_2_position_697/275c217abc1199a5823281261c13593d2ad7de25891e09399142e3c7982240f1/attempt-aefe431b21a54d65a2329c070d5fad72",
+    "fingerprint": "275c217abc1199a5823281261c13593d2ad7de25891e09399142e3c7982240f1",
+    "status": "EXECUTED_VALIDATED"
+  },
+  {
+    "directory": "/content/drive/MyDrive/EvoFungi_AMR/05_results/PAPER1_EXECUTION_2026_10_18/esm_position_jobs/member_esm1v_t33_650M_UR90S_2_position_698/5b2524d0c45de76c0b3de8cf5c6b0dac49024bf794ab7d68540ef0da3f208494/attempt-e60d1559c14d46b682fe05a987e35aea",
+    "fingerprint": "5b2524d0c45de76c0b3de8cf5c6b0dac49024bf794ab7d68540ef0da3f208494",
+    "status": "EXECUTED_VALIDATED"
+  },
+  {
+    "directory": "/content/drive/MyDrive/EvoFungi_AMR/05_results/PAPER1_EXECUTION_2026_10_18/esm_position_jobs/member_esm1v_t33_650M_UR90S_2_position_699/d27a40798b66461984c9a78c97af7c8744bd176cdf568b8f568a8585593e8dfc/attempt-3a2845da2e954a84906443c616e63eec",
+    "fingerprint": "d27a40798b66461984c9a78c97af7c8744bd176cdf568b8f568a8585593e8dfc",
+    "status": "EXECUTED_VALIDATED"
+  },
+  {
+    "directory": "/content/drive/MyDrive/EvoFungi_AMR/05_results/PAPER1_EXECUTION_2026_10_18/esm_position_jobs/member_esm1v_t33_650M_UR90S_2_position_700/b7866c5a72cb5a593d35d9716040de3fdfcb6955d1527c323f61ee6f41ea1b00/attempt-99b57e9942d14b08b29be4b77983c872",
+    "fingerprint": "b7866c5a72cb5a593d35d9716040de3fdfcb6955d1527c323f61ee6f41ea1b00",
+    "status": "EXECUTED_VALIDATED"
+  },
+  {
+    "directory": "/content/drive/MyDrive/EvoFungi_AMR/05_results/PAPER1_EXECUTION_2026_10_18/esm_position_jobs/member_esm1v_t33_650M_UR90S_2_position_1353/51c9c6140451bfc50854ef8c92f85b726f3beaef89c217a4ecd36fd39b603e84/attempt-cbed6b1403f94257992aa2c65d7e604e",
+    "fingerprint": "51c9c6140451bfc50854ef8c92f85b726f3beaef89c217a4ecd36fd39b603e84",
+    "status": "EXECUTED_VALIDATED"
+  },
+  {
+    "directory": "/content/drive/MyDrive/EvoFungi_AMR/05_results/PAPER1_EXECUTION_2026_10_18/esm_position_jobs/member_esm1v_t33_650M_UR90S_2_position_1354/53b945c14c665fb147b190039cffb5b4548592529d4a86fc90d921c2f67853b8/attempt-dac20442b1524304b3c5f43c16d8ec41",
+    "fingerprint": "53b945c14c665fb147b190039cffb5b4548592529d4a86fc90d921c2f67853b8",
+    "status": "EXECUTED_VALIDATED"
+  },
+  {
+    "directory": "/content/drive/MyDrive/EvoFungi_AMR/05_results/PAPER1_EXECUTION_2026_10_18/esm_position_jobs/member_esm1v_t33_650M_UR90S_2_position_1355/112597aa848fddabdbcbb1e0312baa505dcac2510283dcafbd4d1e8183f63311/attempt-806803025508411b9137af22c0005b60",
+    "fingerprint": "112597aa848fddabdbcbb1e0312baa505dcac2510283dcafbd4d1e8183f63311",
+    "status": "EXECUTED_VALIDATED"
+  },
+  {
+    "directory": "/content/drive/MyDrive/EvoFungi_AMR/05_results/PAPER1_EXECUTION_2026_10_18/esm_position_jobs/member_esm1v_t33_650M_UR90S_2_position_1356/7ab5c779977f53ee451ab3127547130aa0bdb5d6518e8cfa2cc4fc2838a5ed74/attempt-e39756030d684cf6a713dcfb19033c85",
+    "fingerprint": "7ab5c779977f53ee451ab3127547130aa0bdb5d6518e8cfa2cc4fc2838a5ed74",
+    "status": "EXECUTED_VALIDATED"
+  },
+  {
+    "directory": "/content/drive/MyDrive/EvoFungi_AMR/05_results/PAPER1_EXECUTION_2026_10_18/esm_position_jobs/member_esm1v_t33_650M_UR90S_2_position_1357/a8934cbe5ed551ac17a68a813576ff94fd982680c6e3c76da7b6176aadbaf64b/attempt-9ec9e69a6dc64855b7e1d9e4d124a142",
+    "fingerprint": "a8934cbe5ed551ac17a68a813576ff94fd982680c6e3c76da7b6176aadbaf64b",
+    "status": "EXECUTED_VALIDATED"
+  },
+  {
+    "directory": "/content/drive/MyDrive/EvoFungi_AMR/05_results/PAPER1_EXECUTION_2026_10_18/esm_position_jobs/member_esm1v_t33_650M_UR90S_2_position_1358/31dee3c6e9ef05f86698e430db39f3f81989da0b780197c9215933af6d8d1f7e/attempt-c9d06946e552457b9ee935ce78157947",
+    "fingerprint": "31dee3c6e9ef05f86698e430db39f3f81989da0b780197c9215933af6d8d1f7e",
+    "status": "EXECUTED_VALIDATED"
+  },
+  {
+    "directory": "/content/drive/MyDrive/EvoFungi_AMR/05_results/PAPER1_EXECUTION_2026_10_18/esm_position_jobs/member_esm1v_t33_650M_UR90S_2_position_1359/e15299d6fe3008b81df1ba298f7d5c47dca340cde21a40d1e6017b7a7d794acb/attempt-513aa13f3aba475cbf040323d67e6ab6",
+    "fingerprint": "e15299d6fe3008b81df1ba298f7d5c47dca340cde21a40d1e6017b7a7d794acb",
+    "status": "EXECUTED_VALIDATED"
+  },
+  {
+    "directory": "/content/drive/MyDrive/EvoFungi_AMR/05_results/PAPER1_EXECUTION_2026_10_18/esm_position_jobs/member_esm1v_t33_650M_UR90S_2_position_1360/d82b6de724c5538af6f47fb7c0238b104bc3f059dca274695d2a09959b840037/attempt-8ee5e6a0ad5c43609cd48b851184fbdb",
+    "fingerprint": "d82b6de724c5538af6f47fb7c0238b104bc3f059dca274695d2a09959b840037",
+    "status": "EXECUTED_VALIDATED"
+  },
+  {
+    "directory": "/content/drive/MyDrive/EvoFungi_AMR/05_results/PAPER1_EXECUTION_2026_10_18/esm_position_jobs/member_esm1v_t33_650M_UR90S_3_position_639/8982808f50018d9918e0841e39dd1295db3831ff73b6e40f3f0ac8954d00d994/attempt-34deff2f168f41aea11e3ae2a08cd99d",
+    "fingerprint": "8982808f50018d9918e0841e39dd1295db3831ff73b6e40f3f0ac8954d00d994",
+    "status": "EXECUTED_VALIDATED"
+  },
+  {
+    "directory": "/content/drive/MyDrive/EvoFungi_AMR/05_results/PAPER1_EXECUTION_2026_10_18/esm_position_jobs/member_esm1v_t33_650M_UR90S_3_position_640/6ef5e42dab8853eddb88ccfa1f4df6f37cbac4215bab276bea43c173e6a85eef/attempt-7585b2ebb11a421f8c215c01e419dea8",
+    "fingerprint": "6ef5e42dab8853eddb88ccfa1f4df6f37cbac4215bab276bea43c173e6a85eef",
+    "status": "EXECUTED_VALIDATED"
+  },
+  {
+    "directory": "/content/drive/MyDrive/EvoFungi_AMR/05_results/PAPER1_EXECUTION_2026_10_18/esm_position_jobs/member_esm1v_t33_650M_UR90S_3_position_641/1111a503488f75568b0ab2b964905835b85b93ebdb3b859cbc8afb23d7570a4b/attempt-470ae435191244c9b93b181c3984ce87",
+    "fingerprint": "1111a503488f75568b0ab2b964905835b85b93ebdb3b859cbc8afb23d7570a4b",
+    "status": "EXECUTED_VALIDATED"
+  },
+  {
+    "directory": "/content/drive/MyDrive/EvoFungi_AMR/05_results/PAPER1_EXECUTION_2026_10_18/esm_position_jobs/member_esm1v_t33_650M_UR90S_3_position_642/d140a7e50da9efc1f84df384db96783182061fee24c0d90886de07c497e7d990/attempt-7445a30f3bed4034af599c8de97b9d18",
+    "fingerprint": "d140a7e50da9efc1f84df384db96783182061fee24c0d90886de07c497e7d990",
+    "status": "EXECUTED_VALIDATED"
+  },
+  {
+    "directory": "/content/drive/MyDrive/EvoFungi_AMR/05_results/PAPER1_EXECUTION_2026_10_18/esm_position_jobs/member_esm1v_t33_650M_UR90S_3_position_643/15db811152f50f7874e842478edd5eff23dc36bf36fa3dfc88c94d07c047261e/attempt-452a77a4296e43b9b16c56140a697a01",
+    "fingerprint": "15db811152f50f7874e842478edd5eff23dc36bf36fa3dfc88c94d07c047261e",
+    "status": "EXECUTED_VALIDATED"
+  },
+  {
+    "directory": "/content/drive/MyDrive/EvoFungi_AMR/05_results/PAPER1_EXECUTION_2026_10_18/esm_position_jobs/member_esm1v_t33_650M_UR90S_3_position_644/99beb63d38ef2e5b607ebb5bf286b5fb67bf498cfc9ed4ab2cb2359469c6cc35/attempt-f756bfdbee714787ada4ebabfbb14a5b",
+    "fingerprint": "99beb63d38ef2e5b607ebb5bf286b5fb67bf498cfc9ed4ab2cb2359469c6cc35",
+    "status": "EXECUTED_VALIDATED"
+  },
+  {
+    "directory": "/content/drive/MyDrive/EvoFungi_AMR/05_results/PAPER1_EXECUTION_2026_10_18/esm_position_jobs/member_esm1v_t33_650M_UR90S_3_position_645/c7c5e64635017da1b70d24548da1cfafc332b49cc98bf28670b0f94bb3f76cb4/attempt-4bba288fbe644d389122f8ba0d22f7ae",
+    "fingerprint": "c7c5e64635017da1b70d24548da1cfafc332b49cc98bf28670b0f94bb3f76cb4",
+    "status": "EXECUTED_VALIDATED"
+  },
+  {
+    "directory": "/content/drive/MyDrive/EvoFungi_AMR/05_results/PAPER1_EXECUTION_2026_10_18/esm_position_jobs/member_esm1v_t33_650M_UR90S_3_position_646/2c9246f987b87e66fca399a920b0c5ed62bf4eb83c273f7dcc45a8e68ce69775/attempt-55241f6989024fe3af22b83ed25c6966",
+    "fingerprint": "2c9246f987b87e66fca399a920b0c5ed62bf4eb83c273f7dcc45a8e68ce69775",
+    "status": "EXECUTED_VALIDATED"
+  },
+  {
+    "directory": "/content/drive/MyDrive/EvoFungi_AMR/05_results/PAPER1_EXECUTION_2026_10_18/esm_position_jobs/member_esm1v_t33_650M_UR90S_3_position_647/172a87d7b75af8991eb290bdaeff7de078d575e13ee611daa56d7e8890da1e7d/attempt-826ad5fc834649e28748d5fe9c7ec603",
+    "fingerprint": "172a87d7b75af8991eb290bdaeff7de078d575e13ee611daa56d7e8890da1e7d",
+    "status": "EXECUTED_VALIDATED"
+  },
+  {
+    "directory": "/content/drive/MyDrive/EvoFungi_AMR/05_results/PAPER1_EXECUTION_2026_10_18/esm_position_jobs/member_esm1v_t33_650M_UR90S_3_position_690/30411138ba0e869bb6abfbcefdb6687b68a48612a25f989cdd7f5a89c3a91e60/attempt-315a2b6248ea4fdfb772e670fe23628a",
+    "fingerprint": "30411138ba0e869bb6abfbcefdb6687b68a48612a25f989cdd7f5a89c3a91e60",
+    "status": "EXECUTED_VALIDATED"
+  },
+  {
+    "directory": "/content/drive/MyDrive/EvoFungi_AMR/05_results/PAPER1_EXECUTION_2026_10_18/esm_position_jobs/member_esm1v_t33_650M_UR90S_3_position_691/f5fae50a61a94b746c751f36cd1fcdeefa4cae1cedde91833ceeda538618cc63/attempt-fe33ba15a10c454ca3fdc52c0750210e",
+    "fingerprint": "f5fae50a61a94b746c751f36cd1fcdeefa4cae1cedde91833ceeda538618cc63",
+    "status": "EXECUTED_VALIDATED"
+  },
+  {
+    "directory": "/content/drive/MyDrive/EvoFungi_AMR/05_results/PAPER1_EXECUTION_2026_10_18/esm_position_jobs/member_esm1v_t33_650M_UR90S_3_position_692/0933419e1641529a4a95920e40c687cc42a91884eac94c7e15e95d648424eb22/attempt-7580a8e25cc14f3e86ed840e3195482b",
+    "fingerprint": "0933419e1641529a4a95920e40c687cc42a91884eac94c7e15e95d648424eb22",
+    "status": "EXECUTED_VALIDATED"
+  },
+  {
+    "directory": "/content/drive/MyDrive/EvoFungi_AMR/05_results/PAPER1_EXECUTION_2026_10_18/esm_position_jobs/member_esm1v_t33_650M_UR90S_3_position_693/67550d24c7f0a4d33519c797463aae44a5cc71a648eedf8a58882b164618ad7c/attempt-90c40447b1a84199bdf1f2e6dd0e49d8",
+    "fingerprint": "67550d24c7f0a4d33519c797463aae44a5cc71a648eedf8a58882b164618ad7c",
+    "status": "EXECUTED_VALIDATED"
+  },
+  {
+    "directory": "/content/drive/MyDrive/EvoFungi_AMR/05_results/PAPER1_EXECUTION_2026_10_18/esm_position_jobs/member_esm1v_t33_650M_UR90S_3_position_694/fd7f1193347c53f30dc21436890d99b61eae733133b331f562656d589b75875f/attempt-00363dd1d5dc47d48cea8cdb8d466acd",
+    "fingerprint": "fd7f1193347c53f30dc21436890d99b61eae733133b331f562656d589b75875f",
+    "status": "EXECUTED_VALIDATED"
+  },
+  {
+    "directory": "/content/drive/MyDrive/EvoFungi_AMR/05_results/PAPER1_EXECUTION_2026_10_18/esm_position_jobs/member_esm1v_t33_650M_UR90S_3_position_695/5999cb2995aa9eed059f3a30dee22dccd4919260e7f924b09df9fe44aaa9ae84/attempt-96db5d83f9c148c08bac593fd434bdf8",
+    "fingerprint": "5999cb2995aa9eed059f3a30dee22dccd4919260e7f924b09df9fe44aaa9ae84",
+    "status": "EXECUTED_VALIDATED"
+  },
+  {
+    "directory": "/content/drive/MyDrive/EvoFungi_AMR/05_results/PAPER1_EXECUTION_2026_10_18/esm_position_jobs/member_esm1v_t33_650M_UR90S_3_position_696/4d877acd67f104b8df6cfdaf52785bc598d33933eac0dbfeefa80fcc5ddd5212/attempt-e1b6a9a59cdf4ff6b8168a98de683a31",
+    "fingerprint": "4d877acd67f104b8df6cfdaf52785bc598d33933eac0dbfeefa80fcc5ddd5212",
+    "status": "EXECUTED_VALIDATED"
+  },
+  {
+    "directory": "/content/drive/MyDrive/EvoFungi_AMR/05_results/PAPER1_EXECUTION_2026_10_18/esm_position_jobs/member_esm1v_t33_650M_UR90S_3_position_697/f81c10169596f381507ccbef77373503c4c417f1976a8c126efcd0bd44ac47e7/attempt-3f2e87bfd97443fc9a79cd9747bf69c9",
+    "fingerprint": "f81c10169596f381507ccbef77373503c4c417f1976a8c126efcd0bd44ac47e7",
+    "status": "EXECUTED_VALIDATED"
+  },
+  {
+    "directory": "/content/drive/MyDrive/EvoFungi_AMR/05_results/PAPER1_EXECUTION_2026_10_18/esm_position_jobs/member_esm1v_t33_650M_UR90S_3_position_698/c174a1f767373ae74b689994b13b654cfdf2f68cb33a8ef34328d701edcae6ff/attempt-3ab2b2aecac646b293bd908725199780",
+    "fingerprint": "c174a1f767373ae74b689994b13b654cfdf2f68cb33a8ef34328d701edcae6ff",
+    "status": "EXECUTED_VALIDATED"
+  },
+  {
+    "directory": "/content/drive/MyDrive/EvoFungi_AMR/05_results/PAPER1_EXECUTION_2026_10_18/esm_position_jobs/member_esm1v_t33_650M_UR90S_3_position_699/023167436a334bbfd780fc5b8b104553fc5f0832dc6105796792fe1eeb582095/attempt-a3e9aeef68224d97bc22bbe21c7d4339",
+    "fingerprint": "023167436a334bbfd780fc5b8b104553fc5f0832dc6105796792fe1eeb582095",
+    "status": "EXECUTED_VALIDATED"
+  },
+  {
+    "directory": "/content/drive/MyDrive/EvoFungi_AMR/05_results/PAPER1_EXECUTION_2026_10_18/esm_position_jobs/member_esm1v_t33_650M_UR90S_3_position_700/10da16079391b637a0071e7defeefb354c325712bba73036314b57a6f734fcaa/attempt-efe0829b6dcd4227a4703530e9b3c87b",
+    "fingerprint": "10da16079391b637a0071e7defeefb354c325712bba73036314b57a6f734fcaa",
+    "status": "EXECUTED_VALIDATED"
+  },
+  {
+    "directory": "/content/drive/MyDrive/EvoFungi_AMR/05_results/PAPER1_EXECUTION_2026_10_18/esm_position_jobs/member_esm1v_t33_650M_UR90S_3_position_1353/0c077e7208a5e41d950a6ae880cbd62ea80cc86f8da3e08730e14bbcd0c18075/attempt-10e6e8e4796c43778630d9099b764731",
+    "fingerprint": "0c077e7208a5e41d950a6ae880cbd62ea80cc86f8da3e08730e14bbcd0c18075",
+    "status": "EXECUTED_VALIDATED"
+  },
+  {
+    "directory": "/content/drive/MyDrive/EvoFungi_AMR/05_results/PAPER1_EXECUTION_2026_10_18/esm_position_jobs/member_esm1v_t33_650M_UR90S_3_position_1354/32e4baae7432d561088b1e9b2c78d9f62684e2e5800c8d6d240a1c5bfe4a8a05/attempt-41bbe3a15d3c4ec588c390e5993b9c4d",
+    "fingerprint": "32e4baae7432d561088b1e9b2c78d9f62684e2e5800c8d6d240a1c5bfe4a8a05",
+    "status": "EXECUTED_VALIDATED"
+  },
+  {
+    "directory": "/content/drive/MyDrive/EvoFungi_AMR/05_results/PAPER1_EXECUTION_2026_10_18/esm_position_jobs/member_esm1v_t33_650M_UR90S_3_position_1355/b6620146f1010b383bd5b6757ffa5a67c4a301f8cc61069105d12927d4cb604f/attempt-6284866ce9474c7cabfabfb82f6adaa9",
+    "fingerprint": "b6620146f1010b383bd5b6757ffa5a67c4a301f8cc61069105d12927d4cb604f",
+    "status": "EXECUTED_VALIDATED"
+  },
+  {
+    "directory": "/content/drive/MyDrive/EvoFungi_AMR/05_results/PAPER1_EXECUTION_2026_10_18/esm_position_jobs/member_esm1v_t33_650M_UR90S_3_position_1356/f8397ae92460c7f014a2cc0bb2831a4e5147ba6f30c71a47b75590a1abc047cc/attempt-b828bdc4caec4d2c96959b25b18937c9",
+    "fingerprint": "f8397ae92460c7f014a2cc0bb2831a4e5147ba6f30c71a47b75590a1abc047cc",
+    "status": "EXECUTED_VALIDATED"
+  },
+  {
+    "directory": "/content/drive/MyDrive/EvoFungi_AMR/05_results/PAPER1_EXECUTION_2026_10_18/esm_position_jobs/member_esm1v_t33_650M_UR90S_3_position_1357/31b059ec15766eeb573c20de8d6c6bd1b64d53910ca29a1a448a7c1baf206cf8/attempt-d8293e35a9144d8388cc1143433bc165",
+    "fingerprint": "31b059ec15766eeb573c20de8d6c6bd1b64d53910ca29a1a448a7c1baf206cf8",
+    "status": "EXECUTED_VALIDATED"
+  },
+  {
+    "directory": "/content/drive/MyDrive/EvoFungi_AMR/05_results/PAPER1_EXECUTION_2026_10_18/esm_position_jobs/member_esm1v_t33_650M_UR90S_3_position_1358/4aebf664d065f27065b21dc4fba8b421b9ae836c2421271cf2da2c5f6798091c/attempt-a220edda172341218cd6774495725202",
+    "fingerprint": "4aebf664d065f27065b21dc4fba8b421b9ae836c2421271cf2da2c5f6798091c",
+    "status": "EXECUTED_VALIDATED"
+  },
+  {
+    "directory": "/content/drive/MyDrive/EvoFungi_AMR/05_results/PAPER1_EXECUTION_2026_10_18/esm_position_jobs/member_esm1v_t33_650M_UR90S_3_position_1359/b32e4beef65dbd38a33938b02c1c61bf37373df44b0c3a8d161724b14e3fb527/attempt-06eeb44b3ef94cf18cf24826cf9e1b34",
+    "fingerprint": "b32e4beef65dbd38a33938b02c1c61bf37373df44b0c3a8d161724b14e3fb527",
+    "status": "EXECUTED_VALIDATED"
+  },
+  {
+    "directory": "/content/drive/MyDrive/EvoFungi_AMR/05_results/PAPER1_EXECUTION_2026_10_18/esm_position_jobs/member_esm1v_t33_650M_UR90S_3_position_1360/076642edd51e38e743e4cea361fb6f0aff23c539c68313b4eae9dff50596047c/attempt-ff31fbfbae83453398b6acfaedc26c90",
+    "fingerprint": "076642edd51e38e743e4cea361fb6f0aff23c539c68313b4eae9dff50596047c",
+    "status": "EXECUTED_VALIDATED"
+  },
+  {
+    "directory": "/content/drive/MyDrive/EvoFungi_AMR/05_results/PAPER1_EXECUTION_2026_10_18/esm_position_jobs/member_esm1v_t33_650M_UR90S_4_position_639/28afed73daff117c0a53b2d8f0ffe75639a51da01b878d0e1c1420d096ab454d/attempt-25ba0484296b4152a581793729155714",
+    "fingerprint": "28afed73daff117c0a53b2d8f0ffe75639a51da01b878d0e1c1420d096ab454d",
+    "status": "EXECUTED_VALIDATED"
+  },
+  {
+    "directory": "/content/drive/MyDrive/EvoFungi_AMR/05_results/PAPER1_EXECUTION_2026_10_18/esm_position_jobs/member_esm1v_t33_650M_UR90S_4_position_640/d8d94442c4147218aa9b68f1bd654ec9dfd67c56ffa071a69f4911c7cfabb053/attempt-5e44207fdd41475aa77eda4b8b676d1d",
+    "fingerprint": "d8d94442c4147218aa9b68f1bd654ec9dfd67c56ffa071a69f4911c7cfabb053",
+    "status": "EXECUTED_VALIDATED"
+  },
+  {
+    "directory": "/content/drive/MyDrive/EvoFungi_AMR/05_results/PAPER1_EXECUTION_2026_10_18/esm_position_jobs/member_esm1v_t33_650M_UR90S_4_position_641/01f9ba9cdfb5b262934c2fe7659d7fd14184055ac754bcd5ca49696ae07d9a02/attempt-eaaa5e7b54fa447cab396d410ed34f6b",
+    "fingerprint": "01f9ba9cdfb5b262934c2fe7659d7fd14184055ac754bcd5ca49696ae07d9a02",
+    "status": "EXECUTED_VALIDATED"
+  },
+  {
+    "directory": "/content/drive/MyDrive/EvoFungi_AMR/05_results/PAPER1_EXECUTION_2026_10_18/esm_position_jobs/member_esm1v_t33_650M_UR90S_4_position_642/bf14eee82c8f1d46a25a5db8902e043caae4775ee994917748c194e92679b05a/attempt-510c17f685234758b4c7eb901e702653",
+    "fingerprint": "bf14eee82c8f1d46a25a5db8902e043caae4775ee994917748c194e92679b05a",
+    "status": "EXECUTED_VALIDATED"
+  },
+  {
+    "directory": "/content/drive/MyDrive/EvoFungi_AMR/05_results/PAPER1_EXECUTION_2026_10_18/esm_position_jobs/member_esm1v_t33_650M_UR90S_4_position_643/32b318ed35c9a0b6b7ff05d9b3af7377c970757a22a8c19f52fc2a29ea8e3920/attempt-31ba983f74944d4a956efe43fd0ec0ee",
+    "fingerprint": "32b318ed35c9a0b6b7ff05d9b3af7377c970757a22a8c19f52fc2a29ea8e3920",
+    "status": "EXECUTED_VALIDATED"
+  },
+  {
+    "directory": "/content/drive/MyDrive/EvoFungi_AMR/05_results/PAPER1_EXECUTION_2026_10_18/esm_position_jobs/member_esm1v_t33_650M_UR90S_4_position_644/fe2a8b8c59109f927bfc3c45413d3b8462c13313c7f3cdcb6a40168ee14ed002/attempt-63b67f974c8243aaacd0b7ab982cb2b0",
+    "fingerprint": "fe2a8b8c59109f927bfc3c45413d3b8462c13313c7f3cdcb6a40168ee14ed002",
+    "status": "EXECUTED_VALIDATED"
+  },
+  {
+    "directory": "/content/drive/MyDrive/EvoFungi_AMR/05_results/PAPER1_EXECUTION_2026_10_18/esm_position_jobs/member_esm1v_t33_650M_UR90S_4_position_645/88bfd237f5a0a360e95c8406ae6a88b1e88bb60ff3a87b1cd108a09dd3a6b0ef/attempt-60fc3f26e2844386ab534a95462274a4",
+    "fingerprint": "88bfd237f5a0a360e95c8406ae6a88b1e88bb60ff3a87b1cd108a09dd3a6b0ef",
+    "status": "EXECUTED_VALIDATED"
+  },
+  {
+    "directory": "/content/drive/MyDrive/EvoFungi_AMR/05_results/PAPER1_EXECUTION_2026_10_18/esm_position_jobs/member_esm1v_t33_650M_UR90S_4_position_646/42332c87729258eea2a2467b3a7a0fe51edfe956e995bb9a1d373d6c8eb6f05b/attempt-5b31b9854673407a9a598165ec552aec",
+    "fingerprint": "42332c87729258eea2a2467b3a7a0fe51edfe956e995bb9a1d373d6c8eb6f05b",
+    "status": "EXECUTED_VALIDATED"
+  },
+  {
+    "directory": "/content/drive/MyDrive/EvoFungi_AMR/05_results/PAPER1_EXECUTION_2026_10_18/esm_position_jobs/member_esm1v_t33_650M_UR90S_4_position_647/f691644097af89e5dbdceb6074ce61557a649534ae0d32fbfe1168f06f76a1b5/attempt-55f5a0b18a7444109bd24e9dd1f53987",
+    "fingerprint": "f691644097af89e5dbdceb6074ce61557a649534ae0d32fbfe1168f06f76a1b5",
+    "status": "EXECUTED_VALIDATED"
+  },
+  {
+    "directory": "/content/drive/MyDrive/EvoFungi_AMR/05_results/PAPER1_EXECUTION_2026_10_18/esm_position_jobs/member_esm1v_t33_650M_UR90S_4_position_690/081e554c9b4e01edb2eee246d61f9ff3dd28daa75fcb27690129003eed71ba7d/attempt-525a850e5959482684ae404f6e960583",
+    "fingerprint": "081e554c9b4e01edb2eee246d61f9ff3dd28daa75fcb27690129003eed71ba7d",
+    "status": "EXECUTED_VALIDATED"
+  },
+  {
+    "directory": "/content/drive/MyDrive/EvoFungi_AMR/05_results/PAPER1_EXECUTION_2026_10_18/esm_position_jobs/member_esm1v_t33_650M_UR90S_4_position_691/915996e34f128479f99b28808a286e2e2f818b1c9369bcc6e63d9f4e229882d9/attempt-18b179feb1e1489db61a3017064eeb69",
+    "fingerprint": "915996e34f128479f99b28808a286e2e2f818b1c9369bcc6e63d9f4e229882d9",
+    "status": "EXECUTED_VALIDATED"
+  },
+  {
+    "directory": "/content/drive/MyDrive/EvoFungi_AMR/05_results/PAPER1_EXECUTION_2026_10_18/esm_position_jobs/member_esm1v_t33_650M_UR90S_4_position_692/2bb42ee0a5116614273c0b93b3fab5e5494b5dfbdb74389b9d17a3a6c5ee14b1/attempt-5f45ae0534d24f79ab54d8306299c5bd",
+    "fingerprint": "2bb42ee0a5116614273c0b93b3fab5e5494b5dfbdb74389b9d17a3a6c5ee14b1",
+    "status": "EXECUTED_VALIDATED"
+  },
+  {
+    "directory": "/content/drive/MyDrive/EvoFungi_AMR/05_results/PAPER1_EXECUTION_2026_10_18/esm_position_jobs/member_esm1v_t33_650M_UR90S_4_position_693/e076d6dd462d0aa06e17116ab081aca690b19ef217ce5b015bd0a76058ee717a/attempt-ddfc4ac0496e4a19849780530058605a",
+    "fingerprint": "e076d6dd462d0aa06e17116ab081aca690b19ef217ce5b015bd0a76058ee717a",
+    "status": "EXECUTED_VALIDATED"
+  },
+  {
+    "directory": "/content/drive/MyDrive/EvoFungi_AMR/05_results/PAPER1_EXECUTION_2026_10_18/esm_position_jobs/member_esm1v_t33_650M_UR90S_4_position_694/4ef28df8f8ab3d8a03595d416f89ecfd5744a578301dd528c14ac08797fc12e6/attempt-9e58122eac8b4eb5bfe6ba86269fe7cd",
+    "fingerprint": "4ef28df8f8ab3d8a03595d416f89ecfd5744a578301dd528c14ac08797fc12e6",
+    "status": "EXECUTED_VALIDATED"
+  },
+  {
+    "directory": "/content/drive/MyDrive/EvoFungi_AMR/05_results/PAPER1_EXECUTION_2026_10_18/esm_position_jobs/member_esm1v_t33_650M_UR90S_4_position_695/09997117dcdff9e7db95c45669dd690057d43615955eb4872a608a528ceebf96/attempt-3fa63a70fc614801b30324332364a379",
+    "fingerprint": "09997117dcdff9e7db95c45669dd690057d43615955eb4872a608a528ceebf96",
+    "status": "EXECUTED_VALIDATED"
+  },
+  {
+    "directory": "/content/drive/MyDrive/EvoFungi_AMR/05_results/PAPER1_EXECUTION_2026_10_18/esm_position_jobs/member_esm1v_t33_650M_UR90S_4_position_696/9a03e916d1d0775ea8a41a6463919ae3bcace67d9a3362d86e4c222bff3d785a/attempt-0cce87673951462f9d19186cb29c4bea",
+    "fingerprint": "9a03e916d1d0775ea8a41a6463919ae3bcace67d9a3362d86e4c222bff3d785a",
+    "status": "EXECUTED_VALIDATED"
+  },
+  {
+    "directory": "/content/drive/MyDrive/EvoFungi_AMR/05_results/PAPER1_EXECUTION_2026_10_18/esm_position_jobs/member_esm1v_t33_650M_UR90S_4_position_697/545164375b5c1fde27417545dbdd2dc05a2f85f4b4821e7b6cb05022b012a9b0/attempt-2bcb4b4aa98744c38a4a5c732fd9210c",
+    "fingerprint": "545164375b5c1fde27417545dbdd2dc05a2f85f4b4821e7b6cb05022b012a9b0",
+    "status": "EXECUTED_VALIDATED"
+  },
+  {
+    "directory": "/content/drive/MyDrive/EvoFungi_AMR/05_results/PAPER1_EXECUTION_2026_10_18/esm_position_jobs/member_esm1v_t33_650M_UR90S_4_position_698/a029fd69d05ceccfbaad682d4a6cdf787e536f7c86547993bf884ac399d85391/attempt-09fe8fdfc82041b5af344bc6e6d37110",
+    "fingerprint": "a029fd69d05ceccfbaad682d4a6cdf787e536f7c86547993bf884ac399d85391",
+    "status": "EXECUTED_VALIDATED"
+  },
+  {
+    "directory": "/content/drive/MyDrive/EvoFungi_AMR/05_results/PAPER1_EXECUTION_2026_10_18/esm_position_jobs/member_esm1v_t33_650M_UR90S_4_position_699/fd13b26353a0f94c928eeef5a8b39a28a5a360cad132d31f800f3000b23d3db0/attempt-58b1504e8a51435c89199084518e4ece",
+    "fingerprint": "fd13b26353a0f94c928eeef5a8b39a28a5a360cad132d31f800f3000b23d3db0",
+    "status": "EXECUTED_VALIDATED"
+  },
+  {
+    "directory": "/content/drive/MyDrive/EvoFungi_AMR/05_results/PAPER1_EXECUTION_2026_10_18/esm_position_jobs/member_esm1v_t33_650M_UR90S_4_position_700/25b443464031cda52caf8099aed25029b14928e67859ff1e973d76638f0226ee/attempt-a46bc72a398e45e5991c4fa96ca374e8",
+    "fingerprint": "25b443464031cda52caf8099aed25029b14928e67859ff1e973d76638f0226ee",
+    "status": "EXECUTED_VALIDATED"
+  },
+  {
+    "directory": "/content/drive/MyDrive/EvoFungi_AMR/05_results/PAPER1_EXECUTION_2026_10_18/esm_position_jobs/member_esm1v_t33_650M_UR90S_4_position_1353/baa4c9a832034aacc93ce1b119778baab9363ad474cc46f434e1aa30bef250e5/attempt-4be2ba5a32ee46818954f45c0d80f97f",
+    "fingerprint": "baa4c9a832034aacc93ce1b119778baab9363ad474cc46f434e1aa30bef250e5",
+    "status": "EXECUTED_VALIDATED"
+  },
+  {
+    "directory": "/content/drive/MyDrive/EvoFungi_AMR/05_results/PAPER1_EXECUTION_2026_10_18/esm_position_jobs/member_esm1v_t33_650M_UR90S_4_position_1354/d3335bd95b08cad5746909dcc9d00f55c03264a04a009e78f46e88038735e5ac/attempt-1a3402a5d4994ab580e4ea0ce11dada5",
+    "fingerprint": "d3335bd95b08cad5746909dcc9d00f55c03264a04a009e78f46e88038735e5ac",
+    "status": "EXECUTED_VALIDATED"
+  },
+  {
+    "directory": "/content/drive/MyDrive/EvoFungi_AMR/05_results/PAPER1_EXECUTION_2026_10_18/esm_position_jobs/member_esm1v_t33_650M_UR90S_4_position_1355/050418048e9a1d033dd39b40c6a87f7be1c5c28bd7edb8980639ca1b0b84c9d7/attempt-07a9e12b26934749816d4af2832ee04c",
+    "fingerprint": "050418048e9a1d033dd39b40c6a87f7be1c5c28bd7edb8980639ca1b0b84c9d7",
+    "status": "EXECUTED_VALIDATED"
+  },
+  {
+    "directory": "/content/drive/MyDrive/EvoFungi_AMR/05_results/PAPER1_EXECUTION_2026_10_18/esm_position_jobs/member_esm1v_t33_650M_UR90S_4_position_1356/39a4678ae1734b4caba01350a708f307bd3caf8d9c7bfed34516601025727497/attempt-da2afc4bc83c4489ba0ada27faf4a467",
+    "fingerprint": "39a4678ae1734b4caba01350a708f307bd3caf8d9c7bfed34516601025727497",
+    "status": "EXECUTED_VALIDATED"
+  },
+  {
+    "directory": "/content/drive/MyDrive/EvoFungi_AMR/05_results/PAPER1_EXECUTION_2026_10_18/esm_position_jobs/member_esm1v_t33_650M_UR90S_4_position_1357/ab4cab8b395bbdebfefbe57e33f7f65ad7fea5651d2f8bab84a16f43bdb62db0/attempt-2dcacfb99ac44b9890719134a3b61537",
+    "fingerprint": "ab4cab8b395bbdebfefbe57e33f7f65ad7fea5651d2f8bab84a16f43bdb62db0",
+    "status": "EXECUTED_VALIDATED"
+  },
+  {
+    "directory": "/content/drive/MyDrive/EvoFungi_AMR/05_results/PAPER1_EXECUTION_2026_10_18/esm_position_jobs/member_esm1v_t33_650M_UR90S_4_position_1358/f7dbdea25a45378357926747215cf87014077b77f7de804be0e0267b0787e75e/attempt-e7f75751546d402f85fd276a213deed6",
+    "fingerprint": "f7dbdea25a45378357926747215cf87014077b77f7de804be0e0267b0787e75e",
+    "status": "EXECUTED_VALIDATED"
+  },
+  {
+    "directory": "/content/drive/MyDrive/EvoFungi_AMR/05_results/PAPER1_EXECUTION_2026_10_18/esm_position_jobs/member_esm1v_t33_650M_UR90S_4_position_1359/7187e6324a8496c5c278ca505841558477722f5c7c2e7eb398136cd8997fc93e/attempt-c2c9d0209aee442b8e0b8f3deec6c963",
+    "fingerprint": "7187e6324a8496c5c278ca505841558477722f5c7c2e7eb398136cd8997fc93e",
+    "status": "EXECUTED_VALIDATED"
+  },
+  {
+    "directory": "/content/drive/MyDrive/EvoFungi_AMR/05_results/PAPER1_EXECUTION_2026_10_18/esm_position_jobs/member_esm1v_t33_650M_UR90S_4_position_1360/c4945d76cfc496d98ca337ee087602678c91b411a35201dcb3441fbe289483cb/attempt-2a98451c6e0f4c6e8645568241b63a6a",
+    "fingerprint": "c4945d76cfc496d98ca337ee087602678c91b411a35201dcb3441fbe289483cb",
+    "status": "EXECUTED_VALIDATED"
+  },
+  {
+    "directory": "/content/drive/MyDrive/EvoFungi_AMR/05_results/PAPER1_EXECUTION_2026_10_18/esm_position_jobs/member_esm1v_t33_650M_UR90S_5_position_639/4ec158c6923e6c417de7c8d9192377e0e79ba5c5a925d7d9e254534fc9758627/attempt-2ce9cdd59f764e32bb0a9cb0e93ebddf",
+    "fingerprint": "4ec158c6923e6c417de7c8d9192377e0e79ba5c5a925d7d9e254534fc9758627",
+    "status": "EXECUTED_VALIDATED"
+  },
+  {
+    "directory": "/content/drive/MyDrive/EvoFungi_AMR/05_results/PAPER1_EXECUTION_2026_10_18/esm_position_jobs/member_esm1v_t33_650M_UR90S_5_position_640/208f4efc9119ad3d7d2fd6010b11ce92633dc6180f7726da82a8c6c5147eda84/attempt-077bb3e9d921492698012f21af8a83f9",
+    "fingerprint": "208f4efc9119ad3d7d2fd6010b11ce92633dc6180f7726da82a8c6c5147eda84",
+    "status": "EXECUTED_VALIDATED"
+  },
+  {
+    "directory": "/content/drive/MyDrive/EvoFungi_AMR/05_results/PAPER1_EXECUTION_2026_10_18/esm_position_jobs/member_esm1v_t33_650M_UR90S_5_position_641/d68b4ce46c88a83aa2bc2a31ff6db39f7262001e27856b59ea0ab9fc304bb2c2/attempt-999f42df72ac45c8a224c0bf659a4256",
+    "fingerprint": "d68b4ce46c88a83aa2bc2a31ff6db39f7262001e27856b59ea0ab9fc304bb2c2",
+    "status": "EXECUTED_VALIDATED"
+  },
+  {
+    "directory": "/content/drive/MyDrive/EvoFungi_AMR/05_results/PAPER1_EXECUTION_2026_10_18/esm_position_jobs/member_esm1v_t33_650M_UR90S_5_position_642/a92698003addf0b4e6d293848b3e124dabd868e57511cb75b5f081ffd5c6a48d/attempt-55d8102dbb7e45419035f2218fc51833",
+    "fingerprint": "a92698003addf0b4e6d293848b3e124dabd868e57511cb75b5f081ffd5c6a48d",
+    "status": "EXECUTED_VALIDATED"
+  },
+  {
+    "directory": "/content/drive/MyDrive/EvoFungi_AMR/05_results/PAPER1_EXECUTION_2026_10_18/esm_position_jobs/member_esm1v_t33_650M_UR90S_5_position_643/014f46a15504b3e06e05a264492ad816a7a504ce7be61a37a34db4de6e0a4dd3/attempt-f134eb014d0f418f8ef5e1e2448b37f4",
+    "fingerprint": "014f46a15504b3e06e05a264492ad816a7a504ce7be61a37a34db4de6e0a4dd3",
+    "status": "EXECUTED_VALIDATED"
+  },
+  {
+    "directory": "/content/drive/MyDrive/EvoFungi_AMR/05_results/PAPER1_EXECUTION_2026_10_18/esm_position_jobs/member_esm1v_t33_650M_UR90S_5_position_644/97124cc2a08728101eddd02fd829d23d4461b1b837a06659441181b3755e03b1/attempt-a4f869725d24436393c17dab36fddd9b",
+    "fingerprint": "97124cc2a08728101eddd02fd829d23d4461b1b837a06659441181b3755e03b1",
+    "status": "EXECUTED_VALIDATED"
+  },
+  {
+    "directory": "/content/drive/MyDrive/EvoFungi_AMR/05_results/PAPER1_EXECUTION_2026_10_18/esm_position_jobs/member_esm1v_t33_650M_UR90S_5_position_645/0b6c1e65acf701502cc1130e2a169bfe08dc5b4299f7e156e58237897d9c1276/attempt-680ca9b9573944d38c91f797c5d8b8bc",
+    "fingerprint": "0b6c1e65acf701502cc1130e2a169bfe08dc5b4299f7e156e58237897d9c1276",
+    "status": "EXECUTED_VALIDATED"
+  },
+  {
+    "directory": "/content/drive/MyDrive/EvoFungi_AMR/05_results/PAPER1_EXECUTION_2026_10_18/esm_position_jobs/member_esm1v_t33_650M_UR90S_5_position_646/0d6ea7f30314f817b83b50d4cd2eb5898999e4a8f6873fbb10225b36ab29c429/attempt-493823375a944907a20dce52ba2f847d",
+    "fingerprint": "0d6ea7f30314f817b83b50d4cd2eb5898999e4a8f6873fbb10225b36ab29c429",
+    "status": "EXECUTED_VALIDATED"
+  },
+  {
+    "directory": "/content/drive/MyDrive/EvoFungi_AMR/05_results/PAPER1_EXECUTION_2026_10_18/esm_position_jobs/member_esm1v_t33_650M_UR90S_5_position_647/a5a67e2a602225a0b0c3c10b14ba27104c742b1be5eec6b46332b9bfbb475ff4/attempt-cd49ad40beb944a4b7f5ad13fdb3d645",
+    "fingerprint": "a5a67e2a602225a0b0c3c10b14ba27104c742b1be5eec6b46332b9bfbb475ff4",
+    "status": "EXECUTED_VALIDATED"
+  },
+  {
+    "directory": "/content/drive/MyDrive/EvoFungi_AMR/05_results/PAPER1_EXECUTION_2026_10_18/esm_position_jobs/member_esm1v_t33_650M_UR90S_5_position_690/85a7099809d3999aa805b3b7195fbd4ea5d3ba2e502618048536ea1e9c7243c1/attempt-74a931c8a9dc4abbada3648d0c2f51bb",
+    "fingerprint": "85a7099809d3999aa805b3b7195fbd4ea5d3ba2e502618048536ea1e9c7243c1",
+    "status": "EXECUTED_VALIDATED"
+  },
+  {
+    "directory": "/content/drive/MyDrive/EvoFungi_AMR/05_results/PAPER1_EXECUTION_2026_10_18/esm_position_jobs/member_esm1v_t33_650M_UR90S_5_position_691/494352ea99d27175fbdf0b9352530307a30c0291e67f8867b66ed52e5cfc706b/attempt-a5b46fe15a2948fbb3726ecf5e8a76d4",
+    "fingerprint": "494352ea99d27175fbdf0b9352530307a30c0291e67f8867b66ed52e5cfc706b",
+    "status": "EXECUTED_VALIDATED"
+  },
+  {
+    "directory": "/content/drive/MyDrive/EvoFungi_AMR/05_results/PAPER1_EXECUTION_2026_10_18/esm_position_jobs/member_esm1v_t33_650M_UR90S_5_position_692/7537f8941e5ae6d387795a0de2a7c3c30a65bf29a3c6c67f3b33f6e4534e48d1/attempt-5e3f61059c0744bb9ad9f14fe5791405",
+    "fingerprint": "7537f8941e5ae6d387795a0de2a7c3c30a65bf29a3c6c67f3b33f6e4534e48d1",
+    "status": "EXECUTED_VALIDATED"
+  },
+  {
+    "directory": "/content/drive/MyDrive/EvoFungi_AMR/05_results/PAPER1_EXECUTION_2026_10_18/esm_position_jobs/member_esm1v_t33_650M_UR90S_5_position_693/629d4f3b72fe1d33a19f5c7854b2ca725207cd42064d2514c415dc8d73646322/attempt-b25bd4ca9c2e4eaebcaca2f18919ffac",
+    "fingerprint": "629d4f3b72fe1d33a19f5c7854b2ca725207cd42064d2514c415dc8d73646322",
+    "status": "EXECUTED_VALIDATED"
+  },
+  {
+    "directory": "/content/drive/MyDrive/EvoFungi_AMR/05_results/PAPER1_EXECUTION_2026_10_18/esm_position_jobs/member_esm1v_t33_650M_UR90S_5_position_694/2dbaab244854b4e26f3baa225340a871dd7e2275fdcfb5bf7ea6ee78f2015c09/attempt-fae117bbc5e647808548ac3c882a175e",
+    "fingerprint": "2dbaab244854b4e26f3baa225340a871dd7e2275fdcfb5bf7ea6ee78f2015c09",
+    "status": "EXECUTED_VALIDATED"
+  },
+  {
+    "directory": "/content/drive/MyDrive/EvoFungi_AMR/05_results/PAPER1_EXECUTION_2026_10_18/esm_position_jobs/member_esm1v_t33_650M_UR90S_5_position_695/5f648c89214066b208013866450de86aa78591c34e3e49501a99e7432d4da631/attempt-a8530e4d9a894e0291d7b0533fe175f4",
+    "fingerprint": "5f648c89214066b208013866450de86aa78591c34e3e49501a99e7432d4da631",
+    "status": "EXECUTED_VALIDATED"
+  },
+  {
+    "directory": "/content/drive/MyDrive/EvoFungi_AMR/05_results/PAPER1_EXECUTION_2026_10_18/esm_position_jobs/member_esm1v_t33_650M_UR90S_5_position_696/58860f82ee961b0f714eb14db90bedc3c143640d59834cdc23e24efe8bdaafe8/attempt-10f7b8be2cfb409ab1b5e07db4701e80",
+    "fingerprint": "58860f82ee961b0f714eb14db90bedc3c143640d59834cdc23e24efe8bdaafe8",
+    "status": "EXECUTED_VALIDATED"
+  },
+  {
+    "directory": "/content/drive/MyDrive/EvoFungi_AMR/05_results/PAPER1_EXECUTION_2026_10_18/esm_position_jobs/member_esm1v_t33_650M_UR90S_5_position_697/88765138de9ec42b756ccf5c2f8688fa35b27ed1094fcbe97a660a43bdd10214/attempt-57e15eb601734a998365a36ef2d59881",
+    "fingerprint": "88765138de9ec42b756ccf5c2f8688fa35b27ed1094fcbe97a660a43bdd10214",
+    "status": "EXECUTED_VALIDATED"
+  },
+  {
+    "directory": "/content/drive/MyDrive/EvoFungi_AMR/05_results/PAPER1_EXECUTION_2026_10_18/esm_position_jobs/member_esm1v_t33_650M_UR90S_5_position_698/fd6ddb358b16498b0b4d43f7d2e9e1345bbaa3c13d19d646852043738550d13b/attempt-f1f8823e23cf47c2bc680902d5ff34af",
+    "fingerprint": "fd6ddb358b16498b0b4d43f7d2e9e1345bbaa3c13d19d646852043738550d13b",
+    "status": "EXECUTED_VALIDATED"
+  },
+  {
+    "directory": "/content/drive/MyDrive/EvoFungi_AMR/05_results/PAPER1_EXECUTION_2026_10_18/esm_position_jobs/member_esm1v_t33_650M_UR90S_5_position_699/6843226ec5a5fd52fd2a11dadb6df3b7d8900566ab8ad815d8279c29edada45f/attempt-db8e8fcd332f40a096bc822bb3a1b127",
+    "fingerprint": "6843226ec5a5fd52fd2a11dadb6df3b7d8900566ab8ad815d8279c29edada45f",
+    "status": "EXECUTED_VALIDATED"
+  },
+  {
+    "directory": "/content/drive/MyDrive/EvoFungi_AMR/05_results/PAPER1_EXECUTION_2026_10_18/esm_position_jobs/member_esm1v_t33_650M_UR90S_5_position_700/178aaa97070f2256f432c7a09635b43fc2049e17c39ff79694680f8faef8a1e5/attempt-4980f32784f146fab30d3b5b245c32fd",
+    "fingerprint": "178aaa97070f2256f432c7a09635b43fc2049e17c39ff79694680f8faef8a1e5",
+    "status": "EXECUTED_VALIDATED"
+  },
+  {
+    "directory": "/content/drive/MyDrive/EvoFungi_AMR/05_results/PAPER1_EXECUTION_2026_10_18/esm_position_jobs/member_esm1v_t33_650M_UR90S_5_position_1353/3765b9e2bb3a843e60210500ef5b611ef1fa7f75f44c1b11ce4ed3b530f56a1c/attempt-32dfa8fc2db64d84868da61e37324bd1",
+    "fingerprint": "3765b9e2bb3a843e60210500ef5b611ef1fa7f75f44c1b11ce4ed3b530f56a1c",
+    "status": "EXECUTED_VALIDATED"
+  },
+  {
+    "directory": "/content/drive/MyDrive/EvoFungi_AMR/05_results/PAPER1_EXECUTION_2026_10_18/esm_position_jobs/member_esm1v_t33_650M_UR90S_5_position_1354/ecb0ef34be1a31c253d2cee076d3f16b9b5049a1a6362a052c8500464e7644b3/attempt-2489ca0600594c96bd6b2854f21d600b",
+    "fingerprint": "ecb0ef34be1a31c253d2cee076d3f16b9b5049a1a6362a052c8500464e7644b3",
+    "status": "EXECUTED_VALIDATED"
+  },
+  {
+    "directory": "/content/drive/MyDrive/EvoFungi_AMR/05_results/PAPER1_EXECUTION_2026_10_18/esm_position_jobs/member_esm1v_t33_650M_UR90S_5_position_1355/75ed1d14d75efe4936cd01d315b0f6a79e153419b24959e07d040b421a167330/attempt-49bd28613bb74d6d9d5ceaaab27a5bfd",
+    "fingerprint": "75ed1d14d75efe4936cd01d315b0f6a79e153419b24959e07d040b421a167330",
+    "status": "EXECUTED_VALIDATED"
+  },
+  {
+    "directory": "/content/drive/MyDrive/EvoFungi_AMR/05_results/PAPER1_EXECUTION_2026_10_18/esm_position_jobs/member_esm1v_t33_650M_UR90S_5_position_1356/b3b4c63540d0e46aee92b22dc70600f77640f72d137e43d05a459655577cf422/attempt-c29a6b203ee34db8b2c78367154ce4ae",
+    "fingerprint": "b3b4c63540d0e46aee92b22dc70600f77640f72d137e43d05a459655577cf422",
+    "status": "EXECUTED_VALIDATED"
+  },
+  {
+    "directory": "/content/drive/MyDrive/EvoFungi_AMR/05_results/PAPER1_EXECUTION_2026_10_18/esm_position_jobs/member_esm1v_t33_650M_UR90S_5_position_1357/27888d79bf5598279ec98514e253b9e7bda27f57440b08529763adb5afcaf66b/attempt-8ae36d5e74fb49439a1faa40a767c22d",
+    "fingerprint": "27888d79bf5598279ec98514e253b9e7bda27f57440b08529763adb5afcaf66b",
+    "status": "EXECUTED_VALIDATED"
+  },
+  {
+    "directory": "/content/drive/MyDrive/EvoFungi_AMR/05_results/PAPER1_EXECUTION_2026_10_18/esm_position_jobs/member_esm1v_t33_650M_UR90S_5_position_1358/e3c868c5d09de43c109d8a4c539d734f21f833d0754cd35badb407a91679a530/attempt-aa6d22562a474d0d96855053014d2a84",
+    "fingerprint": "e3c868c5d09de43c109d8a4c539d734f21f833d0754cd35badb407a91679a530",
+    "status": "EXECUTED_VALIDATED"
+  },
+  {
+    "directory": "/content/drive/MyDrive/EvoFungi_AMR/05_results/PAPER1_EXECUTION_2026_10_18/esm_position_jobs/member_esm1v_t33_650M_UR90S_5_position_1359/7e450eb8112044040b39206f780fe3d4daa5a28dc695e3cf12100f376e24a8f4/attempt-3081e3cc8cf84896ad7acbe54864843c",
+    "fingerprint": "7e450eb8112044040b39206f780fe3d4daa5a28dc695e3cf12100f376e24a8f4",
+    "status": "EXECUTED_VALIDATED"
+  },
+  {
+    "directory": "/content/drive/MyDrive/EvoFungi_AMR/05_results/PAPER1_EXECUTION_2026_10_18/esm_position_jobs/member_esm1v_t33_650M_UR90S_5_position_1360/bbbdc1f20d84a5e7e6f564167ce69dfbedda58ea362f379fafd7ffa46fff3ca3/attempt-06d3dd2c365f4b0bbfc3d4e08f830b69",
+    "fingerprint": "bbbdc1f20d84a5e7e6f564167ce69dfbedda58ea362f379fafd7ffa46fff3ca3",
+    "status": "EXECUTED_VALIDATED"
+  }
+]

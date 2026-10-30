@@ -1,0 +1,25 @@
+contrast_or_model,point,conditional_low,conditional_high,n_positions,interval_type,B,seed,endpoint,analysis,n_AA,metric,reason,scenario
+Evo2,0.2122807017543859,0.1009211376858435,0.2899896800825592,28,"95% conditional hotspot-stratified position-resampling interval; fixed records, not generalization CI",10000.0,20261018.0,fitness_none,zero-shot,435,median_signed_position_rho,,RAW435
+GEMME,0.1652692917419593,0.0366562567912455,0.3622718153370844,28,"95% conditional hotspot-stratified position-resampling interval; fixed records, not generalization CI",10000.0,20261018.0,fitness_none,zero-shot,435,median_signed_position_rho,,RAW435
+ESM,0.0414086687306501,-0.043262001156738,0.1363636363636363,28,"95% conditional hotspot-stratified position-resampling interval; fixed records, not generalization CI",10000.0,20261018.0,fitness_none,zero-shot,435,median_signed_position_rho,,RAW435
+ESM minus GEMME,-0.1563362893075927,-0.2943664287406481,-0.0795279885023521,28,"95% conditional hotspot-stratified position-resampling interval; fixed records, not generalization CI",10000.0,20261018.0,fitness_none,zero-shot,435,median_paired_position_rho_difference,,RAW435
+ESM minus Evo2,-0.1952528379772961,-0.2568627450980392,0.0715635241951031,28,"95% conditional hotspot-stratified position-resampling interval; fixed records, not generalization CI",10000.0,20261018.0,fitness_none,zero-shot,435,median_paired_position_rho_difference,,RAW435
+Evo2 minus GEMME,0.0307045908336878,-0.1104567852599562,0.0903276240754167,28,"95% conditional hotspot-stratified position-resampling interval; fixed records, not generalization CI",10000.0,20261018.0,fitness_none,zero-shot,435,median_paired_position_rho_difference,,RAW435
+GEMME_ESM,0.0409841448541139,-0.0659340659340659,0.1323529411764706,28,"95% conditional hotspot-stratified position-resampling interval; fixed records, not generalization CI",10000.0,20261018.0,fitness_none,supervised-LOPO,435,median_signed_position_rho,,RAW435
+GEMME_ESM_Evo2,0.1696594427244582,0.0014705882352941,0.2395604395604395,28,"95% conditional hotspot-stratified position-resampling interval; fixed records, not generalization CI",10000.0,20261018.0,fitness_none,supervised-LOPO,435,median_signed_position_rho,,RAW435
+GEMME_ESM_Evo2 minus GEMME_ESM,0.1080753353973168,-0.0168228829993536,0.1326103720840563,28,"95% conditional hotspot-stratified position-resampling interval; fixed records, not generalization CI",10000.0,20261018.0,fitness_none,supervised-LOPO,435,median_paired_position_rho_difference,,RAW435
+GEMME_ESM,0.0210394047009011,,,28,,,,fitness_none,supervised-LOPO,435,MSE,,RAW435
+GEMME_ESM,0.0813004866579525,,,28,,,,fitness_none,supervised-LOPO,435,MAE,,RAW435
+GEMME_ESM,0.0289016309024787,,,28,,,,fitness_none,supervised-LOPO,435,pooled_Q2,,RAW435
+GEMME_ESM,0.0203269428146131,,,28,,,,fitness_none,supervised-LOPO,435,equal_position_MSE,,RAW435
+GEMME_ESM,0.0217002963807233,,,28,,,,fitness_none,supervised-LOPO,435,equal_position_Q2,,RAW435
+GEMME_ESM_Evo2,0.0213652212443654,,,28,,,,fitness_none,supervised-LOPO,435,MSE,,RAW435
+GEMME_ESM_Evo2,0.0816242437798979,,,28,,,,fitness_none,supervised-LOPO,435,MAE,,RAW435
+GEMME_ESM_Evo2,0.0138631866840625,,,28,,,,fitness_none,supervised-LOPO,435,pooled_Q2,,RAW435
+GEMME_ESM_Evo2,0.0209402420779118,,,28,,,,fitness_none,supervised-LOPO,435,equal_position_MSE,,RAW435
+GEMME_ESM_Evo2,-0.0078167093484269,,,28,,,,fitness_none,supervised-LOPO,435,equal_position_Q2,,RAW435
+GEMME_ESM_Evo2 minus GEMME_ESM,-0.0150384442184162,,,28,,,,fitness_none,supervised-LOPO,435,delta_pooled_Q2,,RAW435
+GEMME_ESM_Evo2 minus GEMME_ESM,-0.0295170057291502,,,28,,,,fitness_none,supervised-LOPO,435,delta_equal_position_Q2,,RAW435
+Evo2,0.204513534041756,,,28,,,,fitness_none,pooled_descriptive,435,pooled_Spearman,estimable,RAW435
+GEMME,0.2272000297518891,,,28,,,,fitness_none,pooled_descriptive,435,pooled_Spearman,estimable,RAW435
+ESM,-0.0297044772333319,,,28,,,,fitness_none,pooled_descriptive,435,pooled_Spearman,estimable,RAW435

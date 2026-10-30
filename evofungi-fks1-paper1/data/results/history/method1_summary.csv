@@ -1,0 +1,6 @@
+predictor,n_variants,n_positions,pooled_rho,equal_position_median_rho,equal_position_mean_rho,position_bootstrap_CI_low,position_bootstrap_CI_high,paired_delta_vs_primary_median,paired_delta_vs_primary_CI_low,paired_delta_vs_primary_CI_high,record_type,component,median_paired_delta_rho_vs_primary,mean_paired_delta_rho_vs_primary,positions_component_gt_primary,positions_component_lt_primary,positions_equal
+local53_primary,435.0,28.0,0.204513534041756,0.2122807017543859,0.1704657691195727,0.1009211376858435,0.2935242518059855,,,,predictor_summary,,,,,,
+codon_local,435.0,28.0,0.2519576870762183,0.1780058177117,0.1914596856409108,0.1064680933101985,0.3125,0.0183419521654815,-0.0339712918660287,0.0768315018315018,predictor_summary,,,,,,
+downstream50,435.0,28.0,0.1197321328343565,0.1285603715170278,0.1510151171252453,-0.0037409700722394,0.3710245636716225,-0.0308049535603715,-0.0916666666666667,0.0425339366515837,predictor_summary,,,,,,
+,,,,,,-0.0339712918660287,0.0768315018315018,,,,paired_component_vs_primary,codon_local,0.0183419521654815,0.020993916521338,15.0,13.0,0.0
+,,,,,,-0.0916666666666667,0.0425339366515837,,,,paired_component_vs_primary,downstream50,-0.0308049535603715,-0.0194506519943273,12.0,16.0,0.0

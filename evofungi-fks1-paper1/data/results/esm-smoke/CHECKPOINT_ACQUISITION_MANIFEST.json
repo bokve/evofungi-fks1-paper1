@@ -1,0 +1,16 @@
+[
+  {
+    "GPU": "Tesla T4",
+    "acquisition_url": "https://dl.fbaipublicfiles.com/fair-esm/models/esm1v_t33_650M_UR90S_1.pt",
+    "bytes": 7828635339,
+    "checkpoint": "esm1v_t33_650M_UR90S_1",
+    "device": "cuda:0",
+    "dtype": "torch.float32",
+    "eval": true,
+    "remote_cache_path": "/content/evofungi-model-cache/checkpoints/esm1v_t33_650M_UR90S_1.pt",
+    "scoring": "masked_marginal_ALT_minus_WT",
+    "seed": 20261018,
+    "sha256": "9519ee60f1cddad3c101afb1f42612499e188534969c3f682e94850870f70433",
+    "token_capacity": 1024
+  }
+]

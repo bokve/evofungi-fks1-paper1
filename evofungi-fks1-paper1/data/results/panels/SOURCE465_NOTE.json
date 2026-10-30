@@ -1,0 +1,31 @@
+{
+  "WT_hotspot_references": 3,
+  "extra_missense": [
+    "FKS1:F639C",
+    "FKS1:L640D",
+    "FKS1:L642G",
+    "FKS1:P647N",
+    "FKS1:P647Q"
+  ],
+  "historical_replicate_models_refit": false,
+  "missense": 440,
+  "project_subset": true,
+  "source465_wording": "Operational table has 465 hotspot-AA identities including WT references; article wording is not silently reinterpreted as 465 missense.",
+  "source_labels": "Annotations from author replacement source; not independent experimental validation or new clinical labels.",
+  "source_rows": [
+    {
+      "hotspot": "HS1",
+      "unique_sequences_including_WT": 177
+    },
+    {
+      "hotspot": "HS2",
+      "unique_sequences_including_WT": 108
+    },
+    {
+      "hotspot": "HS3",
+      "unique_sequences_including_WT": 180
+    }
+  ],
+  "stop": 22,
+  "two_AA_replacement_all_four_conditions": true
+}

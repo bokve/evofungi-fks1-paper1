@@ -1,0 +1,129 @@
+{
+  "protocol_id": "P1_ESM_COMPARISON_PROTOCOL_2026_10_18_v1",
+  "locked_utc": "2026-10-17T22:29:33.645353+00:00",
+  "scope": "Prospective only with respect to new ESM associations; historical results already known",
+  "source_document": "PAPER1_HANDOFF_2026_10_18_v2/docs/03_NEW_ANALYSIS_PROTOCOL.md",
+  "source_document_sha256": "432a5325a1fb816834a7d1f874b8372b1e974a6bdc66cb8989daa01cef2dd4a3",
+  "unit": "canonical AA substitution",
+  "primary_panel": "RAW435",
+  "sensitivity_panel": "AUTHOR_REPLACEMENT435",
+  "endpoints": [
+    "fitness_none",
+    "drug_specific_anidulafungin",
+    "drug_specific_caspofungin",
+    "drug_specific_micafungin"
+  ],
+  "total_drug_fitness": "descriptive only",
+  "features": {
+    "evo2_primary_AA_score": "frozen median experimental-codon ALT-minus-REF local53; no sign flip",
+    "gemme_primary": "raw gemme_norm_combi / normPred_evolCombi; no sign flip",
+    "esm1v_ensemble": "arithmetic mean of five masked-marginal ALT-minus-WT log probabilities"
+  },
+  "ESM": {
+    "checkpoints": [
+      "esm1v_t33_650M_UR90S_1",
+      "esm1v_t33_650M_UR90S_2",
+      "esm1v_t33_650M_UR90S_3",
+      "esm1v_t33_650M_UR90S_4",
+      "esm1v_t33_650M_UR90S_5"
+    ],
+    "window": "w=min(1022,L); p0=p1-1; start0=max(0,min(p0-511,L-w)); end0=start0+w; token=p0-start0+1",
+    "expected_reference_AA": 1876,
+    "precision": "float32 no autocast",
+    "seed": 20261018,
+    "repeat_absolute_tolerance": 1e-05,
+    "repeat_relative_tolerance": 1e-05,
+    "official_formula_absolute_tolerance": 1e-05,
+    "WT_self_tolerance": 0.0,
+    "partial_ensemble_allowed": false,
+    "scope": "28 positions, all canonical AA probabilities in same forwards; no new Evo2 calls"
+  },
+  "masks": "one-to-one keyed finite intersection of all three predictors and endpoint; identical nested model masks; no imputation",
+  "spearman": {
+    "minimum_AA_per_position": 3,
+    "ties": "average ranks",
+    "constants": "NA",
+    "summary": "median signed within-position rho on common estimable positions",
+    "contrasts": [
+      "ESM-GEMME",
+      "ESM-Evo2",
+      "Evo2-GEMME"
+    ],
+    "difference": "median position-level paired difference, not difference of medians",
+    "pooled": "descriptive"
+  },
+  "lopo": {
+    "group": "physical position",
+    "baseline": [
+      "intercept",
+      "gemme_primary",
+      "esm1v_ensemble"
+    ],
+    "augmented": [
+      "intercept",
+      "gemme_primary",
+      "esm1v_ensemble",
+      "evo2_primary_AA_score"
+    ],
+    "fit": "unweighted numpy.linalg.lstsq rcond=None",
+    "preprocessing": "training-only means and population SD; constant scale=1, flagged",
+    "tuning": false,
+    "rank_deficiency": "retain solution and diagnose",
+    "primary_effect": "median within-position rho(augmented OOF)-rho(baseline OOF)",
+    "secondary": [
+      "MSE",
+      "MAE",
+      "pooled_Q2",
+      "equal_position_MSE",
+      "equal_position_Q2",
+      "delta_Q2"
+    ],
+    "Q2_denominator": "fold-training-mean squared errors; NA exactly zero or nonfinite; no outcome-selected epsilon"
+  },
+  "uncertainty": {
+    "B": 10000,
+    "seed": 20261018,
+    "draws": "physical positions with replacement within hotspot; original eligible counts retained",
+    "interval": "2.5th/97.5th percentile conditional position-resampling interval",
+    "LOPO_refit_in_interval": false,
+    "upstream_measurement_uncertainty_included": false,
+    "algorithm_generalization_CI": false,
+    "raw_replacement": "same draws if same eligible positions; otherwise paired sensitivity intersection recorded explicitly"
+  },
+  "influence": "delete each physical position from entire new analysis and rebuild LOPO; all endpoints and raw/replacement; no selected exclusions",
+  "HS2_exclusion": "remove all HS2 positions from train and test and rebuild LOPO",
+  "author_replacement": "only V641W/L642K four aggregate fitness values; recompute all D-C; same 435 identities, no replicate copying",
+  "formal_new_p_values": false,
+  "claim_limits": [
+    "no superiority from pointwise interval exclusion",
+    "no equivalence from weak results",
+    "no clinical MIC/resistance/lethality",
+    "LOPO within Fks1 landscape only"
+  ],
+  "numeric_identity_tolerance": 1e-12,
+  "clean_reproduction_tolerance": 1e-10,
+  "phenotype_read_gate": {
+    "allowed_pre_association": [
+      "schema",
+      "identity",
+      "correction lineage",
+      "panel construction"
+    ],
+    "ESM_associations_require": [
+      "locked protocol hash",
+      "all five members",
+      "validated primary masks",
+      "GPU smoke"
+    ]
+  },
+  "HS2_continuous": "BLOCKED_INPUT unless independently documented source gate passes before new supplemental protocol and any ratio",
+  "HS2_support_scores": {
+    "independent_feature_gate": true,
+    "candidate": "theoretical H490/208 AA groups including absent support",
+    "Evo2_summary": "median existing H-panel local53 codon scores within AA group, distinct from primary",
+    "endpoint": "T0-HC codons / designed exact codons; PRE separate",
+    "metric": "signed within-position Spearman; common paired estimability; same conditional resampling convention",
+    "interpretation": "exploratory descriptive; no independent binomial trials or survivor435-only conditioning"
+  },
+  "NEW3I": "DEFERRED_SCOPE"
+}

@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "Please cite this software release and the original experimental study. Add the actual version DOI after deposition."
+type: software
+title: "Endpoint and metric dependence of genomic and protein sequence scores in a yeast Fks1 fitness landscape"
+authors:
+  - family-names: "Boz"
+    given-names: "Muhammed Ali"
+version: 1.0.0
+license: MIT
+keywords:
+  - reproducibility
+  - sequence scores
+  - Fks1
+  - deep mutational scanning

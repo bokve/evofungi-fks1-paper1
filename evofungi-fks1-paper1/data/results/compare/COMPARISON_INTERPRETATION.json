@@ -1,0 +1,15 @@
+{
+  "HS2_removed_from_train_and_test_in_sensitivity": true,
+  "all_position_deletions_refit": true,
+  "interval": "Conditional hotspot-stratified position-resampling interval on observed panel/fixed OOF; not generalization CI; no upstream measurement uncertainty.",
+  "negative_effects_allowed": true,
+  "new_p_values": false,
+  "no_outcome_dependent_model_or_mask_choice": true,
+  "overlapping_training_folds": true,
+  "primary_endpoint": "fitness_none",
+  "secondary_endpoints": [
+    "drug_specific_anidulafungin",
+    "drug_specific_caspofungin",
+    "drug_specific_micafungin"
+  ]
+}

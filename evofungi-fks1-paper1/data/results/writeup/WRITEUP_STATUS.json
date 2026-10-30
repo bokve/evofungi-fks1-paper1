@@ -1,0 +1,19 @@
+{
+  "author_admin_fields": "AUTHOR_INPUT_REQUIRED",
+  "docx": {
+    "format": "editable draft; Markdown tables remain plain text in DOCX",
+    "status": "EXECUTED_VALIDATED"
+  },
+  "manuscript_numbers_source_ledger": "CLAIM_LEDGER.csv",
+  "new_ESM_coverage": {
+    "all_finite": true,
+    "checkpoints": 5,
+    "partial_ensemble": false,
+    "position_jobs": 140,
+    "positions": 28,
+    "primary_AA": 435,
+    "theoretical_AA_no_phenotype": 532
+  },
+  "new_results_generated_from_actual_tables": true,
+  "status": "MANUSCRIPT_DRAFT_COMPLETE"
+}

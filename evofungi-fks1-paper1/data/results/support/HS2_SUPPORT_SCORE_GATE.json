@@ -1,0 +1,14 @@
+{
+  "bridge_caveat": "H490 hosted bridge and 339 historical overlap support scoring consistency; immutable hosted checkpoint bytes remain UNVERIFIED.",
+  "candidate_AA": 208,
+  "continuous_readcount_gate_used": false,
+  "exact_codons": 490,
+  "existing_GEMME_lookup_verified_on_RAW435": true,
+  "exploratory_protocol_sha256": "168bc66ad0646f338d00d7edd58832ecb1e912a38c31a4513fbdb0d75c328ae7",
+  "fitness_added": false,
+  "interpretation": "Exploratory categorical representation association, not lethality/causality/binomial biological replication",
+  "missing_AA": [],
+  "primary_Evo2_score_replaced": false,
+  "status": "EXECUTED_VALIDATED",
+  "zero_T0_support_AA": 23
+}

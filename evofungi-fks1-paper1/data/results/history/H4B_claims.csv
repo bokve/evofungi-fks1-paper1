@@ -1,0 +1,11 @@
+claim_id,evidence_label,allowed_statement,source,prohibited_inference
+C1,VERIFIED FACT,28 REF and 490 exact NNK ALT codons scored; 339 historical overlaps.,H1B2 and ALT490,All 490 have experimental fitness measurements.
+C2,VERIFIED FACT,G0 geometry has substantial position-held-out within-AA Evo2-score Q2.,H2,G0 is a causal molecular mechanism.
+C3,INTERPRETATION WITH UNCERTAINTY,G1 shows small positive incremental Q2 point estimates; sensitivity intervals span zero.,H3,G1 robustly improves prediction or proves codon-optimality learning.
+C4,VERIFIED FACT,All current model and matched-panel sensitivity intervals include zero.,H3,This proves equivalence or an exactly null effect.
+C5,INTERPRETATION WITH UNCERTAINTY,"Same-124-AA codon completion shows a small, uncertain change in G1 increment.",H3 paired,Ascertainment has no effect.
+C6,DESCRIPTIVE LIMITATION,Observed278 versus Theoretical490 changes AA-group and hotspot composition as well as codon support.,H0B and H4A,Cross-panel Q2 differences identify a causal ascertainment effect.
+C7,PROVENANCE LIMITATION,H0B detailed design followed observed F/G analyses; hosted immutable checkpoint identity is unverified.,H0B and H1B2,The entire study was blinded from inception.
+C8,TECHNICAL AMENDMENT,H4A required intervals to contain zero; this outcome-dependent QC rule is invalid and is not used by H4B.,H4A source,An interval excluding zero is a QC failure.
+C9,SCOPE BOUNDARY,NEW-3H uses no experimental phenotype; resistance analysis is reserved for NEW-4.,H0B,NEW-3H proves antifungal resistance prediction.
+C10,REPORTING LIMITATION,The H4A G1 figure is descriptive; all G0/G1/G2/M3 comparisons must remain available.,"H2, H3 and H4A",The selected figure establishes G1 superiority.

@@ -1,0 +1,16 @@
+{
+  "actual_scores_repeated": 19,
+  "atol": 1e-05,
+  "checkpoint": "esm1v_t33_650M_UR90S_1",
+  "checkpoint_byte_gate": {
+    "checkpoint_count": 5,
+    "lock_sha256": "de71c6071490f8ffeaf3cade4a089ac35a2adbb8fd5512cca6cf630497041910",
+    "status": "EXECUTED_VALIDATED"
+  },
+  "checkpoint_sha256": "9519ee60f1cddad3c101afb1f42612499e188534969c3f682e94850870f70433",
+  "maximum_absolute_difference": 1.1102230246251565e-16,
+  "position": 639,
+  "rtol": 1e-05,
+  "scope": "one actual cached-checkpoint position repeat; no phenotype association; no full inference rerun",
+  "status": "EXECUTED_VALIDATED"
+}

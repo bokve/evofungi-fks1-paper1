@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.venv*/
+.env*
+verification_run/
+historical_verification/
+rebuilt_figures/
+*.rds
+*.pt
+*.pth
+*.safetensors

@@ -1,0 +1,9 @@
+{
+  "all_finite": true,
+  "checkpoints": 5,
+  "partial_ensemble": false,
+  "position_jobs": 140,
+  "positions": 28,
+  "primary_AA": 435,
+  "theoretical_AA_no_phenotype": 532
+}

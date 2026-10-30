@@ -1,0 +1,15 @@
+CBC_figure,frozen_source_CSV,original_records_under_data_results,renderer
+Fig1,data/cbc_figures/Fig1_source.csv,hs2-core/HS2_CORE_SOURCE_TABLE.csv,scripts/rebuild_cbc_figures.py
+Fig2,data/cbc_figures/Fig2_source.csv,compare/COMPARISON_SUMMARIES.csv,scripts/rebuild_cbc_figures.py
+Fig3,data/cbc_figures/Fig3_source.csv,history/NEW2_summary.csv,scripts/rebuild_cbc_figures.py
+Fig4,data/cbc_figures/Fig4_source.csv,panels/RAW435.csv + esm-score/ESM_RAW435.csv,scripts/rebuild_cbc_figures.py
+Fig5,data/cbc_figures/Fig5_source.csv,history/H2_points.csv + history/H3_deltas.csv + history/NEW1_primary.csv,scripts/rebuild_cbc_figures.py
+S1,data/cbc_figures/S1_source.csv,compare/COMPARISON_SUMMARIES.csv,scripts/rebuild_cbc_figures.py
+S2a,data/cbc_figures/S2a_source.csv,panels/RAW435.csv + esm-score/ESM_RAW435.csv,scripts/rebuild_cbc_figures.py
+S2b,data/cbc_figures/S2b_source.csv,panels/RAW435.csv + esm-score/ESM_RAW435.csv,scripts/rebuild_cbc_figures.py
+S2c,data/cbc_figures/S2c_source.csv,panels/AUTHOR_REPLACEMENT435.csv + esm-score/ESM_RAW435.csv,scripts/rebuild_cbc_figures.py
+S2d,data/cbc_figures/S2d_source.csv,panels/AUTHOR_REPLACEMENT435.csv + esm-score/ESM_RAW435.csv,scripts/rebuild_cbc_figures.py
+S3,data/cbc_figures/S3_source.csv,compare/POSITION_DELETION_INFLUENCE.csv,scripts/rebuild_cbc_figures.py
+S4,data/cbc_figures/S4_source.csv,compare/COMPARISON_SUMMARIES.csv,scripts/rebuild_cbc_figures.py
+S5,data/cbc_figures/S5_source.csv,hs2-core/HS2_AA_MULTIPLICITY.csv,scripts/rebuild_cbc_figures.py
+S6,data/cbc_figures/S6_source.csv,history/M5_robustness.csv + history/method3_reliability.csv,scripts/rebuild_cbc_figures.py

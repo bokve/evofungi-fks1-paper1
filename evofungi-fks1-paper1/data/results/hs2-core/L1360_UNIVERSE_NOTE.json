@@ -1,0 +1,7 @@
+{
+  "observed_informative_same_AA_panel": "absent by group multiplicity, not by phenotype/model-performance exclusion",
+  "position": 1360,
+  "support_interpretation": "High-confidence source representation; not death or absolute survival. FINAL589 is T0-HC, not an additional time stage.",
+  "theoretical_H_panel": "present; distinguish 28-position H panel from observed 27-position same-AA panel",
+  "theoretical_design_present": true
+}

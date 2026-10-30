@@ -1,0 +1,35 @@
+test_missing_checkpoint_and_different_mask_are_rejected (test_comparison.EnsembleTests.test_missing_checkpoint_and_different_mask_are_rejected) ... ok
+test_heldout_y_does_not_enter_fit_and_masks_are_shared (test_comparison.GroupedComparisonTests.test_heldout_y_does_not_enter_fit_and_masks_are_shared) ... ok
+test_long_protein_window_preserves_target_and_length_at_edges (test_esm_contract.ESMContractTests.test_long_protein_window_preserves_target_and_length_at_edges) ... ok
+test_short_sequence_not_padded_or_truncated (test_esm_contract.ESMContractTests.test_short_sequence_not_padded_or_truncated) ... ok
+test_targets_are_phenotype_blind_and_use_all_five_checkpoints (test_esm_contract.ESMContractTests.test_targets_are_phenotype_blind_and_use_all_five_checkpoints) ... ok
+test_wrong_ref_and_duplicate_variant_stop_preparation (test_esm_contract.ESMContractTests.test_wrong_ref_and_duplicate_variant_stop_preparation) ... ok
+test_Q2_uses_training_mean_and_retains_negative (test_extension.ExtensionTests.test_Q2_uses_training_mean_and_retains_negative) ... ok
+test_conditional_draws_preserve_position_and_hotspot_and_undefined_is_NA (test_extension.ExtensionTests.test_conditional_draws_preserve_position_and_hotspot_and_undefined_is_NA) ... ok
+test_constant_and_rank_deficient_features_are_retained_and_audited (test_extension.ExtensionTests.test_constant_and_rank_deficient_features_are_retained_and_audited) ... ok
+test_paired_effect_is_median_of_differences_and_estimability_is_shared (test_extension.ExtensionTests.test_paired_effect_is_median_of_differences_and_estimability_is_shared) ... ok
+test_position_deletion_and_HS2_removal_rebuild_training (test_extension.ExtensionTests.test_position_deletion_and_HS2_removal_rebuild_training) ... ok
+test_replacement_control_changes_difference_without_affecting_other_AA (test_extension.ExtensionTests.test_replacement_control_changes_difference_without_affecting_other_AA) ... ok
+test_duplicate_variant_cannot_be_independent_observation (test_identity.IdentityTests.test_duplicate_variant_cannot_be_independent_observation) ... ok
+test_real_master_identity_strand_codon_and_phenotype_units (test_identity.IdentityTests.test_real_master_identity_strand_codon_and_phenotype_units) ... ok
+test_reverse_complement (test_identity.IdentityTests.test_reverse_complement) ... ok
+test_wrong_strand_and_copied_fitness_fail (test_identity.IdentityTests.test_wrong_strand_and_copied_fitness_fail) ... ok
+test_real_source_ledger_is_hashed_and_resumable (test_pipeline_cli.PipelineCLITests.test_real_source_ledger_is_hashed_and_resumable) ... ok
+test_cli_zero_exit_without_remote_success_is_failure (test_readiness.ReadinessTests.test_cli_zero_exit_without_remote_success_is_failure) ... ok
+test_duplicate_columns_and_bad_width_are_visible (test_readiness.ReadinessTests.test_duplicate_columns_and_bad_width_are_visible) ... ok
+test_invalid_json_is_error_not_success (test_readiness.ReadinessTests.test_invalid_json_is_error_not_success) ... ok
+test_proxy_and_oauth_query_secrets_are_redacted_without_losing_error (test_readiness.ReadinessTests.test_proxy_and_oauth_query_secrets_are_redacted_without_losing_error) ... ok
+test_real_aa_schema_and_unit (test_readiness.ReadinessTests.test_real_aa_schema_and_unit) ... ok
+test_remote_wrapper_uses_fresh_main_and_rejects_child_error (test_readiness.ReadinessTests.test_remote_wrapper_uses_fresh_main_and_rejects_child_error) ... ok
+test_tied_ranks (test_readiness.ReadinessTests.test_tied_ranks) ... ok
+test_minus_strand_full_genomic_translation_and_stop (test_reference.ReferenceTests.test_minus_strand_full_genomic_translation_and_stop) ... ok
+test_changed_input_and_params_invalidate_resume (test_stages.StageTests.test_changed_input_and_params_invalidate_resume) ... ok
+test_mutated_input_cannot_be_completed (test_stages.StageTests.test_mutated_input_cannot_be_completed) ... ok
+test_relocation_reuses_content_but_software_change_invalidates (test_stages.StageTests.test_relocation_reuses_content_but_software_change_invalidates) ... ok
+test_resume_checks_outputs_and_preserves_previous_attempt (test_stages.StageTests.test_resume_checks_outputs_and_preserves_previous_attempt) ... ok
+test_second_writer_is_rejected (test_stages.StageTests.test_second_writer_is_rejected) ... ok
+
+----------------------------------------------------------------------
+Ran 30 tests in 3.363s
+
+OK

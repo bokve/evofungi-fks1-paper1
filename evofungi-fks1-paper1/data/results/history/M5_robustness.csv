@@ -1,0 +1,5 @@
+analysis,gemme_column,weighted_training,within_position_centered_training,n_positions,median_rho_GEMME,median_rho_Evo2,median_rho_combo,median_delta_combo_minus_GEMME,bootstrap_CI_low,bootstrap_CI_high,positive_positions,negative_positions,zero_positions
+S1_unweighted_OLS_combined,gemme_norm_combi,False,False,28,0.1652692917419593,0.2122807017543859,0.232094943240454,0.0322017322449579,-0.0975002724607947,0.0784354925459297,16,12,0
+S2_GEMME_independent,gemme_norm_ind,True,False,24,0.1681333981664131,0.2122807017543859,0.2166666666666666,0.1445202482588108,0.0474112334175452,0.2156264467058727,18,6,0
+S2_GEMME_epistatic,gemme_norm_epi,True,False,23,0.2040417520644066,0.2122807017543859,0.2188837478311162,0.08823543474213,-0.0231404142692358,0.1539222160045823,15,8,0
+S3_within_position_centered,gemme_norm_combi,True,True,28,0.1652692917419593,0.2122807017543859,0.2144881434355118,0.0176291988137001,-0.0996450532287732,0.0784354925459297,15,13,0

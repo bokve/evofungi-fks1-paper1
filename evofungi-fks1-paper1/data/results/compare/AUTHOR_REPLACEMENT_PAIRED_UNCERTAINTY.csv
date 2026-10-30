@@ -1,0 +1,73 @@
+endpoint,sensitivity,analysis,contrast_or_model,paired_positions,conditional_change_low,conditional_change_high,interval_type
+fitness_none,FULL,zero-shot,Evo2,28,0.0,0.018575851393188847,conditional paired position-resampling change; fixed OOF records
+fitness_none,FULL,zero-shot,GEMME,28,-0.14005493427717788,0.0,conditional paired position-resampling change; fixed OOF records
+fitness_none,FULL,zero-shot,ESM,28,-0.05112170466272634,0.0,conditional paired position-resampling change; fixed OOF records
+fitness_none,FULL,zero-shot,ESM minus GEMME,28,0.0,0.10477149785230641,conditional paired position-resampling change; fixed OOF records
+fitness_none,FULL,zero-shot,ESM minus Evo2,28,0.0,0.019607843137254832,conditional paired position-resampling change; fixed OOF records
+fitness_none,FULL,zero-shot,Evo2 minus GEMME,28,0.0,0.0,conditional paired position-resampling change; fixed OOF records
+fitness_none,FULL,supervised-LOPO,GEMME_ESM,28,-0.07755247848127104,0.0,conditional paired position-resampling change; fixed OOF records
+fitness_none,FULL,supervised-LOPO,GEMME_ESM_Evo2,28,-0.07443708252531783,0.0,conditional paired position-resampling change; fixed OOF records
+fitness_none,FULL,supervised-LOPO,GEMME_ESM_Evo2 minus GEMME_ESM,28,-0.0360962566844919,0.044840041279669715,conditional paired position-resampling change; fixed OOF records
+drug_specific_anidulafungin,FULL,zero-shot,Evo2,28,0.0,0.0,conditional paired position-resampling change; fixed OOF records
+drug_specific_anidulafungin,FULL,zero-shot,GEMME,28,0.0,0.0,conditional paired position-resampling change; fixed OOF records
+drug_specific_anidulafungin,FULL,zero-shot,ESM,28,0.0,0.0,conditional paired position-resampling change; fixed OOF records
+drug_specific_anidulafungin,FULL,zero-shot,ESM minus GEMME,28,0.0,0.0,conditional paired position-resampling change; fixed OOF records
+drug_specific_anidulafungin,FULL,zero-shot,ESM minus Evo2,28,0.0,0.0,conditional paired position-resampling change; fixed OOF records
+drug_specific_anidulafungin,FULL,zero-shot,Evo2 minus GEMME,28,0.0,0.0,conditional paired position-resampling change; fixed OOF records
+drug_specific_anidulafungin,FULL,supervised-LOPO,GEMME_ESM,28,-0.08482033961910122,0.0,conditional paired position-resampling change; fixed OOF records
+drug_specific_anidulafungin,FULL,supervised-LOPO,GEMME_ESM_Evo2,28,0.0,0.0,conditional paired position-resampling change; fixed OOF records
+drug_specific_anidulafungin,FULL,supervised-LOPO,GEMME_ESM_Evo2 minus GEMME_ESM,28,0.0,0.0,conditional paired position-resampling change; fixed OOF records
+drug_specific_caspofungin,FULL,zero-shot,Evo2,28,0.0,0.0,conditional paired position-resampling change; fixed OOF records
+drug_specific_caspofungin,FULL,zero-shot,GEMME,28,0.0,0.0,conditional paired position-resampling change; fixed OOF records
+drug_specific_caspofungin,FULL,zero-shot,ESM,28,0.0,0.0,conditional paired position-resampling change; fixed OOF records
+drug_specific_caspofungin,FULL,zero-shot,ESM minus GEMME,28,0.0,0.0,conditional paired position-resampling change; fixed OOF records
+drug_specific_caspofungin,FULL,zero-shot,ESM minus Evo2,28,0.0,0.0,conditional paired position-resampling change; fixed OOF records
+drug_specific_caspofungin,FULL,zero-shot,Evo2 minus GEMME,28,0.0,0.0,conditional paired position-resampling change; fixed OOF records
+drug_specific_caspofungin,FULL,supervised-LOPO,GEMME_ESM,28,0.0,0.0,conditional paired position-resampling change; fixed OOF records
+drug_specific_caspofungin,FULL,supervised-LOPO,GEMME_ESM_Evo2,28,0.0,0.013186813186813168,conditional paired position-resampling change; fixed OOF records
+drug_specific_caspofungin,FULL,supervised-LOPO,GEMME_ESM_Evo2 minus GEMME_ESM,28,0.0,0.0026219394640447646,conditional paired position-resampling change; fixed OOF records
+drug_specific_micafungin,FULL,zero-shot,Evo2,28,0.0,0.01651186790505675,conditional paired position-resampling change; fixed OOF records
+drug_specific_micafungin,FULL,zero-shot,GEMME,28,0.0,0.029375587470447245,conditional paired position-resampling change; fixed OOF records
+drug_specific_micafungin,FULL,zero-shot,ESM,28,0.0,0.0,conditional paired position-resampling change; fixed OOF records
+drug_specific_micafungin,FULL,zero-shot,ESM minus GEMME,28,-0.040914130815985834,0.0,conditional paired position-resampling change; fixed OOF records
+drug_specific_micafungin,FULL,zero-shot,ESM minus Evo2,28,-0.00980392156862736,0.0,conditional paired position-resampling change; fixed OOF records
+drug_specific_micafungin,FULL,zero-shot,Evo2 minus GEMME,28,-0.013577387782912384,0.0,conditional paired position-resampling change; fixed OOF records
+drug_specific_micafungin,FULL,supervised-LOPO,GEMME_ESM,28,-0.037925696594427225,0.014705882352941207,conditional paired position-resampling change; fixed OOF records
+drug_specific_micafungin,FULL,supervised-LOPO,GEMME_ESM_Evo2,28,-0.043001219626606635,0.030102495543672003,conditional paired position-resampling change; fixed OOF records
+drug_specific_micafungin,FULL,supervised-LOPO,GEMME_ESM_Evo2 minus GEMME_ESM,28,-0.006191950464396308,0.035087719298245605,conditional paired position-resampling change; fixed OOF records
+fitness_none,_NO_HS2,zero-shot,Evo2,20,0.0,0.018575851393188847,conditional paired position-resampling change; fixed OOF records
+fitness_none,_NO_HS2,zero-shot,GEMME,20,-0.13279800631950042,0.0,conditional paired position-resampling change; fixed OOF records
+fitness_none,_NO_HS2,zero-shot,ESM,20,-0.07301341589267288,0.0,conditional paired position-resampling change; fixed OOF records
+fitness_none,_NO_HS2,zero-shot,ESM minus GEMME,20,0.0,0.0560399746758492,conditional paired position-resampling change; fixed OOF records
+fitness_none,_NO_HS2,zero-shot,ESM minus Evo2,20,0.0,0.039215686274509776,conditional paired position-resampling change; fixed OOF records
+fitness_none,_NO_HS2,zero-shot,Evo2 minus GEMME,20,0.0,0.0,conditional paired position-resampling change; fixed OOF records
+fitness_none,_NO_HS2,supervised-LOPO,GEMME_ESM,20,-0.10852150945030202,0.0,conditional paired position-resampling change; fixed OOF records
+fitness_none,_NO_HS2,supervised-LOPO,GEMME_ESM_Evo2,20,-0.08508771929824561,0.00038699690402471676,conditional paired position-resampling change; fixed OOF records
+fitness_none,_NO_HS2,supervised-LOPO,GEMME_ESM_Evo2 minus GEMME_ESM,20,-0.04240196078431374,0.02683178534571723,conditional paired position-resampling change; fixed OOF records
+drug_specific_anidulafungin,_NO_HS2,zero-shot,Evo2,20,0.0,0.0,conditional paired position-resampling change; fixed OOF records
+drug_specific_anidulafungin,_NO_HS2,zero-shot,GEMME,20,0.0,0.0,conditional paired position-resampling change; fixed OOF records
+drug_specific_anidulafungin,_NO_HS2,zero-shot,ESM,20,0.0,0.0,conditional paired position-resampling change; fixed OOF records
+drug_specific_anidulafungin,_NO_HS2,zero-shot,ESM minus GEMME,20,0.0,0.0,conditional paired position-resampling change; fixed OOF records
+drug_specific_anidulafungin,_NO_HS2,zero-shot,ESM minus Evo2,20,0.0,0.0,conditional paired position-resampling change; fixed OOF records
+drug_specific_anidulafungin,_NO_HS2,zero-shot,Evo2 minus GEMME,20,0.0,0.0,conditional paired position-resampling change; fixed OOF records
+drug_specific_anidulafungin,_NO_HS2,supervised-LOPO,GEMME_ESM,20,0.0,0.005263157894736831,conditional paired position-resampling change; fixed OOF records
+drug_specific_anidulafungin,_NO_HS2,supervised-LOPO,GEMME_ESM_Evo2,20,0.0,0.0,conditional paired position-resampling change; fixed OOF records
+drug_specific_anidulafungin,_NO_HS2,supervised-LOPO,GEMME_ESM_Evo2 minus GEMME_ESM,20,-0.016769865841073303,0.01764705882352944,conditional paired position-resampling change; fixed OOF records
+drug_specific_caspofungin,_NO_HS2,zero-shot,Evo2,20,0.0,0.0,conditional paired position-resampling change; fixed OOF records
+drug_specific_caspofungin,_NO_HS2,zero-shot,GEMME,20,0.0,0.0,conditional paired position-resampling change; fixed OOF records
+drug_specific_caspofungin,_NO_HS2,zero-shot,ESM,20,0.0,0.0,conditional paired position-resampling change; fixed OOF records
+drug_specific_caspofungin,_NO_HS2,zero-shot,ESM minus GEMME,20,0.0,0.0,conditional paired position-resampling change; fixed OOF records
+drug_specific_caspofungin,_NO_HS2,zero-shot,ESM minus Evo2,20,0.0,0.0,conditional paired position-resampling change; fixed OOF records
+drug_specific_caspofungin,_NO_HS2,zero-shot,Evo2 minus GEMME,20,0.0,0.0,conditional paired position-resampling change; fixed OOF records
+drug_specific_caspofungin,_NO_HS2,supervised-LOPO,GEMME_ESM,20,0.0,0.0,conditional paired position-resampling change; fixed OOF records
+drug_specific_caspofungin,_NO_HS2,supervised-LOPO,GEMME_ESM_Evo2,20,0.0,0.0,conditional paired position-resampling change; fixed OOF records
+drug_specific_caspofungin,_NO_HS2,supervised-LOPO,GEMME_ESM_Evo2 minus GEMME_ESM,20,0.0,0.0,conditional paired position-resampling change; fixed OOF records
+drug_specific_micafungin,_NO_HS2,zero-shot,Evo2,20,0.0,0.01651186790505675,conditional paired position-resampling change; fixed OOF records
+drug_specific_micafungin,_NO_HS2,zero-shot,GEMME,20,0.0,0.032304463389292964,conditional paired position-resampling change; fixed OOF records
+drug_specific_micafungin,_NO_HS2,zero-shot,ESM,20,0.0,0.0,conditional paired position-resampling change; fixed OOF records
+drug_specific_micafungin,_NO_HS2,zero-shot,ESM minus GEMME,20,-0.012405984965942127,0.0,conditional paired position-resampling change; fixed OOF records
+drug_specific_micafungin,_NO_HS2,zero-shot,ESM minus Evo2,20,-0.017156862745098027,0.0,conditional paired position-resampling change; fixed OOF records
+drug_specific_micafungin,_NO_HS2,zero-shot,Evo2 minus GEMME,20,-0.028540517763800455,0.0,conditional paired position-resampling change; fixed OOF records
+drug_specific_micafungin,_NO_HS2,supervised-LOPO,GEMME_ESM,20,-0.03496503496503496,0.04166666666666666,conditional paired position-resampling change; fixed OOF records
+drug_specific_micafungin,_NO_HS2,supervised-LOPO,GEMME_ESM_Evo2,20,-0.035693305662345964,0.024509803921568596,conditional paired position-resampling change; fixed OOF records
+drug_specific_micafungin,_NO_HS2,supervised-LOPO,GEMME_ESM_Evo2 minus GEMME_ESM,20,-0.047058823529411875,0.030517753660168512,conditional paired position-resampling change; fixed OOF records

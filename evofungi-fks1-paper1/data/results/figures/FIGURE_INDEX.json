@@ -1,0 +1,156 @@
+[
+  {
+    "caption": "Exact-genotype and AA-group representation across the targeted design. Top: exhaustive NNK missense design, source PRE high-confidence and T0 high-confidence support; FINAL589 equals T0-HC and is not a later survival stage. Bottom: designed AA groups, represented AA groups and groups retaining multiple exact codons. L1360 remains represented in the theoretical design but has no observed informative multi-codon AA group. Canonical positions derive from sequence. Support loss is not lethality. No uncertainty bars: exhaustive design descriptions; historical B3 reused.",
+    "code": "paper1/figures.py",
+    "code_sha256": "f19bfed0dc7ac3f8d969eb3e444d1b8b559b3cc3850e99a414f135673432124b",
+    "exports": [
+      "Fig1_ascertainment.pdf",
+      "Fig1_ascertainment.svg",
+      "Fig1_ascertainment.png"
+    ],
+    "figure": "Fig1_ascertainment",
+    "source_CSV": "Fig1_ascertainment_source.csv",
+    "source_sha256": "0a479104a22b2188d3132df70f2a636482c5db17b9f25b220c32ab7c088cbd39",
+    "visual_inspection": "PENDING_ACTUAL_RENDER_REVIEW"
+  },
+  {
+    "caption": "RAW435 matched zero-shot benchmark. Equal-position median signed Spearman correlations, using positions estimable for all three predictors on the same finite AA panel (counts beneath points). Lines are pointwise 95% conditional hotspot-stratified position-resampling intervals (10,000 draws); they condition on the observed panel and exclude phenotype measurement uncertainty. They are not formal superiority tests or new-landscape generalization CIs. Drug\u2212control endpoints are secondary.",
+    "code": "paper1/figures.py",
+    "code_sha256": "f19bfed0dc7ac3f8d969eb3e444d1b8b559b3cc3850e99a414f135673432124b",
+    "exports": [
+      "Fig2_matched_benchmark.pdf",
+      "Fig2_matched_benchmark.svg",
+      "Fig2_matched_benchmark.png"
+    ],
+    "figure": "Fig2_matched_benchmark",
+    "source_CSV": "Fig2_matched_benchmark_source.csv",
+    "source_sha256": "4cb16dac2c2dc36b20764120313f6f3cfaa864d3101930bc03d87f2cd10b0728",
+    "visual_inspection": "PENDING_ACTUAL_RENDER_REVIEW"
+  },
+  {
+    "caption": "All planned paired zero-shot contrasts. Median of position-level rho differences, not difference of medians. Conditional resampling intervals as in Figure 2; all planned contrasts/endpoints shown without outcome selection.",
+    "code": "paper1/figures.py",
+    "code_sha256": "f19bfed0dc7ac3f8d969eb3e444d1b8b559b3cc3850e99a414f135673432124b",
+    "exports": [
+      "FigS1_paired_zero_shot.pdf",
+      "FigS1_paired_zero_shot.svg",
+      "FigS1_paired_zero_shot.png"
+    ],
+    "figure": "FigS1_paired_zero_shot",
+    "source_CSV": "FigS1_paired_zero_shot_source.csv",
+    "source_sha256": "abc9a4ac73e767f99ff1d4975f041f266f48fa5bf7150184d04d657d59874691",
+    "visual_inspection": "PENDING_ACTUAL_RENDER_REVIEW"
+  },
+  {
+    "caption": "Left: reused NEW-2 condition-specific standardized within-position slopes, with original model-based 95% Wald intervals; repeated-measure hierarchical model, not refitted. Right: new supervised position-held-out OLS comparison, GEMME+ESM+Evo2 minus GEMME+ESM, summarized as median paired OOF rho difference. Right-hand intervals resample fixed OOF position records; overlapping LOPO training folds and upstream phenotype uncertainty prevent interpretation as validated generalization CIs. Panels answer different questions and have different units.",
+    "code": "paper1/figures.py",
+    "code_sha256": "f19bfed0dc7ac3f8d969eb3e444d1b8b559b3cc3850e99a414f135673432124b",
+    "exports": [
+      "Fig3_slopes_and_increment.pdf",
+      "Fig3_slopes_and_increment.svg",
+      "Fig3_slopes_and_increment.png"
+    ],
+    "figure": "Fig3_slopes_and_increment",
+    "source_CSV": "Fig3_slopes_and_increment_source.csv",
+    "source_sha256": "10a98839f9a38f0082a62aa1eea2e7d8eaae9f45201feb0d7feddf0090b3f2fb",
+    "visual_inspection": "PENDING_ACTUAL_RENDER_REVIEW"
+  },
+  {
+    "caption": "Original NEW-4 functional-fitness \u00d7 drug-selective-effect landscape, RAW435. One point per AA substitution. Three drug\u2212control outcomes versus drug-free fitness, with plain phenotype and fixed model overlays. All values shown; each score uses a consistent full-range scale across drugs. Zero axes do not define clinical categories. No classifier, optimized threshold, clinical resistance or causal trade-off inference. Author replacements are a separately labeled source sensitivity.",
+    "code": "paper1/figures.py",
+    "code_sha256": "f19bfed0dc7ac3f8d969eb3e444d1b8b559b3cc3850e99a414f135673432124b",
+    "exports": [
+      "Fig4_NEW4_landscape.pdf",
+      "Fig4_NEW4_landscape.svg",
+      "Fig4_NEW4_landscape.png"
+    ],
+    "figure": "Fig4_NEW4_landscape",
+    "source_CSV": "Fig4_NEW4_landscape_source.csv",
+    "source_sha256": "9348af09145fd16b307006ec66413d747dfa0aa45067d3b1d5ab615ceb58de67",
+    "visual_inspection": "PENDING_ACTUAL_RENDER_REVIEW"
+  },
+  {
+    "caption": "Original NEW-4 functional-fitness \u00d7 drug-selective-effect landscape, AUTHOR_REPLACEMENT435. One point per AA substitution. Three drug\u2212control outcomes versus drug-free fitness, with plain phenotype and fixed model overlays. All values shown; each score uses a consistent full-range scale across drugs. Zero axes do not define clinical categories. No classifier, optimized threshold, clinical resistance or causal trade-off inference. Author replacements are a separately labeled source sensitivity.",
+    "code": "paper1/figures.py",
+    "code_sha256": "f19bfed0dc7ac3f8d969eb3e444d1b8b559b3cc3850e99a414f135673432124b",
+    "exports": [
+      "FigS2_author_landscape.pdf",
+      "FigS2_author_landscape.svg",
+      "FigS2_author_landscape.png"
+    ],
+    "figure": "FigS2_author_landscape",
+    "source_CSV": "FigS2_author_landscape_source.csv",
+    "source_sha256": "cfa8e342afbdd33a8c0a7167439d7a690c382b6ace31489678c82719f1b42a08",
+    "visual_inspection": "PENDING_ACTUAL_RENDER_REVIEW"
+  },
+  {
+    "caption": "Reused historical evidence, not newly refitted. H2 predicts within-AA Evo2 score variation rather than experimental fitness; G0 edit geometry is technical attribution. H3 bars are support-preserving Dirichlet sensitivity intervals, not sampling CIs, posteriors or p-values. NEW-1 shows the original signed structural-context tests, preserving uncertain/negative findings and original bootstrap intervals. Caspofungin structural context does not establish equivalent binding geometry for the other drugs. No new structural features or mutant simulations.",
+    "code": "paper1/figures.py",
+    "code_sha256": "f19bfed0dc7ac3f8d969eb3e444d1b8b559b3cc3850e99a414f135673432124b",
+    "exports": [
+      "Fig5_codon_and_structure.pdf",
+      "Fig5_codon_and_structure.svg",
+      "Fig5_codon_and_structure.png"
+    ],
+    "figure": "Fig5_codon_and_structure",
+    "source_CSV": "Fig5_codon_and_structure_source.csv",
+    "source_sha256": "97cac64656e557fb19448b65288d3dfa863c4b0ac4f6c9519848436426aed8b1",
+    "visual_inspection": "PENDING_ACTUAL_RENDER_REVIEW"
+  },
+  {
+    "caption": "Exhaustive single-position deletion stability. Each point removes the named position from training and testing and rebuilds both LOPO models. All positions are shown; these are stability summaries, not independent tests or confidence intervals. Full RAW435 remains primary.",
+    "code": "paper1/figures.py",
+    "code_sha256": "f19bfed0dc7ac3f8d969eb3e444d1b8b559b3cc3850e99a414f135673432124b",
+    "exports": [
+      "FigS3_position_influence.pdf",
+      "FigS3_position_influence.svg",
+      "FigS3_position_influence.png"
+    ],
+    "figure": "FigS3_position_influence",
+    "source_CSV": "FigS3_position_influence_source.csv",
+    "source_sha256": "c5a8b251b872decf56d4bf9021df0ac06b90ca8d40a2bc3b54eebc5d1d0119c6",
+    "visual_inspection": "PENDING_ACTUAL_RENDER_REVIEW"
+  },
+  {
+    "caption": "All prespecified new LOPO sensitivity panels/endpoints: primary raw, author replacement, and removal of all HS2 positions from both training and testing. Fixed features/models and shared AA masks within comparisons. Conditional fixed-OOF intervals as in Figure 3; no sensitivity was selected as a new primary.",
+    "code": "paper1/figures.py",
+    "code_sha256": "f19bfed0dc7ac3f8d969eb3e444d1b8b559b3cc3850e99a414f135673432124b",
+    "exports": [
+      "FigS4_fixed_sensitivities.pdf",
+      "FigS4_fixed_sensitivities.svg",
+      "FigS4_fixed_sensitivities.png"
+    ],
+    "figure": "FigS4_fixed_sensitivities",
+    "source_CSV": "FigS4_fixed_sensitivities_source.csv",
+    "source_sha256": "e7017df9632e8fb3ea757fd277b34a182c9d39dd638a07c23768fff6a063de52",
+    "visual_inspection": "PENDING_ACTUAL_RENDER_REVIEW"
+  },
+  {
+    "caption": "Categorical representation of the theoretical multi-codon AA universe, separated by hotspot. Designed codons and observed support are distinct units. These reused B3 descriptions do not quantify absolute survival or continuous depletion; the H208 feature gate is separate.",
+    "code": "paper1/figures.py",
+    "code_sha256": "f19bfed0dc7ac3f8d969eb3e444d1b8b559b3cc3850e99a414f135673432124b",
+    "exports": [
+      "FigS5_codon_representation.pdf",
+      "FigS5_codon_representation.svg",
+      "FigS5_codon_representation.png"
+    ],
+    "figure": "FigS5_codon_representation",
+    "source_CSV": "FigS5_codon_representation_source.csv",
+    "source_sha256": "16c203d9ad6727a98d31fa098221a3e79f159a8f431256a6e9628f892b2e197d",
+    "visual_inspection": "PENDING_ACTUAL_RENDER_REVIEW"
+  },
+  {
+    "caption": "Reused M5 and Method 3 summaries with their original bootstrap intervals. The M5 combined/independent/epistatic estimable-position denominators differ and are printed explicitly; a favorable alternative component is not substituted as the primary. Method 3 describes the existing within-AA measurement-resolution check, not an independent codon-fitness ground truth or new clinical validation. No historical refit or uncertainty recalculation.",
+    "code": "paper1/figures.py",
+    "code_sha256": "f19bfed0dc7ac3f8d969eb3e444d1b8b559b3cc3850e99a414f135673432124b",
+    "exports": [
+      "FigS6_historical_robustness.pdf",
+      "FigS6_historical_robustness.svg",
+      "FigS6_historical_robustness.png"
+    ],
+    "figure": "FigS6_historical_robustness",
+    "source_CSV": "FigS6_historical_robustness_source.csv",
+    "source_sha256": "a9bad156bc0f6e30015d4594f9ccb285abecfea885d5c3fe1dbe147bd5f61221",
+    "visual_inspection": "PENDING_ACTUAL_RENDER_REVIEW"
+  }
+]

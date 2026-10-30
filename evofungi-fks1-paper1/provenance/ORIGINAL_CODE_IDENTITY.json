@@ -1,0 +1,207 @@
+[
+  {
+    "path": "paper1/esm_scoring.py",
+    "sha256": "18854cbadb48072a38fe80184ded3c565244cd269aa10d4d113503c6a1ab9029",
+    "original_code_or_fixture_unchanged": true
+  },
+  {
+    "path": "paper1/esm_finalize.py",
+    "sha256": "1d7098e8260a19a0265327295ae03c1b1175c285e1a7b5900e9d22e8b5c0940d",
+    "original_code_or_fixture_unchanged": true
+  },
+  {
+    "path": "paper1/task_status.py",
+    "sha256": "d198bb1053209ef035af0f96a59d66ceb3594be2e6fd41bc04c4a9a4a2e981f4",
+    "original_code_or_fixture_unchanged": true
+  },
+  {
+    "path": "paper1/panels.py",
+    "sha256": "1bb987dd2c56041cf36d151fbecd172f484e7412b8f990cc7b40f000cea5b46f",
+    "original_code_or_fixture_unchanged": true
+  },
+  {
+    "path": "paper1/figures.py",
+    "sha256": "f19bfed0dc7ac3f8d969eb3e444d1b8b559b3cc3850e99a414f135673432124b",
+    "original_code_or_fixture_unchanged": true
+  },
+  {
+    "path": "paper1/checkpoint_gate.py",
+    "sha256": "298486b313559cc58369ef5ef0bb8a650e7514be66db3e552375de3d7287b819",
+    "original_code_or_fixture_unchanged": true
+  },
+  {
+    "path": "paper1/support_analysis.py",
+    "sha256": "57ecd8f5ac7c45695510f1034657cb1bf4aabf76c7efd2a00fae4d91a4e864d3",
+    "original_code_or_fixture_unchanged": true
+  },
+  {
+    "path": "paper1/reference.py",
+    "sha256": "914ad56c29d3cb4d8beaa718928698ff7440f148653aa2aaf4307f3f0221c97b",
+    "original_code_or_fixture_unchanged": true
+  },
+  {
+    "path": "paper1/analysis.py",
+    "sha256": "6f69e92ce14f084c48b8dc7bd05d6057b01398bbe4c226c26c3dfa0e504255a1",
+    "original_code_or_fixture_unchanged": true
+  },
+  {
+    "path": "paper1/writeup.py",
+    "sha256": "30da90c2081fac882dafcadb2429c1bfba3a34a85d74f178f9ca47d0d05de1ff",
+    "original_code_or_fixture_unchanged": true
+  },
+  {
+    "path": "paper1/lineage.py",
+    "sha256": "34441e81988b0d8bb52cdc86ec6f100c180e0d8ba879914cf3326275e998e20b",
+    "original_code_or_fixture_unchanged": true
+  },
+  {
+    "path": "paper1/stages.py",
+    "sha256": "fc7c087f470fe4aafafed2890bc5ea838e94eb2839d744a41943fb2049cfd467",
+    "original_code_or_fixture_unchanged": true
+  },
+  {
+    "path": "paper1/__init__.py",
+    "sha256": "46f4c07e64d54656dc31f1dfd8e7d9eb23101367900754c4450bb4f978df2d85",
+    "original_code_or_fixture_unchanged": true
+  },
+  {
+    "path": "paper1/metrics.py",
+    "sha256": "7df36ca2aedd9fa8f2f5657210947431edea2e204c370be0a9f3a75228bb972b",
+    "original_code_or_fixture_unchanged": true
+  },
+  {
+    "path": "paper1/execution.py",
+    "sha256": "2289a20a941cc02359bd58d3d68e5e004db94ce30796975b3136bdd7c14f1647",
+    "original_code_or_fixture_unchanged": true
+  },
+  {
+    "path": "paper1/esm_contract.py",
+    "sha256": "0dbf97e2cd84d6c22906d1a88c4f7073506312e755e756d2c612770dce24abeb",
+    "original_code_or_fixture_unchanged": true
+  },
+  {
+    "path": "paper1/context_stages.py",
+    "sha256": "e262c8c8b382903d22f5a72c764de2ff0a050531104b64bfd8ae7d3eac0547dd",
+    "original_code_or_fixture_unchanged": true
+  },
+  {
+    "path": "paper1/identity.py",
+    "sha256": "c8a3c4a7abbbeb9564727e1c3c7c2105af1fc642ba1f35181bdf23eb8ad6824d",
+    "original_code_or_fixture_unchanged": true
+  },
+  {
+    "path": "paper1/release.py",
+    "sha256": "8ee7cb165a8c1286f6b8bf98ba91646a3d35186002bec483272670180d78927a",
+    "original_code_or_fixture_unchanged": true
+  },
+  {
+    "path": "paper1/__main__.py",
+    "sha256": "afdec7e6eac36874d25eddfb2d55f9d7eb3dd770127a53edfefee1ec36be0dac",
+    "original_code_or_fixture_unchanged": true
+  },
+  {
+    "path": "paper1/comparison.py",
+    "sha256": "c5e69c9562f22caac357ced181e3d679a3a7ef6aa3e6d3dafedea2b3218d2cf2",
+    "original_code_or_fixture_unchanged": true
+  },
+  {
+    "path": "paper1/esm_execution.py",
+    "sha256": "a25b7232a0a9fedf9f54be60fe0aea74cbf1aa0b578d355f607476e9b5faf05f",
+    "original_code_or_fixture_unchanged": true
+  },
+  {
+    "path": "paper1/esm_reuse.py",
+    "sha256": "c376fc167a06af1625cac879640ab3e635bfe867c8cd9be0b1455065f8db3ebf",
+    "original_code_or_fixture_unchanged": true
+  },
+  {
+    "path": "paper1/verification.py",
+    "sha256": "8d9287c72b4916be1f72b3426635fe9c0067e4b524e6a8ab531158bfdab83b33",
+    "original_code_or_fixture_unchanged": true
+  },
+  {
+    "path": "tests/test_stages.py",
+    "sha256": "53f7ad42d9f405ec05dfe515821b728f22ac4dc5666f5d760c71e52e2647eff6",
+    "original_code_or_fixture_unchanged": true
+  },
+  {
+    "path": "tests/test_extension.py",
+    "sha256": "9257a1a4dc0f2a80b6b755fdd24652152e02a74d92c873e47126c48e77a60f84",
+    "original_code_or_fixture_unchanged": true
+  },
+  {
+    "path": "tests/test_comparison.py",
+    "sha256": "47ac384839e346c03360ec6167bb7475740c715bd1289ac972def991b56e48e0",
+    "original_code_or_fixture_unchanged": true
+  },
+  {
+    "path": "tests/test_esm_contract.py",
+    "sha256": "70b9e0e99bfb6366ac0f5544a57f5d41e756164ac3c7f421755104900c8dc700",
+    "original_code_or_fixture_unchanged": true
+  },
+  {
+    "path": "tests/test_identity.py",
+    "sha256": "1fbcf03f6191dd39f0adf3394f5670e27749723e54339bbc647f52133f716d12",
+    "original_code_or_fixture_unchanged": true
+  },
+  {
+    "path": "tests/test_readiness.py",
+    "sha256": "9f770061cc8a78300649e3272c5f45c3c5b453daf3db41f1000e85daa4b3ae06",
+    "original_code_or_fixture_unchanged": true
+  },
+  {
+    "path": "tests/test_reference.py",
+    "sha256": "0c7bb636dc3b8305825b47b1ca6442d9d8c197e5ee56337612f82039ebc8f353",
+    "original_code_or_fixture_unchanged": true
+  },
+  {
+    "path": "tests/test_pipeline_cli.py",
+    "sha256": "34b432008d691ec0ae429a2c558bf0245fa1086ed0795b97152d76dadd9adbd3",
+    "original_code_or_fixture_unchanged": true
+  },
+  {
+    "path": "reference_audit/evidence/02_processed_data/MASTER_AA_TABLE_v0.1.csv",
+    "sha256": "637c1b4cf2da7b6084bd66c44a898c5230f19b8a605114975ea43faa9a635a28",
+    "original_code_or_fixture_unchanged": true
+  },
+  {
+    "path": "reference_audit/evidence/02_processed_data/MASTER_VARIANT_TABLE_v0.1_exact_codons.csv",
+    "sha256": "d0f966a442acf27cf1292d611b558d44ab398d165559104add1c066a642fbb98",
+    "original_code_or_fixture_unchanged": true
+  },
+  {
+    "path": "reference_audit/evidence/historical_records/P1_NEW3_AH_FORENSIC_REAUDIT_v1.1.md",
+    "sha256": "52755b7e53ccaab533f9a83502d10a46f44ee2016ec9c20111b6642e1674c9ce",
+    "original_code_or_fixture_unchanged": true
+  },
+  {
+    "path": "reference_audit/evidence/historical_records/P1_NEW3_AH_INTEGRATION_AUDIT_v1.0.json",
+    "sha256": "30fcaf6f2faffe259168bfa5a923d7a381d5767faba048802dfd5cebb6542f5b",
+    "original_code_or_fixture_unchanged": true
+  },
+  {
+    "path": "reference_audit/evidence/historical_records/P1_NEW3_AH_UNSELECTED_NUMERIC_LEDGER_v1.0.csv",
+    "sha256": "682fd05efa4e18205dacecf5d7b79e3c999e995269baaa15def9be99a97da398",
+    "original_code_or_fixture_unchanged": true
+  },
+  {
+    "path": "reference_audit/evidence/05_results/paper1_hierarchical/P1_NEW2_MODULE_RESULT_SUMMARY_v1.0.csv",
+    "sha256": "e638b2792b9efe5fe858edb3a9d42dd78ec3f3d1d85aa6c8c09397748cadb28f",
+    "original_code_or_fixture_unchanged": true
+  },
+  {
+    "path": "tools/audit_handoff.py",
+    "sha256": "cfb979a8568bae24ce67689a016255e9f0bc9b859a31dce7f75e9c64372d0ed8",
+    "original_code_or_fixture_unchanged": true
+  },
+  {
+    "path": "tools/remote_intake.py",
+    "sha256": "50604bd3fffcee8272409337ed06f29d5779bd58fc0b26629fe0b25746f7ed8d",
+    "original_code_or_fixture_unchanged": true
+  },
+  {
+    "path": "tools/run_remote_readiness.py",
+    "sha256": "ebe91bc08155de7b357a07e05e42c336a9b09a68acbd3a81268457ddfb3a6757",
+    "original_code_or_fixture_unchanged": true
+  }
+]

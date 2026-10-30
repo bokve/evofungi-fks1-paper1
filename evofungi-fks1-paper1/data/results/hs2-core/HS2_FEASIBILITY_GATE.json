@@ -1,0 +1,185 @@
+{
+  "categorical_score_support_independent_gate": true,
+  "configuration_sha256": "b953a158bdb85b62cb8036563620115c657098512cfe977d3d952c2fa9130938",
+  "configuration_source": "/content/drive/MyDrive/EvoFungi_AMR/07_reports/PAPER1_PREPARATION_2026_10_17/provenance-97dc0faa10bc409fa22e51ac5c17f855/pinned_author_sources/config/config.yaml",
+  "no_additional_pseudocount": true,
+  "requirements": {
+    "denominator_count_provenance": "raw count and denominator fields absent from selected frequency exports",
+    "material_transformation_relationship": "not documented by existing source metadata",
+    "platform_library_normalization": "cannot establish comparable units; PRE-HS2 metadata anomaly retained",
+    "replicate_pairing": "PRE/mainrun labels do not establish paired biological material",
+    "zero_support": "source confidence labels do not identify absolute survival"
+  },
+  "scope": "one bounded read of already located exports and pinned source configuration; no ratio computed",
+  "sources": [
+    {
+      "count_denominator_columns": [],
+      "metadata": [
+        {
+          "Replicate": 1,
+          "Sample attributes": "BY4741__FKS1__HS1__FKS1-HS1",
+          "Sample_name": "S-FKS1-HS1",
+          "Timepoint": "T0"
+        }
+      ],
+      "role": "frequency_0",
+      "sha256": "7cf9a5ceeefd7e48d4cbb28b81c66d4b64519066d72ed5df326e2e4a3767305e",
+      "source_path": "/content/drive/MyDrive/EvoFungi_AMR/01_raw_data/Durand_et_al_2026_d08f8da6d492_ascertainment_exact_commit/pre/freq_libraries/freq_BY4741__FKS1__HS1__FKS1-HS1.csv"
+    },
+    {
+      "count_denominator_columns": [],
+      "metadata": [
+        {
+          "Replicate": 2,
+          "Sample attributes": "BY4741__FKS1__HS1__FKS1-HS1__none",
+          "Sample_name": "BY_FKS1-HS1_T0_2",
+          "Timepoint": "T0"
+        },
+        {
+          "Replicate": 3,
+          "Sample attributes": "BY4741__FKS1__HS1__FKS1-HS1__none",
+          "Sample_name": "BY_FKS1-HS1_T0_3",
+          "Timepoint": "T0"
+        },
+        {
+          "Replicate": 2,
+          "Sample attributes": "BY4741__FKS1__HS1__FKS1-HS1__none",
+          "Sample_name": "BY_FKS1-HS1_non_T2_2",
+          "Timepoint": "T2"
+        },
+        {
+          "Replicate": 3,
+          "Sample attributes": "BY4741__FKS1__HS1__FKS1-HS1__none",
+          "Sample_name": "BY_FKS1-HS1_non_T2_3",
+          "Timepoint": "T2"
+        }
+      ],
+      "role": "frequency_1",
+      "sha256": "60903f3c66581f95a6e627c6f29563f90bbbd8de53053a23dd53f324eb46f513",
+      "source_path": "/content/drive/MyDrive/EvoFungi_AMR/01_raw_data/Durand_et_al_2026_d08f8da6d492_ascertainment_exact_commit/results/df/distribution_freq/freq_BY4741__FKS1__HS1__FKS1-HS1__none.csv"
+    },
+    {
+      "count_denominator_columns": [],
+      "metadata": [
+        {
+          "Replicate": 1,
+          "Sample attributes": "BY4741__FKS1__HS1__FKS1-HS2",
+          "Sample_name": "S-FKS1-HS2",
+          "Timepoint": "T0"
+        }
+      ],
+      "role": "frequency_2",
+      "sha256": "c355219ac2cc617a78dfef1f70549ded5ccbe9d930209a1e24ee6fe099d25a55",
+      "source_path": "/content/drive/MyDrive/EvoFungi_AMR/01_raw_data/Durand_et_al_2026_d08f8da6d492_ascertainment_exact_commit/pre/freq_libraries/freq_BY4741__FKS1__HS2__FKS1-HS2.csv"
+    },
+    {
+      "count_denominator_columns": [],
+      "metadata": [
+        {
+          "Replicate": 1,
+          "Sample attributes": "BY4741__FKS1__HS2__FKS1-HS2__none",
+          "Sample_name": "BY_FKS1-HS2_T0_1",
+          "Timepoint": "T0"
+        },
+        {
+          "Replicate": 2,
+          "Sample attributes": "BY4741__FKS1__HS2__FKS1-HS2__none",
+          "Sample_name": "BY_FKS1-HS2_T0_2",
+          "Timepoint": "T0"
+        },
+        {
+          "Replicate": 3,
+          "Sample attributes": "BY4741__FKS1__HS2__FKS1-HS2__none",
+          "Sample_name": "BY_FKS1-HS2_T0_3",
+          "Timepoint": "T0"
+        },
+        {
+          "Replicate": 1,
+          "Sample attributes": "BY4741__FKS1__HS2__FKS1-HS2__none",
+          "Sample_name": "BY_FKS1-HS2_non_T2_1",
+          "Timepoint": "T2"
+        },
+        {
+          "Replicate": 2,
+          "Sample attributes": "BY4741__FKS1__HS2__FKS1-HS2__none",
+          "Sample_name": "BY_FKS1-HS2_non_T2_2",
+          "Timepoint": "T2"
+        },
+        {
+          "Replicate": 3,
+          "Sample attributes": "BY4741__FKS1__HS2__FKS1-HS2__none",
+          "Sample_name": "BY_FKS1-HS2_non_T2_3",
+          "Timepoint": "T2"
+        }
+      ],
+      "role": "frequency_3",
+      "sha256": "92e97b640ab5addb9447f74a9786a98c2a96a22f9d4687a813154807878a9be7",
+      "source_path": "/content/drive/MyDrive/EvoFungi_AMR/01_raw_data/Durand_et_al_2026_d08f8da6d492_ascertainment_exact_commit/results/df/distribution_freq/freq_BY4741__FKS1__HS2__FKS1-HS2__none.csv"
+    },
+    {
+      "count_denominator_columns": [],
+      "metadata": [
+        {
+          "Replicate": 1,
+          "Sample attributes": "BY4741__FKS1__HS3__FKS1-HS3",
+          "Sample_name": "S1-FKS1-HS3",
+          "Timepoint": "T0"
+        },
+        {
+          "Replicate": 2,
+          "Sample attributes": "BY4741__FKS1__HS3__FKS1-HS3",
+          "Sample_name": "S2-FKS1-HS3",
+          "Timepoint": "T0"
+        },
+        {
+          "Replicate": 3,
+          "Sample attributes": "BY4741__FKS1__HS3__FKS1-HS3",
+          "Sample_name": "S3-FKS1-HS3",
+          "Timepoint": "T0"
+        },
+        {
+          "Replicate": 4,
+          "Sample attributes": "BY4741__FKS1__HS3__FKS1-HS3",
+          "Sample_name": "S4-FKS1-HS3",
+          "Timepoint": "T0"
+        }
+      ],
+      "role": "frequency_4",
+      "sha256": "9100bae2be813516d095ec336fad474fc4bd03d963e04785118e4222000f7d2f",
+      "source_path": "/content/drive/MyDrive/EvoFungi_AMR/01_raw_data/Durand_et_al_2026_d08f8da6d492_ascertainment_exact_commit/pre/freq_libraries/freq_BY4741__FKS1__HS3__FKS1-HS3.csv"
+    },
+    {
+      "count_denominator_columns": [],
+      "metadata": [
+        {
+          "Replicate": 2,
+          "Sample attributes": "BY4741__FKS1__HS3__FKS1-HS3__none",
+          "Sample_name": "BY_FKS1-HS3_T0_2",
+          "Timepoint": "T0"
+        },
+        {
+          "Replicate": 3,
+          "Sample attributes": "BY4741__FKS1__HS3__FKS1-HS3__none",
+          "Sample_name": "BY_FKS1-HS3_T0_3",
+          "Timepoint": "T0"
+        },
+        {
+          "Replicate": 2,
+          "Sample attributes": "BY4741__FKS1__HS3__FKS1-HS3__none",
+          "Sample_name": "BY_FKS1-HS3_non_T2_2",
+          "Timepoint": "T2"
+        },
+        {
+          "Replicate": 3,
+          "Sample attributes": "BY4741__FKS1__HS3__FKS1-HS3__none",
+          "Sample_name": "BY_FKS1-HS3_non_T2_3",
+          "Timepoint": "T2"
+        }
+      ],
+      "role": "frequency_5",
+      "sha256": "36fce69ab85e4b7b953b89ad0d4ad6d576e2b474a10b8cfc225933e67aaa4319",
+      "source_path": "/content/drive/MyDrive/EvoFungi_AMR/01_raw_data/Durand_et_al_2026_d08f8da6d492_ascertainment_exact_commit/results/df/distribution_freq/freq_BY4741__FKS1__HS3__FKS1-HS3__none.csv"
+    }
+  ],
+  "status": "BLOCKED_INPUT"
+}

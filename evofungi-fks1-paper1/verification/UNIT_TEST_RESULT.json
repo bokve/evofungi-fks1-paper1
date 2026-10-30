@@ -1,0 +1,10 @@
+{
+  "status": "PASS",
+  "tests_run": 30,
+  "skipped": 0,
+  "failures": 0,
+  "errors": 0,
+  "date": "2026-10-29",
+  "command": "python -m unittest discover -s tests -v",
+  "scope": "Original suite in staged standalone package after restoring three unchanged original helper modules"
+}

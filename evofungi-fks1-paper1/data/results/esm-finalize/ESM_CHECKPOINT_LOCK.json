@@ -1,0 +1,72 @@
+[
+  {
+    "GPU": "Tesla T4",
+    "acquisition_url": "https://dl.fbaipublicfiles.com/fair-esm/models/esm1v_t33_650M_UR90S_1.pt",
+    "bytes": 7828635339,
+    "checkpoint": "esm1v_t33_650M_UR90S_1",
+    "device": "cuda:0",
+    "dtype": "torch.float32",
+    "eval": true,
+    "remote_cache_path": "/content/evofungi-model-cache/checkpoints/esm1v_t33_650M_UR90S_1.pt",
+    "scoring": "masked_marginal_ALT_minus_WT",
+    "seed": 20261018,
+    "sha256": "9519ee60f1cddad3c101afb1f42612499e188534969c3f682e94850870f70433",
+    "token_capacity": 1024
+  },
+  {
+    "GPU": "Tesla T4",
+    "acquisition_url": "https://dl.fbaipublicfiles.com/fair-esm/models/esm1v_t33_650M_UR90S_2.pt",
+    "bytes": 7828635339,
+    "checkpoint": "esm1v_t33_650M_UR90S_2",
+    "device": "cuda:0",
+    "dtype": "torch.float32",
+    "eval": true,
+    "remote_cache_path": "/content/evofungi-model-cache/checkpoints/esm1v_t33_650M_UR90S_2.pt",
+    "scoring": "masked_marginal_ALT_minus_WT",
+    "seed": 20261018,
+    "sha256": "5b7b095e8eafc53ccfe5994b954fb756bfe7a081f22b4caa1ed59b77b90bcf81",
+    "token_capacity": 1024
+  },
+  {
+    "GPU": "Tesla T4",
+    "acquisition_url": "https://dl.fbaipublicfiles.com/fair-esm/models/esm1v_t33_650M_UR90S_3.pt",
+    "bytes": 7828635339,
+    "checkpoint": "esm1v_t33_650M_UR90S_3",
+    "device": "cuda:0",
+    "dtype": "torch.float32",
+    "eval": true,
+    "remote_cache_path": "/content/evofungi-model-cache/checkpoints/esm1v_t33_650M_UR90S_3.pt",
+    "scoring": "masked_marginal_ALT_minus_WT",
+    "seed": 20261018,
+    "sha256": "bc5cb2f2a1b35def284e2b2833ae58c803ca9c61b16b72c1dd54c54e76df0b67",
+    "token_capacity": 1024
+  },
+  {
+    "GPU": "Tesla T4",
+    "acquisition_url": "https://dl.fbaipublicfiles.com/fair-esm/models/esm1v_t33_650M_UR90S_4.pt",
+    "bytes": 7828635339,
+    "checkpoint": "esm1v_t33_650M_UR90S_4",
+    "device": "cuda:0",
+    "dtype": "torch.float32",
+    "eval": true,
+    "remote_cache_path": "/content/evofungi-model-cache/checkpoints/esm1v_t33_650M_UR90S_4.pt",
+    "scoring": "masked_marginal_ALT_minus_WT",
+    "seed": 20261018,
+    "sha256": "44750a28c09f7ba9e7ccb7aeaba812cbbe90eb2a8a2c658dc5fa165f7090a15a",
+    "token_capacity": 1024
+  },
+  {
+    "GPU": "Tesla T4",
+    "acquisition_url": "https://dl.fbaipublicfiles.com/fair-esm/models/esm1v_t33_650M_UR90S_5.pt",
+    "bytes": 7828635531,
+    "checkpoint": "esm1v_t33_650M_UR90S_5",
+    "device": "cuda:0",
+    "dtype": "torch.float32",
+    "eval": true,
+    "remote_cache_path": "/content/evofungi-model-cache/checkpoints/esm1v_t33_650M_UR90S_5.pt",
+    "scoring": "masked_marginal_ALT_minus_WT",
+    "seed": 20261018,
+    "sha256": "69ffd06be29aaaf105eda919f23e5ac4a6872e7907fbf1f087fd942abdb3adf7",
+    "token_capacity": 1024
+  }
+]

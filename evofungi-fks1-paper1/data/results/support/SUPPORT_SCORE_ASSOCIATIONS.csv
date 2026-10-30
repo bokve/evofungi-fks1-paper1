@@ -1,0 +1,7 @@
+contrast_or_model,point,conditional_low,conditional_high,n_positions,interval_type,B,seed
+Evo2_theoretical_H_median,0.1285861249684099,-0.01835557745535881,0.40509860831569505,21,"95% conditional hotspot-stratified position-resampling interval; fixed records, not generalization CI",10000,20261018
+GEMME,0.21389631597324926,0.10393492741038725,0.4277926319464985,21,"95% conditional hotspot-stratified position-resampling interval; fixed records, not generalization CI",10000,20261018
+ESM,0.18704390591656492,0.044543540318737404,0.2806804457119199,21,"95% conditional hotspot-stratified position-resampling interval; fixed records, not generalization CI",10000,20261018
+ESM minus GEMME,0.04955312319900684,-0.20063268843707802,0.12667876370687547,21,"95% conditional hotspot-stratified position-resampling interval; fixed records, not generalization CI",10000,20261018
+ESM minus Evo2_theoretical_H_median,0.0,-0.12275715403505905,0.13098420799889599,21,"95% conditional hotspot-stratified position-resampling interval; fixed records, not generalization CI",10000,20261018
+Evo2_theoretical_H_median minus GEMME,-0.056001535753578774,-0.2616739323946278,0.19830435884363065,21,"95% conditional hotspot-stratified position-resampling interval; fixed records, not generalization CI",10000,20261018

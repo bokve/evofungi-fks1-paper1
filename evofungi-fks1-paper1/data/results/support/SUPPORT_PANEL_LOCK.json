@@ -1,0 +1,39 @@
+{
+  "AA_groups": 208,
+  "Evo2_summary": "new median over existing theoretical H codons; historical primary AA score unchanged",
+  "exact_codons": 490,
+  "feature_gate_passed_before_association": true,
+  "locked_utc": "2026-10-17T23:24:21.685061+00:00",
+  "panel_sha256": "f628772dfdd3e2190bb95212e0a6abde4907e9ed82e7920d39d09caa2d254b07",
+  "protocol_sha256": "168bc66ad0646f338d00d7edd58832ecb1e912a38c31a4513fbdb0d75c328ae7",
+  "sources": {
+    "alt490": {
+      "path": "/content/drive/MyDrive/EvoFungi_AMR/04_evo2_scores/P1_NEW3H1B2_NOTEBOOK_HOSTED7B_v1/ALT490_CURRENT_HOSTED7B_v0.1.csv",
+      "sha256": "0946f945f0ca102ee4f1f132cc24ba0642d0c846fa3bb03878af08a1576c4187"
+    },
+    "esm-score/ESM_ENSEMBLE.csv": {
+      "path": "/content/drive/MyDrive/EvoFungi_AMR/05_results/PAPER1_EXECUTION_2026_10_18/esm-score/291bce6c267ed53b78e8c871c74a319525a564136fc953ba219750261962f241/attempt-6e1bd60ac07e423b8c44ea1ff4b23288/ESM_ENSEMBLE.csv",
+      "sha256": "5af3086eb2fe4d32f29dcfbfa5d241764496df15fc8713f702dd152c1c13f531"
+    },
+    "gemme": {
+      "path": "/content/drive/MyDrive/EvoFungi_AMR/02_processed_data/evolutionary_baselines/gemme_paper1/M4_GEMME_SCORES_435_v1.0.csv",
+      "sha256": "24bda4a3f20f8a7c83216be780178deea1f3f7741b766761b8d76091c7e478f9"
+    },
+    "gemme_matrix": {
+      "path": "/content/drive/MyDrive/EvoFungi_AMR/05_results/gemme_paper1/raw_webserver/GEMME_results/normPred_evolCombi.txt",
+      "sha256": "11d63d738836a17953c853000ac5be160228d4c59f61832300d8c70a60ca84cc"
+    },
+    "h_membership": {
+      "path": "/content/drive/MyDrive/EvoFungi_AMR/03_qc/P1_NEW3H/P1_NEW3H0B_ANALYSIS_PANEL_MEMBERSHIP_v1.0.csv",
+      "sha256": "8db18d5d91f597b01bd33534e90ba189594a56c73ee044b656ae0d3d05f3c48c"
+    },
+    "multiplicity": {
+      "path": "/content/drive/MyDrive/EvoFungi_AMR/05_results/paper1_codon_attribution/P1_NEW3B3_AA_CODON_MULTIPLICITY_v1.0.csv",
+      "sha256": "c46856457c22a20a5590b1c6460ca5b705162f375d582e6f0cb0dcf3e4ee031b"
+    },
+    "protein": {
+      "path": "/content/drive/MyDrive/EvoFungi_AMR/05_results/PAPER1_PREPARATION_2026_10_17/derive-reference/7386cb7010cebcae02e0ab702c248e3130e02153421af54ae9fda8b249c02bc3/attempt-9b40bf1114ae4b5fbb5628e0169e4d7f/BY4741_FKS1_verified.fasta",
+      "sha256": "46661182067dcfe3dfb9c1d6e709531c4931b3f5017542f16c2f81c8d3bfe288"
+    }
+  }
+}

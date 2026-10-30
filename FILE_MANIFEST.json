@@ -22,8 +22,8 @@
       "sha256": "f650c2d39c2e0ed4946b233587c7d4416be394ac4299f6256e835dc23a619d2b"
     },
     "README.md": {
-      "bytes": 5223,
-      "sha256": "3abec30aa9172b98e79bc3ab3e4138f7b3757fd095223d4a781405d1aeb9d639"
+      "bytes": 5422,
+      "sha256": "b61894fb5a4cf88ea7ea0bc65229e4325a62a0caace11261698037a3ef4360d2"
     },
     "RIGHTS.md": {
       "bytes": 1591,
@@ -542,8 +542,8 @@
       "sha256": "ccc87a655d82d6d2f1633d3c85ed8aa210730f10f3a371062cd69155ea010bcf"
     },
     "provenance/RELEASE_IDENTITY.json": {
-      "bytes": 441,
-      "sha256": "dcd5eb897825d91ea9e424026d83d9a0b461cf28eb2e5fec79cc8f5f525ff8c5"
+      "bytes": 505,
+      "sha256": "1a6667cf6a415de910934a3a1bdc42a1f25da3a86d78e1aecf7315adb968c244"
     },
     "provenance/SOFTWARE_LOCK.json": {
       "bytes": 3495,

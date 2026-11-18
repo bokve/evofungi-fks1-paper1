@@ -1,0 +1,4 @@
+arm,planned,valid,failed,exceedances,observed_LR,tail_plus1_if_no_failures,failure_bound_lower,failure_bound_upper,MC95_envelope_lower,MC95_envelope_upper,retries,timeouts
+G,999,999,0,1,17.2691595675715,0.002,0.002,0.002,2.53428300004834e-05,0.005564476040714,0,0
+T5E,999,999,0,0,17.2691595675715,0.001,0.001,0.001,0.0,0.0036857628657393,0,0
+T5ALL,999,999,0,0,17.2691595675715,0.001,0.001,0.001,0.0,0.0036857628657393,0,0

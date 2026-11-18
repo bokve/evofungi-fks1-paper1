@@ -1,0 +1,26 @@
+analysis,result_type,term,estimate,CI95_low,CI95_high,formal_p_value,inferential_role
+C0A_primary_omnibus,primary_omnibus_LRT,condition_specific_slopes_equal,17.2691595675715,,,0.000622133068893,"single official NEW-2 primary inferential test; LR statistic, df=3"
+C1_primary_REML,condition_specific_slope,evo2_slope_none,0.105080647386727,0.0143819285858064,0.195779366187648,,primary effect estimation
+C1_primary_REML,condition_specific_slope,evo2_slope_anidulafungin,0.0548216763351563,-0.0269765260501268,0.136619878720439,,primary effect estimation
+C1_primary_REML,condition_specific_slope,evo2_slope_caspofungin,-0.0548522934826375,-0.130201792972716,0.0204972060074409,,primary effect estimation
+C1_primary_REML,condition_specific_slope,evo2_slope_micafungin,-0.0674152391228296,-0.145824380665218,0.0109939024195588,,primary effect estimation
+R1_rank_scale,condition_specific_slope,evo2_slope_none,0.0410509138989711,0.0079588274259075,0.0741430003720346,,secondary directional robustness
+R1_rank_scale,condition_specific_slope,evo2_slope_anidulafungin,0.0181665055151234,-0.0046611841241335,0.0409941951543805,,secondary directional robustness
+R1_rank_scale,condition_specific_slope,evo2_slope_caspofungin,-0.0163073739088271,-0.0384061405055612,0.0057913926879069,,secondary directional robustness
+R1_rank_scale,condition_specific_slope,evo2_slope_micafungin,-0.0238290567372113,-0.0447453115210699,-0.0029128019533527,,secondary directional robustness
+R2_source_aggregate,condition_specific_slope,evo2_slope_none,0.119811638600318,0.0038357685400074,0.235787508660628,,secondary directional robustness
+R2_source_aggregate,condition_specific_slope,evo2_slope_anidulafungin,0.0584965785482347,-0.0290029853503562,0.145996142446826,,secondary directional robustness
+R2_source_aggregate,condition_specific_slope,evo2_slope_caspofungin,-0.0741703664366799,-0.164315156244756,0.0159744233713963,,secondary directional robustness
+R2_source_aggregate,condition_specific_slope,evo2_slope_micafungin,-0.0665262983890004,-0.144210136903661,0.01115754012566,,secondary directional robustness
+C1_primary_REML,planned_contrast,delta_AF_vs_none,-0.050258971051571,-0.151352906413061,0.0508349643099187,,primary planned effect-size contrast
+C1_primary_REML,planned_contrast,delta_CF_vs_none,-0.159932940869365,-0.256085495880242,-0.0637803858584879,,primary planned effect-size contrast
+C1_primary_REML,planned_contrast,delta_MF_vs_none,-0.172495886509557,-0.270966438314779,-0.0740253347043348,,primary planned effect-size contrast
+C1_primary_REML,planned_contrast,delta_mean_drug_vs_none,-0.127562599476831,-0.212190871042542,-0.0429343279111203,,primary planned effect-size contrast
+R1_rank_scale,planned_contrast,delta_AF_vs_none,-0.0228844083838476,-0.0580487953752381,0.0122799786075428,,secondary directional robustness
+R1_rank_scale,planned_contrast,delta_CF_vs_none,-0.0573582878077982,-0.092104331076238,-0.0226122445393584,,secondary directional robustness
+R1_rank_scale,planned_contrast,delta_MF_vs_none,-0.0648799706361824,-0.0989681627940867,-0.0307917784782781,,secondary directional robustness
+R1_rank_scale,planned_contrast,delta_mean_drug_vs_none,-0.0483742222759427,-0.0800648476792725,-0.0166835968726129,,secondary directional robustness
+R2_source_aggregate,planned_contrast,delta_AF_vs_none,-0.061315060052083,-0.180015754430298,0.0573856343261323,,secondary directional robustness
+R2_source_aggregate,planned_contrast,delta_CF_vs_none,-0.193982005036998,-0.314624847070445,-0.0733391630035503,,secondary directional robustness
+R2_source_aggregate,planned_contrast,delta_MF_vs_none,-0.186337936989318,-0.298247911550907,-0.0744279624277288,,secondary directional robustness
+R2_source_aggregate,planned_contrast,delta_mean_drug_vs_none,-0.147211667359466,-0.253537092798689,-0.0408862419202437,,secondary directional robustness

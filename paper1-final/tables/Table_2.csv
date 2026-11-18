@@ -1,0 +1,7 @@
+endpoint,statistic,estimate,conditional_low,conditional_high,n_positions,B,seed,retrospective
+drug_specific_anidulafungin,signed_C_minus_target,0.1228070175438596,0.0722910216718265,0.2411764705882354,28,10000,20261108,True
+drug_specific_anidulafungin,absolute_C_minus_target,0.0681114551083591,-0.0708720330237358,0.1403508771929823,28,10000,20261108,True
+drug_specific_caspofungin,signed_C_minus_target,0.3021978021978022,0.1031991744066047,0.3509358288770053,28,10000,20261108,True
+drug_specific_caspofungin,absolute_C_minus_target,-0.0141802469975844,-0.1768261150614092,0.0925934746368183,28,10000,20261108,True
+drug_specific_micafungin,signed_C_minus_target,0.3627708978328172,0.1622171945701357,0.5119711042311661,28,10000,20261108,True
+drug_specific_micafungin,absolute_C_minus_target,0.0310371517027864,-0.0967032967032968,0.0753036437246963,28,10000,20261108,True

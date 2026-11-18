@@ -1,5 +1,13 @@
 # Fixed sequence scores in a yeast Fks1 fitness landscape
 
+## November 2026 manuscript files
+
+The [18 November manuscript summary package](paper1-final/) contains the three final tables, aggregate sources for Figures 1–5, and a renderer for those figures. It covers the seven endpoints, including total growth under drug, and the updated five-score summary table.
+
+The [30 October snapshot](https://github.com/bokve/evofungi-fks1-paper1/tree/d21573281a20fd5844a7b1dd9e5776a3b4ec11ad) contains the original software replay and scientific-archive description. The instructions below describe that replay.
+
+## October 2026 replay
+
 Code and frozen numerical records for the computational reanalysis by Muhammed Ali Boz, prepared for Computational Biology and Chemistry. Release candidate v1.0.0, 29 October 2026. This is not a clinical resistance classifier or a new experimental study.
 
 The primary panel contains 435 amino acid substitutions, represented by 589 exact genotypes, at 28 selected positions in one Saccharomyces cerevisiae protein. Fixed Evo2, GEMME and five-member ESM-1v scores are evaluated against drug-free fitness and separately against drug-minus-control outcomes. Zero-shot scores and supervised score combinations are distinct analyses.
